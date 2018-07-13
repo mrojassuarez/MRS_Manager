@@ -10,16 +10,16 @@ namespace VirfacVsQA
     class Program
     {
         // Virfac
-        //const string NAS_FolderName = "1_4_3";
-        //const string NAS_Folder = "\\\\Geonx-fs\\PUBLIC\\Virfac_QA\\" + NAS_FolderName;
-        //const string Virfac_FolderName = "Virfac_143";
-        //const string Virfac_Folder = "C:\\Users\\212686427\\Documents\\Sources\\" + Virfac_FolderName + "\\VirfacApp\\bin\\Release";
+        const string NAS_FolderName = "1_4_3";
+        const string NAS_Folder = "\\\\Geonx-fs\\PUBLIC\\Virfac_QA\\" + NAS_FolderName;
+        const string Virfac_FolderName = "Virfac_143";
+        const string Virfac_Folder = "C:\\Users\\212686427\\Documents\\Sources\\" + Virfac_FolderName + "\\VirfacApp\\bin\\Release";
 
         // iAM
-        const string NAS_FolderName = "1_3_QA";
-        const string NAS_Folder = "\\\\Geonx-fs\\PUBLIC\\Virfac_iAM_QA\\" + NAS_FolderName;
-        const string Virfac_FolderName = "Virfac-AM";
-        const string Virfac_Folder = "C:\\Users\\{0}\\Documents\\Sources\\" + Virfac_FolderName + "\\Virfac-iAM\\bin\\Release";
+        //const string NAS_FolderName = "1_3_QA";
+        //const string NAS_Folder = "\\\\Geonx-fs\\PUBLIC\\Virfac_iAM_QA\\" + NAS_FolderName;
+        //const string Virfac_FolderName = "Virfac-AM";
+        //const string Virfac_Folder = "C:\\Users\\{0}\\Documents\\Sources\\" + Virfac_FolderName + "\\Virfac-iAM\\bin\\Release";
         static void Main(string[] args)
         {
             string userName = Environment.UserName;
