@@ -1,0 +1,2619 @@
+//-----
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/MAT2/MAT2.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/MAT14/MAT14.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/W1.2/W1.2.vfc 
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/HT5/HT5.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/HT5_2/HT5_2.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/HT6/HT6.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/EM3/EM3.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/EM4/EM4.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/GL1/GL1.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/HT6/HT6.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/HT7/HT7.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/HT7_1/HT7_1.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/HT8/HT8.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/HT9/HT9.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/MAT15/MAT15.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/MAT16/MAT16.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/MAT16_1/MAT16_1.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/HT10_1/HT10_1.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/HT11/HT11.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/DESELEC01/DESELEC01.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/WS01/WS01.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/NewProject/NewProject.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/WeldingScheduler_Tjoint/WeldingScheduler_Tjoint.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/WeldingScheduler_Tjoint_2/WeldingScheduler_Tjoint_2.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/Crankshaft_HeatingTest_01/Crankshaft_HeatingTest_01.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/HT12/HT12.vfc
+-OpenProject C:/Users/Manuel/Desktop/T-joint_2/T-joint_2.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/Virfac_Bugs/Bug902/Bug902.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.3/WeldingScheduler_Tjoint_3/WeldingScheduler_Tjoint_3.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/FSW/FSW.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/FSW_8_1/FSW_8_1.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.3.1/WS_test/WS_test.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.3.1/WS_test_2/WS_test_2.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.3.1/WS_test/WS_test.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.3.1/WS_test_4/WS_test_4.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.3.1/General_test/General_test.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.3.1/Bugs_Folder/Tjoint_Designer/Tjoint_Designer.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.3.1/T-joint_3/T-joint_3.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/FSW_10_1/FSW_10_1.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/ALM_Cone3/ALM_Cone3.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/FSW_2016.02.05/FSW_2016.02.05.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/WS_2016.02.11/WS_2016.02.11.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/H45/H45.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/MDirect_01/MDirect_01.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/WS_2016.03.18/WS_2016.03.18.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/WS_2016.03.30/WS_2016.03.30.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/WS_2016.04.18/WS_2016.04.18.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/WS_WD_2016.05.11/WS_WD_2016.05.11.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/WD_WS_1635/WD_WS_1635.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/WS_test_5/WS_test_5.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/WD_2016.05.24/WD_2016.05.24.vfc 
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/Bugs/ATP/ATP.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/2016.08.03_WeldBeads/2016.08.03_WeldBeads.vfc 
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/WS_WD_2016.05.11/WS_WD_2016.05.11.vfc 
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/RM_931/RM_931.vfc 
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/Bugs/vermeer/vermeer.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/Bugs/2137_NewProjectCrashAdjust/NewProjectCrashAdjust.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4.2/Meso/Meso.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4/Bugs/LocalModel_7/LocalModel_7.vfc --forceConversion
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4.2/TJOINT1/TJOINT1.vfc
+-OpenProject C:/Users/Manuel/Documents/VirfacProjects/1.4.2/AM_SimpleCantilever/AM_SimpleCantilever.vfc --forceConversion
+
+
+\\GEONX-FS\Virfac_QA\1_4_2_Release\(Redmine-NUMBER)\   (binaries files from ..\\VirfacApp\bin\Release\)
+
+\\GEONX-FS\Virfac_QA\1_4_3\(Redmine-NUMBER)\   (binaries files from ..\\VirfacApp\bin\Release\)
+\\GEONX-FS\Virfac_QA\2706_2398_2376_1806\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//------
+
+Do you have sound technical background in the application management and development area? Can you demonstrate ability in working within cross-functional teams? Do you have excellent communication skills? If the answer is yes, this job is for you!
+
+ 
+
+NATO Communications and Information Agency (NCI Agency) is looking for Engineer (Application Developer) with recent and relevant solid expertise in Software Engineering, capable to execute various technical tasks in support of Service Owners and System Managers.
+
+ 
+
+Role responsibilities
+
+ 
+
+The NCI Agency has been established with a view to meeting to the best advantage the collective requirements of some or all NATO nations in the fields of capability delivery and service provision related to Consultation, Command & Control as well as Communications, Information and Cyber Defence functions, thereby also facilitating the integration of Intelligence, Surveillance, Reconnaissance, Target Acquisition functions and their associated information exchange.
+
+ 
+
+You will undertake the execution of a range of important technical tasks to support the various Service Owners and System Managers in the Service Support and Business Applications (SSBA) Service Line (SL). This requires sound technical background in the application management and development area and the ability to demonstrate tact and sensitive political awareness as a member of multinational technical teams. It further includes co-operating closely with current and potential customers as well as internal stakeholders in diverse organizations.
+
+ 
+
+Under the overall direction of the Service Owner(s), the incumbent will perform duties such as the following:
+
+    Supporting in-service operations of the system, including:
+        Support and operation of the assigned system(s);
+        Monitoring of performance of the assigned systems;
+        Provision of support services in accordance with the NCI Agency support levels, roles and responsibilities;
+        Analysis, design, implementation and maintenance of changes to system authorised by Service Change Control Approval Board (SCCAB);
+        Support to configuration management, release and testing;
+        Identification and implementation of improvement opportunities both within the systems and the processes;
+        Provision of subject matter expertise and advice as required;
+        Maintenance of the operational & support environments;
+        Technical reviews, walkthroughs and audits. 
+    Gathering and reporting metrics and Key Performance Indicators (KPIs);
+    Acting as Point of contact with CIS Support Units (CSU) and other support staff for daily operations of the system;
+    Contribution to the NCI Agency communication with end users and operational sponsor(s);
+    Active contribution to relevant projects or service operation across Service Lines where integration is required;
+    Provision of input to the preparation of functional and technical specifications for software and hardware with special focus on the SSBA SL domain;
+    Provision of professional and technical contributions in the conception, development and co-ordination related to all aspects of software development within the SL projects or services;
+    Provision of briefings and presentations;
+    Acting as System Manager when required;
+    Performing other duties as may be required. 
+
+ 
+
+Person specification
+
+Qualifications required:
+
+ 
+
+You will hold a university degree in computer science, information and communication technology or closely related scientific or engineering discipline, preferably equivalent to a Master's degree and supplemented by relevant postgraduate qualifications. Exceptionally, the lack of a university degree may be compensated by the demonstration of particular abilities and at least five years' experience of interest to the Agency.
+
+ 
+
+Experience required:
+
+ 
+
+You will be required to prove at least 2 years relevant experience in various areas of Software Engineering including the following:
+
+    Requirements elicitation and management;
+    Software design, implementation and testing;
+    Programming techniques and methodologies associated with the duties described above;
+    Configuration management practices and tools;
+    Agile software development methodologies;
+    Design and implementation of Human Machine Interfaces. 
+
+ 
+
+In addition, you need to demonstrate:
+
+    Knowledge and experience in state-of-the-art technologies, relevant to software engineering, e.g.:
+        Programming languages and platforms, like C++, C# and Java, .NET, WCF, WPF, HTML5, REST Services, Web Services, XML, SQL;
+        Application server technologies;
+        Multi-tiered, distributed systems;
+        Service-Oriented architectures;
+        Relational data base management systems;
+        Web authoring, design and administration tools. 
+    Knowledge of commonly used standards and best practices for software engineering, including design patterns;
+    Knowledge of international, commercial/industrial standards for information processing and transfer of information;
+    Knowledge of ITIL IT service management model;
+    Knowledge of Incident and Problem Management processes and experience in this area;
+    Ability to communicate effectively orally and in writing with good briefing skills. 
+
+ 
+
+It will be considered and asset if you can demonstrate:
+
+    Knowledge of military and/or civilian logistic processes and/or applications;
+    Analytical capability and knowledge of concepts and technologies in areas such as systems analysis, data fusion, decision-making and data processing;
+    Former experience and knowledge of Service Transition processes like Release and Deployment, Test and Validation and Change Management;
+    Cloud computing, SaaS;
+    Experience with the use of standard architecture frameworks;
+    Experience with data modelling of complex systems;
+    Application management/development teamwork experience;
+    Prior experience of working in an international environment comprising both military and civilian elements;
+    Ability to work in cross functional teams;
+    Knowledge of NATO responsibilities and organization, including ACO and ACT. 
+
+ 
+
+Competencies Required
+
+Presenting and Communicating Information - Speaks fluently; expresses opinions, information and key points of an argument clearly; makes presentations and undertakes public speaking with skill and confidence; responds quickly to the needs of an audience and to their reactions and feedback; projects credibility.
+
+Writing and Reporting - Writes convincingly; writes clearly, succinctly and correctly; avoids the unnecessary use of jargon or complicated language; writes in a well-structured and logical way; structures information to meet the needs and understanding of the intended audience.
+
+Working with People - Shows respect for the views and contributions of other team members; shows empathy; listens, supports and cares for others; consults others and shares information and expertise with them; builds team spirit and reconciles conflict; adapts to the team and fits in well.
+
+Adhering to Principles and Values - Upholds ethics and values; demonstrates integrity; promotes and defends equal opportunities, builds diverse teams; encourages organisational and individual responsibility towards the community and the environment.
+
+Relating and Networking - Easily establishes good relationships with customers and staff; relates well to people at all levels; builds wide and effective networks of contacts; uses humour appropriately to bring warmth to relationships with others.
+
+Persuading and Influencing - Gains clear agreement and commitment from others by persuading, convincing and negotiating; makes effective use of political processes to influence and persuade others; promotes ideas on behalf of oneself or others; makes a strong personal impact on others; takes care to manage one’s impression on others.
+
+Planning and Organising - Sets clearly defined objectives; plans activities and projects well in advance and takes account of possible changing circumstances; identifies and organises resources needed to accomplish tasks; manages time effectively; monitors performance against deadlines and milestones.
+
+Applying Expertise and Technology - Applies specialist and detailed technical expertise; uses technology to achieve work objectives; develops job knowledge and expertise (theoretical and practical) through continual professional development; demonstrates an understanding of different organisational departments and functions.
+
+Delivering Results and Meeting Customer Expectations - Focuses on customer needs and satisfaction; sets high standards for quality and quantity; monitors and maintains quality and productivity; works in a systematic, methodical and orderly way; consistently achieves project goals.
+
+ 
+
+Language skills:
+
+A thorough knowledge of one of the two NATO languages, both written and spoken, is essential and some knowledge of the other is desirable. NOTE: Most of the work of the NCI Agency is conducted in the English language.
+
+ 
+
+Travel:
+
+Business travel to NATO and national (NATO and non-NATO) facilities as well as travel between NCI Agency locations. May be required to undertake duty travel to operational theatres inside and outside NATO boundaries.
+
+ 
+
+What do we offer?
+
+    Excellent tax-free salary, including (where eligible) expatriation household and children's allowances and additional privileges for expatriate staff.
+    Education allowance for children (where appropriate) and an excellent private health insurance scheme.
+    Generous annual leave and home leave (if eligible).
+    Retirement Pension Plan.
+	
+	
+	//----
+	
+	
+	
+. Please indicate if you have relevant experience in various areas of Software Engineering including the following:This field is mandatory
+Requirements elicitation and management
+-Software design, implementation and testing
+-Programming techniques and methodologies associated with the duties of the position
+Configuration management practices and tools
+-Agile software development methodologies
+-Design and implementation of Human Machine Interfaces.
+None of the above
+
+4. Please describe the content of your professional experience in Software Engineering, highlighting your most important achievements related to the areas you checked in the previous question.
+
+*** - I have got nine years of experience working in software development. I have been involved in all the development process, from the customers requirements to the testing process, but my expertise is designing and developing software. In my work experience, I have worked using diferent types of  programing techniques and methodologies, for example in my experience in Accenture company I was working using CMMI methodology and occasionally Agile (in the Inditex temporal project). Currently I'm working in Virfac application, that is a Human Machine Interface.
+
+
+. Indicate if you have knowledge of:This field is mandatory
+-Commonly used standards and best practices for software engineering, including design patterns
+-International, commercial/industrial standards for information processing and transfer of information
+ITIL IT service management model
+Military and/or civilian logistic processes and/or applications
+None of the above
+6. Please describe the content of your knowledeg and experience of Incident and Problem Management processes.
+
+*** Currently, I am using Redmine repository where the customers use it to communicate to the developers incidences and bugs.
+
+
+. Indicate if you have knowledge and experience in the fields below:This field is mandatory
+-Programming languages and platforms, like C++, C# and Java, .NET, WCF, WPF, HTML5, REST Services, Web Services, XML, SQL
+-Application server technologies
+-Multi-tiered, distributed systems
+-Service-Oriented architectures
+-Relational data base management systems;Web authoring, design and administration tools
+None of the above.
+8. Please describe briefly the content of your knowledge and experience in state-of-the-art technologies relevant to software engineering, highlighting your most important achievements related to the areas you checked in the previous question.
+
+*** In my current company, I am developing in C# .NET using MVVM framework that is based in WPF.
+In Accenture, I was working developing adaministration tool with C, C++, SQL, 4GL(Informix) and WebServices in a service-client architecture.
+In INCIDE, I was developing a business tool in C# connected to a MySQL data base.
+In SOLIDY I was involved in two kinds of projects:
+	. The first one was, an industrial software in C++ and MySQL data base, based in a multithreading architecture.
+	. The second one was an administrative tool developed in JAVA, Javascript, JSP, HTML, SQL. It was designed using a multi-tiered architecture.
+
+//---------
+
+
+
+
+Description
+:  
+
+Do you have experience of Programming in Java or C languages? Do you have knowledge of Operating Systems and Networking? Do you have practical experience in a management function, as a Team or Project Leader within a software development team?
+
+If the answer is Yes, This position is Ideal for you.
+
+The NCI Agency is currently seeking a Senior Analyst Programmer to work within its AirC2 Programme and Services Directorate, based in our offices; Glons, Belgium (Moving to The Hague, Netherlands, by 2018). As the Senior Analyst Programmer you will be designing and developing modules and interfaces (including HMIs), Testing, documenting and implementing software changes, providing technical advice and guidance to product managers, colleagues and other Agency elements, evaluating change proposals and maintaining the integrity of the software engineering environment and test facility and preparing briefings, demonstrations and regular reports for User Groups and senior staff members as required.
+
+Role Requirements
+
+This is a position within the NATO Communications and Information Agency (NCI Agency), an organization of the North Atlantic Treaty Organization (NATO);
+
+The Air C2 Programme Office and Service (AirC2 PO&S), as part of the NCI Agency, ensures the harmonised planning, implementation, deployment, evolution and support of the Air Command and Control System (ACCS) and other AirC2 assigned programmes, in a way that satisfies the operational requirements and minimizes the military risk, taking into account the NATO political, economic and schedule requirements and using the most suitable industrial and technological solutions.
+
+Within the AirC2 PO&S, the NATO Programming Centre contributes to the full life cycle of the AirC2 systems providing efficient and effective in-service support for designated systems and services. The CRC System Interface Section (CSI) provides full system support for the CSI to support and control real-time data exchange between various C2 elements using standardized NATO data links. Tasked by the CSI Memorandum of Understanding Support Board and the members participating in the MASE Cooperative Work Share Agreement.
+
+As the Senior Analyst Programmer, and under the direction and supervision of the Commander, NPC Glons, and Head. CIS Section you will be expected to:
+
+    Design software modules and software interfaces (including human-machine interfaces) according to specified software requirements and within given external constraints. These constraints include the system architecture, system design and also quality, safety and security rules and standards;
+    Implement, test and document software changes to new baselines;
+    Provide technical advice on system requirements, architecture and design internally to other Agency elements and, in particular, to the Product Managers and to support product risk management;
+    Maintain an in-depth knowledge at system level of the supported products with emphasis on system /software architecture;
+    Evaluate user change requests (formulated through Engineering Change Proposals (ECP), or other relevant documents) at system architecture level;
+    Maintain the integrity of the Software Engineering Environment and Software Test Facility;
+    Review software and artefacts produced by other engineers working on the same project;
+    Participate in peer reviews of software requirements, architecture, design, source code and respective documentation and follow up on the results;
+    Provide guidance to software engineers during system/software implementation to ensure the system integrity;
+    Perform feasibility studies, prototyping and software modelling, as required;
+    Define or modify the software architecture according to specified software requirements and within given external constraints;
+    Liaise with the Service Desk (SD) on problem troubleshooting, resolution and provide second-line support, as required;
+    Provides report and presentations related to the products being maintained, as required;
+    Prepare demonstrations in support of User Group Meetings, as required;
+    Maintain a high level of expertise in the technical areas above and stay abreast of system engineering techniques;
+    Deputize for higher grade staff;
+    Perform other duties, as may be required. 
+
+The Senior Analyst Programmer may be required to travel for business purposes to NATO, national (NATO and non-NATO) and some Operational facilities (Both Inside and Outside of NATO boundaries). As well as this frequent travel between the NCIA offices may also be required.
+
+
+Person Specification
+
+
+Qualifications Required
+
+The Successful candidate will hold a university degree, from a nationally recognized/certified University in a technical subject with substantial Information Technology (IT); preferably equivalent to a master's degree and supplemented by substantial relevant Information Technology qualifications.
+
+Exceptionally, the lack of a university/college degree may be compensated by the demonstration of a candidate's particular abilities or experience that is/are of interest to NCI Agency.
+
+Any Industry Recognized Training / Certifications in relevant areas of expertise would be considered highly desirable.
+
+
+Experience Required
+
+The ideal candidate will be required to hold, as a minimum, 5 years of post-related experience and be able to display recent experience and in depth working knowledge of:
+
+    State of the art operating systems and network architectures and administration principles.
+    Networking and digital communication (LAN / WAN) standards and techniques.
+    Modern Programming languages such as “Java” and “C”
+    UNIX scripting languages.
+    Practical experience in management functions as project or team leader of a software development team in the implementation of real-time software solutions. 
+
+In addition to the above qualifications and experience it would be highly desirable if you can display:
+
+    Experience in the software design, development and maintenance of NATO Air Defense (AD) systems; military data links operations/technical/procedures (eg. Link 1, Link 11, Link 11B, Link 16 and Link 22);
+    Experience in the software development for the MASE product line;
+    Experience of the “Jovial” programming language. 
+
+
+Competencies Required
+
+    Deciding and Initiating Action - Takes responsibility for actions, projects and people; takes initiative and works under own direction; initiates and generates activity and introduces changes into work processes; makes quick, clear decisions which may include tough choices or considered risks.
+    Leading and Supervising - Provides others with a clear direction; motivates and empowers others; recruits staff of a high calibre; provides staff with development opportunities and coaching; sets appropriate standards of behavior.
+    Working with People - Shows respect for the views and contributions of other team members; shows empathy; listens, supports and cares for others; consults others and shares information and expertise with them; builds team spirit and reconciles conflict; adapts to the team and fits in well.
+    Adhering to Principles and Values - Upholds ethics and values; demonstrates integrity; promotes and defends equal opportunities, builds diverse teams; encourages organisational and individual responsibility towards the community and the environment.
+    Writing and Reporting - Writes convincingly; writes clearly, succinctly and correctly; avoids the unnecessary use of jargon or complicated language; writes in a well-structured and logical way; structures information to meet the needs and understanding of the intended audience.
+    Applying Expertise and Technology - Applies specialist and detailed technical expertise; uses technology to achieve work objectives; develops job knowledge and expertise (theoretical and practical) through continual professional development; demonstrates an understanding of different organisational departments and functions.
+    Analysing - Analyses numerical data and all other sources of information, to break them into component parts, patterns and relationships; probes for further information or greater understanding of a problem; makes rational judgements from the available information and analysis; demonstrates an understanding of how one issue may be a part of a much larger system.
+    Achieving Personal Work Goals and Objectives - Accepts and tackles demanding goals with enthusiasm; works hard and puts in longer hours when it is necessary; seeks progression to roles of increased responsibility and influence; identifies own development needs and makes use of developmental or training opportunities. 
+
+
+Languages
+
+Most of the work of the NCI Agency is conducted in the English language, and therefore a thorough knowledge of English, both written and spoken, is essential and some knowledge of French is desirable.
+
+
+What do we offer?
+
+    Excellent (where eligible) expatriation household and children's allowances and additional privileges for expatriate staff.
+    Education allowance for children (where appropriate) and an excellent private health insurance scheme;
+    Generous annual leave and home leave (if eligible).
+    Retirement Pension Plan 
+
+To learn more about NCI Agency and our work, please visit our website.
+
+Please note that due to the Agency’s transition into a new structure in the near future, this post is planned to move to our offices in The Hague, Netherlands by 2018.
+
+The Agency’s recruitment team advises you that due to the large volume of applications it receives the screening process may take up to 2 months.
+
+We appreciate your patience. 
+
+
+////----------------------------------------------------------------------------------------------------
+
+
+
+  
+banner
+
+Printable version | PDF version | Apply for this vacancy
+
+EUROPEAN DEFENCE AGENCY
+(E D A)
+
+Vacancy notice
+(Agency’s Contractual Staff)
+
+
+Post: 	IT Developer
+Type of post : 	Contractual Agent
+Function group : 	IV
+Management of staff: 	N.A.
+Location: 	Brussels
+Indicative starting date: 	1 June 2016
+Level of Security Clearance: 	SECRET UE/EU SECRET
+
+Closing date for applications 	15 March 2016
+
+The selection of candidates will follow the EDA Staff Recruitment Procedure. Candidates must apply for this post via the EDA website http://www.eda.europa.eu - vacancies. Please note that to make an EDA on-line application you will need to create your EDA profile using a valid e-mail address and a password.
+
+1. BACKGROUND
+
+The European Defence Agency was established on 12 July 2004, and is governed by Council Decision (CFSP) 2015/1835 defining the statute, seat and operational rules of the European Defence Agency.
+
+The Agency has its headquarters in Brussels.
+
+The main task of the EDA is to support the Council and the Member States in their effort to improve the Union's defence capabilities in the field of crisis management and to sustain the Common Security and Defence Policy (CSDP) as it currently stands and as it develops in the future.
+
+The Agency is structured into four directorates. Three operational directorates: Cooperation Planning & Support; Capability, Armaments & Technology; and European Synergies & Innovation and the Corporate Services Directorate.
+
+2. THE AGENCY'S WAY OF WORKING
+
+The Agency is an “outward-facing” organisation, constantly interacting with its shareholders, the participating Member States, as well as with a wide range of stakeholders. It works in an integrated way, with multi-disciplinary teams representing all the Agency’s functional areas, to realise its objectives. Its business processes are flexible and oriented towards achieving results. Staff at all levels need to demonstrate the corresponding qualities of commitment, flexibility, innovation, and team-working; to work effectively with shareholders and stakeholder groups, formal and informal; and to operate without the need for detailed direction.
+
+3. THE CORPORATE SERVICES DIRECTORATE
+
+The Corporate Services Directorate manages the human resources, finance, legal, procurement and contract activities, as well as information technology, infrastructure and security to ensure the smooth and efficient functioning of EDA.
+
+4. DUTIES
+
+Under the direction of the Head of the IT Unit, the IT Developer contributes to ensuring the necessary support of the Communications and Information Systems of the Agency.
+In particular he/she co-operates with the Head of the IT Unit in:
+
+    applications development; 
+    administration of user environment; 
+    web development and administration; 
+    the organisation and/or the follow-up of projects in any of the above-mentioned areas; 
+    the maintenance of a large number of in-house applications; 
+    the organisation and/or the follow-up of operational services in any of the above-mentioned areas (with or without outsourcing part of the work).
+
+Duties may evolve according to development of the EDA’s structure and activities, and the decisions of EDA management.
+
+5. QUALIFICATIONS AND EXPERIENCE REQUIRED
+
+a. Conditions for eligibility
+
+(1) General
+
+    be a national of a Member State participating in the Agency;
+    be entitled to his/her full rights as a citizen;
+    have completed any obligations imposed on him/her by the laws concerning military service;
+    produces the appropriate character references as to his/her suitability for the performance of his/her duties;
+    be physically fit to perform his/her duties;
+    have a thorough knowledge of one of the languages of the participating Member States and a satisfactory knowledge of another of these languages to the extent necessary to discharge his/her duties;
+    have no personal interest (financial, family relationship, or other) which could be in conflict with disinterested discharge of his/her duties within the Agency;
+    hold, or be in a position to obtain, a valid Personnel Security Clearance Certificate (national or EU PSC at SECRET UE/EU SECRET level). Personnel Security Clearance Certificate ' (PSCC) means a certificate issued by a competent authority establishing that an individual is security cleared and holds a valid national or EU PSC, and which shows the level of EUCI to which that individual may be granted access (CONFIDENTIEL UE/EU CONFIDENTIAL or above), the date of validity of the relevant PSC and the date of expiry of the certificate itself. Note that the necessary procedure for obtaining a PSCC can be initiated on request of the employer only, and not by the individual candidate.);
+    have a level of education which corresponds to completed university studies of at least three years attested by a diploma or be a graduate of a national or international Defence College.
+
+b. Essential selection criteria
+
+(1) Professional
+
+The candidate will be required to demonstrate that he/she has:
+
+    Proficiency in developing Sharepoint 2013 applications, knowledge of Sharepoint architecture and advanced server administration;
+    Proficiency in .NET Framework development;
+    Strong know-how in designing and developing web-based applications (ASP.NET Webforms and MVC, HTML, CSS, Javascript);
+    Proven experience with SQL Server databases;
+    Thorough knowledge of web applications’ security;
+    Good knowledge of English. 
+
+For reasons related to the Agency’s operational requirements, candidates should be available at short notice for the job.
+
+(2) Personal
+
+All staff must be able to fit into the Agency's way of working. Other attributes important for this post include:
+
+    ability to work in a team
+    open mindedness and ability to learn quickly;
+    results-orientation and strong motivation;
+    flexibility and innovativeness;
+    genuine commitment to the Agency's objectives;
+    good communication skills.
+
+
+c. Desirable
+
+    Knowledge of Telerik Sitefinity CMS;
+    Experience in configuring and customizing Microsoft Project Server 2013;
+    Knowledge of Microsoft Dynamics AX 2009 or newer;
+    Knowledge of Microsoft CRM;
+    Knowledge of Microsoft Business Intelligence Suite (Analytical and Reporting services).
+
+6. INDEPENDENCE AND DECLARATION OF INTEREST
+
+The IT Developer will be required to make a declaration of commitment to act independently in the Agency’s interest and to make a declaration in relation to interests that might be considered prejudicial to his/her independence.
+
+7. APPOINTMENT AND CONDITIONS OF EMPLOYMENT
+
+The IT Developer will be appointed by the Chief Executive, upon recommendation of the Chairman of the Selection Committee.
+
+Recruitment will be as a member of the contractual staff of the Agency for a four-year period (unless a shorter period is mutually agreed between the parties). Renewal is possible within the limits set out in the EDA Staff Regulations. The successful candidate will be recruited as group IV .
+
+Failure to obtain the requisite security clearance certificate before the expiration of the probationary period may be cause for termination of the contract.
+
+Candidates are advised that part of the recruitment process includes medical analyses and physical check-up with an Agency’s Medical Adviser.
+
+Applications are invited with a view to establishing a reserve list for the post of IT Developer at the EDA. This list is valid until 31/12/2017, and may be extended by decision of the Chief Executive. During the validity of the reserve list, successful candidates may be offered a post in the EDA according to their competences in relation to the specific requirements of the vacant post.
+
+Inclusion on the reserve list does not imply any entitlement of employment in the Agency.
+
+
+
+//-------------------
+
+
+
+23/03/2016 end line
+
+
+Software Engineer-160079
+ 
+Primary Location Belgium-Mons
+Organizational Element INFRASTRUCTURE SERVICES DIRECTORATE
+Schedule Full-time
+Salary (Pay Basis) : 5,102.13Euro (EUR) Monthly
+Grade A.2
+ 
+Description
+:  Do you have recent and practical experience in software development and maintenance? Do you have experience in planning, design, system engineering, integrating and implementation of military software intensive communication and information systems with effective communication skills? 
+
+If the answer is yes, this position is ideal for you. 
+
+The NCI Agency is currently seeking a Software Engineer to work within Directorate of Infrastructure Services across the Military Messaging Services of the Core Enterprise Services, Service Line (SL), to maintain, support and provide technical integrity of all assigned software. 
+
+Role Requirements   
+
+This is a position within the NATO Communications and Information Agency (NCI Agency), an agent of the North Atlantic Treaty Organization (NATO), which serves the Alliance through unbiased application of scientific and technical support, and acquisition expertise for Command, Control, Communications, Computer, Intelligence, Surveillance and Reconnaissance (C4ISR). NCI Agency operations are underscored by the organization’s core values and vision to be an essential, one-team contributor to NATO success. 
+
+The NCI Agency operates on the basis of sponsor-provided funding, which enhances its product- and service- focus. The Agency is an innovative and trusted Alliance partner and achieves its short- and long- term goals and objectives through the application of strategy-focused organizational principles, to which this post is directly linked. 
+
+Within the Military Messaging Services Section of the Core Enterprise Services SL, you are is responsible for the maintenance, support and technical integrity of all assigned software (AIFS/AIMS/PCTTY/SRAD). 
+
+Under the direction of Section Head the successful candidate will perform duties such as the following: 
+
+    Responsible for software applications of assigned NCIA Military Messaging systems;
+    Performs the analysis, design, implementation and maintenance of authorised software changes, related network database structures and the integration/tailoring of vendor supplied components, following established procedures for quality, configuration control, testing, documentation and security;
+    Provides expeditious Level 2/3 support and emergency on-site assistance to ensure key information/ communications systems remain operational; 
+    Assists in the maintenance of the operational and support environments for the software of all assigned systems. 
+    Perform other duties as may be required. 
+
+You may be required to travel for business purposes to NATO, national (NATO and non-NATO) and some Operational facilities (Both Inside and Outside of NATO boundaries). As well as this frequent travel between the NCI Agency offices may also be required. 
+ 
+You will also be responsible to maintain professional contacts with co-workers, within organisation element and the Agency, as well as with staff in other NATO organisation and external bodies.
+
+Person Specification 
+
+Qualifications Required
+
+You will hold a university degree in Computer Sciences, or related discipline. Exceptionally, the lack of a university/college degree may be compensated by the demonstration of particular abilities or experience that is/are of interest to NCI Agency. 
+
+ Experience Required 
+
+The ideal candidate will have recent and practical experience in software development and maintenance using one or more programming languages (e.g. C, C++, Java). 
+
+It is also essential that you can demonstrate: 
+
+    Recent and practical experience in UNIX Shell Scripting; 
+    Experience (at least two years) in planning, design, system engineering, integration and implementation of military software intensive communication and information systems or other decision support systems; 
+    Knowledge and experience in state-of-the-art technologies, relevant to the work, including information processing, exchange of information and related commercial/industrial standards; 
+
+In addition it is considered highly desirable if you can display: 
+
+    Experience with effective provisioning, installation, configuration, operation and maintenance of UNIX Solaris based systems (Software and Hardware); 
+    Sound knowledge of Linux System Administration; 
+    Extensive knowledge of System Analysis principles to direct and guide Information Systems development; 
+    Broad and sound technical knowledge and experience in centralized and distributed Command and Control; 
+    Experience in Information Systems; 
+    Detailed knowledge of architectural design as applied to computer systems; 
+    Sound technical knowledge on wide area networks and local area networks; 
+    Software maintenance experience on high availability systems; 
+    Familiarity with Military Message Handling Systems; 
+    Background in CIS support and/or maintenance with a good understanding of CIS systems and associated non-CIS equipment; 
+    Working knowledge of ITIL processes and procedures; 
+    Prior experience of working in an international environment comprising both military and civilian elements; 
+
+Competencies Required 
+
+    Leading and Supervising - Provides others with a clear direction; motivates and empowers others; recruits staff of a high calibre; provides staff with development opportunities and coaching; sets appropriate standards of behaviour. 
+    Working with People - Shows respect for the views and contributions of other team members; shows empathy; listens, supports and cares for others; consults others and shares information and expertise with them; builds team spirit and reconciles conflict; adapts to the team and fits in well. 
+    Relating and Networking - Easily establishes good relationships with customers and staff; relates well to people at all levels; builds wide and effective networks of contacts; uses humour appropriately to bring warmth to relationships with others. 
+    Delivering Results and Meeting Customer Expectations - Focuses on customer needs and satisfaction; sets high standards for quality and quantity; monitors and maintains quality and productivity; works in a systematic, methodical and orderly way; consistently achieves project goals. 
+    Applying Expertise and Technology - Applies specialist and detailed technical expertise; uses technology to achieve work objectives; develops job knowledge and expertise (theoretical and practical) through continual professional development; demonstrates an understanding of different organisational departments and functions. 
+
+Languages 
+Most of the work of the NCI Agency is conducted in the English language, and therefore a thorough knowledge of English, both written and spoken, is essential and some knowledge of French is desirable. 
+
+What do we offer? 
+
+    Excellent tax-free salary, including (where eligible) expatriation household and children's allowances and additional privileges for expatriate staff.  
+    Education allowance for children (where appropriate) and an excellent private health insurance scheme; 
+    Generous annual leave and home leave (if eligible). 
+    Retirement Pension Plan  
+
+To learn more about NCI Agency and our work, please visit our website. 
+Please note that due to the Agency’s transition into a new structure in the near future, this post may be subject to transfer to one of our other locations, as well as to a change of reporting lines. The final decision will be made at the time of a firm offer. 
+
+The Agency’s recruitment team advises you that due to the large volume of applications it receives the screening process may take up to 2 months after closing date. We appreciate your patience.
+	
+	
+	
+/*****
+	
+	
+	
+	
+	
+4. Indicate if you have knowledge or experience in the following fields:This field is mandatory
+Provision, Installation, Configuration, Operation and maintenance of UNIX Solaris based systems
+System Analysis principles
+Information Systems
+Architectural design as applied to computer sytems
+Military Message Handling Systems
+---ITIL Processes and procedures
+None of the above
+
+
+
+5. Please indicate the programming languages you are most familiar with.This field is mandatory
+---C, C++, C#, SQL, JAVA, 4GL, JSP, JavaScript, HTML.
+6. What is your level of aptitude in English?
+
+NATO Language levels are defined as follows:
+
+Proficiency: I am fluent and precise in my speaking and understanding of the language.
+
+Advanced: Although I speak and understand the language very well, I still have some problems with unfamiliar situations and vocabulary.
+
+Upper-Intermediate: I can communicate reasonably effectively but do not always understand what people say.
+
+Intermediate: I can speak and understand what people say in familiar situations but I have problems with complex grammar and vocabulary.
+
+Elementary: I can communicate simply when I am in familiar, everyday situations.
+
+Beginner: I can talk a little and understand people if they speak slowly and clearly.This field is mandatory
+
+---Proficiency
+
+7. Indicate if you have recent practical knowledge or experience in any of the programming languages listed:
+
+C, C++, JavaThis field is mandatory
+None of the languages listed
+One of the languages listed
+---Two of the languages listed
+Three of the languages listed
+---Other programming languages
+
+8. Please detail your experience with effective provisioning, installation, configuration, operation and maintenance of UNIX Solaris based systems (Software and Hardware).This field is mandatory
+
+---My experience in UNIX Solaris has been like user, while I was working in Accenture.
+
+9. Please detail your experience with effective provisioning, installation, configuration, operation and maintenance of Windows based systems (Software and Hardware).This field is mandatory
+
+---I was working six months like IT Administrator of an office whit 35 computers and 2 servers based in Windows in INCIDE company.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ //-------------------------------
+ --DEA--
+ Manuel Rojas Suarez 
+24b Drève des dix Mètres 
+Waterloo, 1410 (Belgium) 
+Tel: +32 487 32 74 01
+Email: manuel.rojas.suarez@gmail.com
+
+
+Attn: Human Resources Section
+
+EUROPEAN DEFENCE AGENCY
+(E D A)
+Post: 	IT Developer
+Type of post : 	Contractual Agent
+
+
+I am interested in working with the European Defence Agency (EDA) as a IT Developer. For the last two years I have been working in the GeonX company as an employee. In this time I have discovered the interaction and personal fulfilment in a multi-cultural and multi-lingual environment. This has been one of the most enriching and positive experiences of my career. Also I have had the opportunity of to work in the Defence and Aero-Space industries. So I believe that this position in EDA would be an exciting challenge.
+
+As you can see from my resume, I have been working in recent years as a IT Developer. In my role I have developed in a large number of programing languages and platforms. So I am capable to adapt quickly to news environments.
+
+I am very proactive, but my major strength is my problem-solving ability. For this reason I believe this makes me a good candidate for the job.
+
+I would very much appreciate the opportunity of an interview. Please feel free to contact me via telephone at +32 487 32 74 01 or email at manuel.rojas.suarez@gmail.com
+
+Thank you for your consideration. I am looking forward to hearing from you.
+
+
+Yours sincerely,
+
+
+
+Manuel Rojas Suarez
+ //-------------------------------
+ --NCI--
+ Manuel Rojas Suarez 
+24b Drève des dix Mètres 
+Waterloo, 1410 (Belgium) 
+Tel: +32 487 32 74 01
+Email: manuel.rojas.suarez@gmail.com
+
+Attn: Human Resources Section
+
+Ref: Software Engineer-160079
+
+I am interested in working with the NATO Communications and Information Agency (NCI Agency) as a Software Engineer. For the last two years I have been working in the GeonX company as an employee. In this time I have discovered the interaction and personal fulfilment in a multi-cultural and multi-lingual environment. This has been one of the most enriching and positive experiences of my career. Also I have had the opportunity of to work in the Defence and Aero-Space industries. So I believe that this position in NCI would be an exciting challenge.
+
+As you can see from my resume, I have been working in recent years as a Software Engineer. In my role I have developed in a large number of programing languages and platforms. So I am capable to adapt quickly to news environments.
+
+I am very proactive, but my major strength is my problem-solving ability. For this reason I believe this makes me a good candidate for the job.
+
+I would very much appreciate the opportunity of an interview. Please feel free to contact me via telephone at +32 487 32 74 01 or email at manuel.rojas.suarez@gmail.com
+
+Thank you for your consideration. I am looking forward to hearing from you.
+
+
+Yours sincerely,
+
+
+
+Manuel Rojas Suarez
+
+
+//-------------------------------------
+
+ --RHEA --
+ Manuel Rojas Suarez 
+24b Drève des dix Mètres 
+Waterloo, 1410 (Belgium) 
+Tel: +32 487 32 74 01
+Email: manuel.rojas.suarez@gmail.com
+
+Attn: Human Resources Section
+
+Software Developer
+Reference nr: 015
+Location: Diegem, Belgium
+
+I am interested in working with the RHEA as a Software Developer. For the last two years I have been working in the GeonX company as an employee. In this time I have had the opportunity of to work in the Defence and Aero-Space industries developing simulations software. After working in distinct type of industries, this one has been one of the most enriching and positive experiences of my career. So I believe that this position in RHEA would be an exciting challenge.
+
+As you can see from my resume, I have been working in recent years as a Software Developer. In my role I have developed in a large number of programing languages and platforms. So I am capable to adapt quickly to news environments.
+
+I am very proactive, but my major strength is my problem-solving ability. For this reason I believe this makes me a good candidate for the job.
+
+I would very much appreciate the opportunity of an interview. Please feel free to contact me via telephone at +32 487 32 74 01 or email at manuel.rojas.suarez@gmail.com
+
+Thank you for your consideration. I am looking forward to hearing from you.
+
+
+Yours sincerely,
+
+
+
+Manuel Rojas Suarez
+
+
+
+///------------------------------
+
+
+
+Analyst Programmer-160276
+ 
+Primary Location Belgium-Glons
+Organizational Element AIR C2 PROGRAMME OFFICE & SERVICES
+Schedule Full-time
+Salary (Pay Basis) : 5,102.13Euro (EUR) Monthly
+Grade A.2
+ 
+Description
+:  
+
+Do you have experience in programming with a focus on real time computer systems? Do you have good knowledge of the Java .software development and maintenance? Do you have experience of System Testing?
+
+If the answer is Yes, This position is Ideal for you.
+
+The NCI Agency is currently seeking an Analyst Programmer to work within its Ship to Shore Buffer Section within the AirC2 Programme Office. As the Analyst Programmer you will be responsible for providing support to designated systems and services, including the testing of designated systems, the installation of systems, the design, development and testing of new software components, and analysis and implementation of change requests.
+
+
+Role Requirements
+
+This is a position within the NATO Communications and Information Agency (NCI Agency), an organization of the North Atlantic Treaty Organization (NATO); The Air C2 Programme Office and Services (PO&S), as part of the NCI Agency, ensures the harmonised planning, implementation, deployment evolution and support of the Air Command and Control System (ACCS) and other AirC2 assigned programmes, Within the AirC2 PO&S, the NATO Programming Centre contributes to the full life cycle of the AirC2 systems providing efficient and effective in-service support for designated systems and services.
+The Ship-Shore-Ship Buffer Section provides full system support for the real-time data buffer system supporting data exchange between naval forces, including airborne assets, and their associated air defence ground environment units. It is tasked by the SSSB Memorandum of Understanding Support Board.
+
+As the Analyst Programmer, and under the direction of the Chief Ship-Shore-Ship Buffer (SSSB) Section, you will be expected to:
+
+    Acquire and maintain an in-depth knowledge of the SSSB software configuration items and hardware and software interfaces.
+    Conduct individual and integrated system testing.
+    Analyse and implement change requests for software components.
+    Design, develop and test new software components.
+    Execute and evaluate integration tests and qualification tests of new software baselines.
+    Perform configuration control of software configuration items.
+    Perform final quality control checks on all releasable system software and documentation.
+    Perform system installations both in-house and also on-site.
+    Maintain a high level of expertise in system/software development techniques.
+    Perform training both in-house and on site for operators and administrators of SSSB systems.
+    Evaluate the compatibility of new COTS releases and integrating them into the SSSB application software.
+    Deputize for higher grade staff, if required.
+    Perform other duties as may be required. 
+
+You may be required to travel for business purposes to NATO, national (NATO and non-NATO) and some Operational facilities (Both Inside and Outside of NATO boundaries). As well as this frequent travel between the NCIA offices may also be required.
+
+
+Person Specification
+
+
+Qualifications Required
+
+The Successful candidate will hold a University degree equivalent to a Master’s level, either in computer sciences or in another technical subject with substantial computer sciences content; and supplemented by relevant postgraduate qualifications. Exceptionally, the lack of a Master’s degree may be compensated by a lower academic qualification combined with the demonstration of particular abilities or experience of relevance to this post, or with a military experience in the Air operations.
+
+It is considered highly desirable if you hold any formal qualifications or training in:
+
+    Java or C development
+    Networking and digital communications (LAN/WAN
+    Operating Systems
+    UNIX Scripting. 
+
+
+Experience Required
+
+The ideal candidate will hold, as a minimum, two (2) years of recent practical experience as a Software Analyst Programmer in real-time computer systems, or a relevant related area; and within this be able to display knowledge and experience of: state of the art operating systems and network architectures and administration principles; networking and digital communication (LAN / WAN) standards and techniques; programming languages “Java” and a working knowledge of the programming languages of “C”; UNIX scripting languages.
+
+It is considered Highly desirable if you can display a specialist knowledge or practical experience in/of:
+
+    The design, development and maintenance of NATO Air Defense (AD) systems; military data links operations/technical/procedures (eg. Link 1, Link 11, Link 11B and Link 22);
+    Working in an international environment comprising both military and civilian elements;
+    NATO responsibilities and organization, including ACO and ACT; 
+
+
+Competencies Required
+
+    Deciding and Initiating Action - Takes responsibility for actions, projects and people; takes initiative and works under own direction; initiates and generates activity and introduces changes into work processes; makes quick, clear decisions which may include tough choices or considered risks.
+    Working with People - Shows respect for the views and contributions of other team members; shows empathy; listens, supports and cares for others; consults others and shares information and expertise with them; builds team spirit and reconciles conflict; adapts to the team and fits in well.
+    elating and Networking - Easily establishes good relationships with customers and staff; relates well to people at all levels; builds wide and effective networks of contacts; uses humour appropriately to bring warmth to relationships with others.
+
+Delivering Results and Meeting Customer Expectations - Focuses on customer needs and satisfaction; sets high standards for quality and quantity; monitors and maintains quality and productivity; works in a systematic, methodical and orderly way; consistently achieves project goals.
+
+Applying Expertise and Technology - Applies specialist and detailed technical expertise; uses technology to achieve work objectives; develops job knowledge and expertise (theoretical and practical) through continual professional development; demonstrates an understanding of different organisational departments and functions.
+
+
+Languages
+
+Most of the work of the NCI Agency is conducted in the English language, and therefore a thorough knowledge of English, both written and spoken, is essential and some knowledge of French is desirable.
+
+
+What do we offer?
+
+    Excellent tax-free salary, including (where eligible) expatriation household and children's allowances and additional privileges for expatriate staff.
+    Education allowance for children (where appropriate) and an excellent private health insurance scheme;
+    Generous annual leave and home leave (if eligible).
+    Retirement Pension Plan 
+
+To learn more about NCI Agency and our work, please visit our website. 
+
+Please Note: due to the Agency's transition plan, this post is scheduled to move to our Offices; the Hague, Netherlands by Mid-2018.
+
+ 
+
+The Agency’s recruitment team advises you that due to the large volume of applications it receives the screening process may take up to 2 months. 
+
+
+//----------
+
+Vacancy in the Directorate of Technical and Quality Management
+The European Space Agency is an equal opportunity employer
+and encourages applications from women
+POST Software Engineer, Software Systems Engineering Section, Software Systems
+Division, Systems, Software & In-Orbit Demonstration Department,
+Directorate of Technical and Quality Management.
+This post is classified in the A2-A4 grade band on the Coordinated
+Organisations’ salary scale.
+LOCATION ESTEC, Noordwijk (Netherlands).
+DUTIES The postholder will report to the Head of the Software Systems Engineering
+Section. The Section’s core activity is to support ESA programmes in the
+development of flight software for satellites and spacecraft, including launchers
+and space station experiments. The Section also covers software engineering
+tools and techniques with a particular focus on system software co-engineering
+and model-driven developments and verification, as well as software
+standardisation (e.g. ECSS).
+Duties will include:
+• providing specialist technical support to ESA projects for real-time
+embedded software systems, including flight software and software
+engineering;
+• participating in evaluating industrial proposals and in project reviews;
+• technical monitoring of software development contracts, including
+verification of industrial outputs, reviews and acceptance;
+• supporting the development of methodology for space system design with
+complex software tasks, with emphasis on system-software co-engineering,
+software architectures and end-to-end aspects;
+• providing expert software support to the Avionics System Group for
+defining onboard avionics concepts and architectures, including highly
+integrated and reconfigurable systems;
+• participating in defining and implementing the research programmes within
+the Division's competence, in particular concerning software architectures,
+validation, the impact of software reliability, availability, maintainability
+and safety (RAMS) requirements on the fault detection, isolation and
+recovery (FDIR) function and modern engineering methods/tools to
+improve the development and qualification processes for embedded
+software;
+eCPB-2016-1001
+ESA/VN-ESTEC(2016)033
+Page 2
+• contributing to standardisation activities for the software systems;
+• contributing to the dissemination of the results of activities performed and
+knowledge transfer across the Agency.
+The postholder may also be called on to support other activities within the their
+sphere of competence.
+QUALIFICATIONS Applicants for this post should have a Master’s degree or equivalent
+qualification in computer science and/or electrical engineering or similar, with
+a background and experience in real-time embedded software systems.
+Extensive knowledge of modern software engineering and practical experience
+of those systems is required. Knowledge of spacecraft systems engineering
+would be an advantage.
+Candidates should have good interpersonal and communication skills. They
+should be able to work effectively, autonomously and cooperatively in a
+diverse and international team environment and to define and implement
+solutions in line with team and individual objectives and project deadlines.
+Applicants should also have good analytical, organisational and reporting skills,
+a proactive attitude to problem-solving and an interest in innovative
+technologies.
+For behavioural competencies expected from ESA staff in general, please refer
+to the ESA Competency Framework.
+The working languages of the Agency are English and French. A good
+knowledge of one of these is required. Knowledge of another Member State
+language would be an asset.
+CLOSING DATE The closing date for applications is 30 August 2016.
+Applications from external candidates should preferably be made online from
+the ESA website (www.esa.int/careers). Those unable to apply on-line should
+submit their CVs to Human Resources, ESTEC, Keplerlaan 1, 2201 AZ
+Noordwijk ZH, The Netherlands.
+ESA staff members wishing to apply should fill in the Internal Application
+Form and email it to Apply2ESTEC.
+The Agency may require applicants to undergo selection tests.
+___________________
+Please note that applications are only considered from nationals of one of the following States: Austria,
+Belgium, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary,
+Ireland, Italy, Luxembourg, the Netherlands, Norway, Poland, Portugal, Romania, Spain, Sweden,
+Switzerland, the United Kingdom and Canada.
+Priority will first be given to internal candidates and secondly to external candidates from underrepresented
+Member States.
+In accordance with the European Space Agency’s security procedures and as part of the selection
+process, successful candidates will be required to undergo basic screening before appointment.
+
+
+
+//-------------------------------------------------
+
+Software Engineers for Mission Control Systems Development (M/F) - (SE-GSS-2016-09-ZAV-001)
+About us
+Space Applications Services NV/SA performs and supports system and software engineering for the European Space Agency (ESA), National Space Agencies and the aerospace industry. We are involved in international manned & unmanned spacecraft programmes, earth observation, science, exploration, communications and related technology development.
+Tasks and Responsibilities
+The successful candidate will join the Control and Data Centres team, whose activities cover the development of ground control systems, controlling the experiments done on board of the International Space Station, and different future space crafts, as well as the development of space weather related systems.
+
+The relevant activity for this position is the development of mission control systems for future unmanned and manned spacecrafts. In this activity, the software will be developed in the team according to detailed requirements, while following space related standards.
+
+Together with your colleagues, you will be responsible for the development of the system following the full software development cycle, including the production of high level documentation and while adhering the relevant standards.
+Qualifications and Experience
+For this position, you must have a university degree in a relevant discipline or equivalent. The following capabilities are mandatory for the position:
+• 2 to 5 years of experience in design and development of software implemented in Java.
+• Experience with the software development lifecycle.
+• Competent in writing high-quality software project documentation in English.
+• Good knowledge of Linux systems as a user and administrator.
+o Good understanding of IP networks, firewalls, VPN, PKI, routing.
+o Open Source Server environment – OpenLDAP, FTP, Samba.
+
+The following capabilities will be considered as an advantage for the position:
+• Experience with Python and Django.
+• Knowledge of CCSDS protocols: Packets, CFDP, MO, SLE.
+• Knowledge and experience with ECSS E-40 standard.
+
+What Do We Offer?
+• A chance to actively participate in the space adventure.
+• To work in a growing company, with a nice atmosphere and where autonomy and initiatives are encouraged.
+• Diversity of software developments and applications.
+• An interesting remuneration package will be offered with relocation assistance, if applicable.
+
+Location
+Head Office in Zaventem
+Name : Rani Pinchuk
+E-mail address : rani.pinchuk@spaceapplications.com
+Publication date
+07.09.2016
+Application deadline
+07.11.2016
+
+
+//-------------------------------------------------------
+
+Software Engineer-160366
+ 
+Primary Location Belgium-Glons
+Organizational Element AIR C2 PROGRAMME OFFICE & SERVICES
+Schedule Full-time
+Salary (Pay Basis) : 5,102.13Euro (EUR) Monthly
+Grade A.2
+ 
+Description: 
+ 
+Do you have experience in software engineering of large-scale distributed software? Can you demonstrate recent knowledge and experience of software integration? Can you prove up-to-date knowledge and experience of computer system architectures?
+ 
+If the answer is yes, this position is ideal for you.
+ 
+The NCI Agency is currently seeking a Software Engineer to work within the AIR C2 Programme Office & Services, in the Software Engineering Section, in Glons, Belgium. In this position you will manage and coordinate software build, integration and installation.
+ 
+Role Responsibilities
+ 
+This is a position within the NATO Communications and Information Agency (NCI Agency), an organization of the North Atlantic Treaty Organization (NATO).
+ 
+The NCI Agency has been established with a view to meeting to the best advantage the collective requirements of some or all NATO nations in the fields of capability delivery and service provision related to Consultation, Command & Control as well as Communications, Information and Cyber Defence functions, thereby also facilitating the integration of Intelligence, Surveillance, Reconnaissance, Target Acquisition functions and their associated information exchange.
+ 
+The Air C2 Programme Office and Service (AirC2 PO&S), as part of the NCI Agency, ensures the harmonised planning, implementation, deployment, evolution and support of the Air Command and Control System (ACCS) and other AirC2 assigned programmes, in a way that satisfies the operational requirements and minimizes the military risk, taking into account the NATO political, economic and schedule requirements and using the most suitable industrial and technological solutions. The AirC2 PO&S is the procurement and implementation body of the NCI Agency, charged with the effective planning, execution, delivery into service, evolution and through-life logistic support of NATO’s and assigned national AirC2 systems.
+ 
+The Engineering Branch (ENB) manages, controls, guides and orchestrates all technical aspects of all AirC2-related internal and contracted projects throughout their lifecycle. It provides estimation of the required effort for each project/task and staffs, plans, allocates and manages engineering resources according to agreed priorities. ENB executes overall design responsibility to ensure and harmonize the integrity, technical coherence and interoperability across all AirC2-related based projects throughout product lifecycles (requirements, design, implementation, test support and site support) and across assigned projects. ENB also maintains close coordination with Service Strategy and other key stakeholders across the Agency for technical roadmaps and engineering matters.
+ 
+The Software Engineering Section - In-Service Support (SES-ISS) manages, controls, guides and orchestrates all software engineering activities related to the in-service support of allocated systems.  SES-ISS also maintains and evolves the software development environments, production environments and processes associated with the in-service support of systems assigned to the AirC2 PO&S.  SES-ISS also manages in-service support software engineering resources allocated to all projects assigned to AirC2 PO&S.
+ 
+Under the direction of the Head SES-ISS, the Software Engineer will perform duties as follows:
+Maintain an in-depth knowledge, at system and sub-system level, of the products, development environments and production environments of the AirC2 PO&S.
+Perform software integration for AirC2 PO&S products.
+Develop concepts, procedures, plans and records for the software build, integration, installation and integration testing.
+Develop and maintain tools/scripts for the automation of software build and installation processes, in co-ordination with the platform engineers.
+Execute the defined software build procedures to achieve a working integrated software sub-system / system and maintain configured build records.
+Install and configure the software, data packages and any off-the-shelf components in the target system.
+Manage and coordinate the software build, integration and installation.
+Integrate the supplied software into the system build.
+Verify that the correct and approved sub-system / system components (including off-the-shelf and data packages) have been supplied by the engineering/project teams.
+Co-ordinate with hardware engineers to ensure that the required target hardware / network environment is correctly prepared and configured for system testing.
+Support platform engineers for the system deployment and configuration on target platforms.
+Develop, maintain and document tools for the automation of integration test suites.
+Perform integration tests in accordance with the planning and verify that the integrated software executes in its target environment, interfaces correctly, provides for basic functionality and meets the performance requirements.
+Analyse and document the integration test results, report on the outcome, recommend on further processing and contribute to problem resolution.
+Notify the Verification & Validation Section and other stakeholders of the availability of the integrated software for further test actions.
+Maintain a high level of expertise in the technical areas above and stay abreast of software engineering best practices.
+Manage the technical aspects of software engineering for a particular project/product, as required.
+Be responsible for frequent internal co-ordination with project teams, Project Leaders and Product Managers, when assigned to support a project/product.
+Participate in project milestone and artefact reviews to provide expertise in the technical areas above, as directed.
+Participate, under the lead of the Product Managers in meetings, committees and workshops with NATO bodies, nations and industries to provide software engineering expertise, as required.
+Monitor the activities and performance of contractors at working level.
+Deputize for higher grade staff, as required.
+Perform other related duties, as required.
+ 
+Person Specification
+ 
+Qualifications Required
+ 
+You will be required to have a Bachelor of Science (BSc) degree in related discipline; or exceptionally, the lack of a university/college degree may be compensated by a lower academic qualification combined with the demonstration of particular abilities or experience of relevance to this post.
+ 
+ 
+Experience Required
+ 
+In addition to at least 4 years’ relevant experience, you will need to prove:
+At least 2 years spent in software engineering of large-scale distributed software;
+Up-to-date knowledge and experience of computer system architectures, operating systems, hardware and firmware, system interoperability, virtualization, LAN/WAN and network concepts;
+Recent knowledge and experience of software integration on large-scale distributed systems (including integration of off-the-shelf software), performance measurement and testing;
+Current knowledge and experience of programming languages (e.g. Java, C, C++ or C#) and scripting languages (e.g. UNIX shell, Python, Perl or PowerShell);
+Knowledge and experience of automated tools supporting software engineering activities.
+It would be considered highly desirable if you can demonstrate:
+Knowledge and experience of current and evolving capabilities and trends of real-time technology (standards, system architectures, products/vendors, etc.).
+Up-to-date knowledge and experience of database management systems (DBMS) and data management concepts.
+Recent knowledge and experience of IT asset tracking and configuration control tools.
+Current knowledge and experience of software engineering of an air command and control, air traffic control system, data acquisition or real-time scientific processing system.
+Knowledge and experience of the operational use of a current air command and control or air traffic control system (e.g. Air Command and Control System (ACCS)).
+Prior experience of working in an international environment comprising both military and civilian elements.
+ 
+Competencies Required
+ 
+Working with People - Shows respect for the views and contributions of other team members; shows empathy; listens, supports and cares for others; consults others and shares information and expertise with them; builds team spirit and reconciles conflict; adapts to the team and fits in well.
+Relating and Networking - Easily establishes good relationships with customers and staff; relates well to people at all levels; builds wide and effective networks of contacts; uses humour appropriately to bring warmth to relationships with others.
+Presenting and Communicating Information - Speaks fluently; expresses opinions, information and key points of an argument clearly; makes presentations and undertakes public speaking with skill and confidence; responds quickly to the needs of an audience and to their reactions and feedback; projects credibility.
+Writing and Reporting - Writes convincingly; writes clearly, succinctly and correctly; avoids the unnecessary use of jargon or complicated language; writes in a well-structured and logical way; structures information to meet the needs and understanding of the intended audience.
+Applying Expertise and Technology - Applies specialist and detailed technical expertise; uses technology to achieve work objectives; develops job knowledge and expertise (theoretical and practical) through continual professional development; demonstrates an understanding of different organisational departments and functions.
+Learning and Researching - Rapidly learns new tasks and commits information to memory quickly; demonstrates an immediate understanding of newly presented information; gathers comprehensive information to support decision making; encourages an organisational learning approach (i.e. learns from successes and failures and seeks staff and customer feedback).
+Creating and Innovating - Produces new ideas, approaches, or insights; creates innovative products or designs; produces a range of solutions to problems.
+Following Instructions and Procedures - Appropriately follows instructions from others without unnecessarily challenging authority; follows procedures and policies; keeps to schedules; arrives punctually for work and meetings; demonstrates commitment to the organisation; complies with legal obligations and safety requirements of the role.
+Coping with Pressures and Setbacks - Maintains a positive outlook at work; works productively in a pressurised environment; keeps emotions under control during difficult situations; handles criticism well and learns from it; balances the demands of a work life and a personal life.
+Achieving Personal Work Goals and Objectives - Accepts and tackles demanding goals with enthusiasm; works hard and puts in longer hours when it is necessary; seeks progression to roles of increased responsibility and influence; identifies own development needs and makes use of developmental or training opportunities.
+ 
+Language Skills
+Most of the work of the NCI Agency is conducted in the English language, and therefore a thorough knowledge of English, both written and spoken, is essential and some knowledge of French is desirable.
+ 
+ 
+Travel
+Business travel to NATO and national (NATO and non-NATO) facilities as well as frequent travel between the NCI Agency offices.
+May be required to undertake duty travel to operational theatres inside and outside NATO boundaries.
+ 
+ 
+What do we offer?
+Excellent tax-free salary, including (where eligible) expatriation household and children's allowances and additional privileges for expatriate staff.
+Education allowance for children (where appropriate) and an excellent private health insurance scheme.
+Generous annual leave and home leave (if eligible).
+Retirement Pension Plan.
+To learn more about NCI Agency and our work, please visit our website.
+ 
+Please note that due to the Agency’s transition into a new organisational structure, this post will transfer to The Hague by 2018.
+ 
+The Agency’s recruitment team advises you that due to the large volume of applications it receives the screening process may take up to 2 months after closing date. We appreciate your patience.
+
+//---------------------------------------
+
+//----------------
+
+//----------------
+
+
+
+Engineer (Application Support)-160464
+ 
+Primary Location Belgium-Mons
+Organizational Element APPLICATION SERVICE DIRECTORATE
+Schedule Full-time
+Salary (Pay Basis) : 5,102.13Euro (EUR) Monthly
+Grade A.2
+ 
+Description: 
+ 
+Do you have experience with programming languages and platforms like .NET and C#? Can you demonstrate experience in Human Resource IT applications? Can you prove knowledge and experience in state-of-the-art technologies, relevant to software engineering?
+ 
+If the answer is yes, this position is ideal for you.
+ 
+The NCI Agency is currently seeking an Engineer (Application Support) to work in the Directorate of Application Services, within the Service Support and Business Applications Service Line in Mons, Belgium. In this position, under the direction of the Service Owner, you will be responsible for Service Operations for the assigned service applications, including performance monitoring, contribution to service application enhancement, and to the analysis, design, implementation and maintenance of changes to systems.
+ 
+Role Responsibilities
+ 
+This is a position within the NATO Communications and Information Agency (NCIA), an organization of the North Atlantic Treaty Organization (NATO).
+ 
+The NCIA has been established with a view to meeting to the best advantage the collective requirements of some or all NATO nations in the fields of capability delivery and service provision related to Consultation, Command & Control as well as Communications, Information and Cyber Defence functions, thereby also facilitating the integration of Intelligence, Surveillance, Reconnaissance, Target Acquisition functions and their associated information exchange.
+ 
+Director Application Services, DAS, is accountable for the effective and efficient provision of full lifecycle Community of Interest (COI) Services, and User Facing Capabilities as defined in the C3 Classification Taxonomy. Application Services are delivered and managed in coordination with the Operations Centre and the CIS Support Units (CSUs). In addition, DAS is also accountable for the provision of Operational Analysis, including the capture and management of user requirements through the life cycle thereby reducing application development risks. DAS also provides Education and Training services across the full life cycle in support of user missions, operations and NATO preparedness. DAS comprises the following five service lines: Command and Control (C2); Joint Intelligence Surveillance and
+ 
+Reconnaissance (JISR); Service Support and Business Applications (SSBA); Operational Analysis (OA); and, Education and Training (E&T).
+ 
+Under the overall direction of the Service Owner, the successful candidate will perform duties such as the following:
+Responsible for Service Operations for the assigned service applications.
+Support and operation of the assigned systems including:
+Systems operationally used by SHAPE J1 HRDS (for example APMS, AMIS, NSTEP, SHAPE Performance Management System).
+Local systems currently used by SHAPE Base Support Group (ISIPS, SHAPE Housing, MTM).
+Monitoring of performance of the assigned service applications.
+Provision of support services in accordance with the SLA and based on the NCI Agency support levels, roles and responsibilities.
+Maintenance of the operational & support environments.
+Support technical reviews, walkthroughs and audits.
+Gathering and reporting metrics and Key Performance Indicators (KPIs).
+Acting as Point of contact for the CIS Support Units (CSU) and other support staff for daily operations of the system.
+Contribution to service application enhancement & transition for the assigned service applications:
+Identification and implementation of improvement opportunities both within the systems and the processes with particular attention to:
+Identification, centralisation and consolidation of BSG local systems delivered by NCIA CIS Support Units NATO wide.
+Identification of improvements in the support model and service delivery of all APMS related and/or SHAPE J1 HRDS used applications.
+Contribute to the analysis, design, implementation and maintenance of changes to systems authorised by Service Change Control Approval Board (SCCAB).
+Active contribution to relevant projects or service operation across Service Lines where integration is required.
+Provision of professional and technical contributions in the conception, development and co-ordination related to all aspects of software development within the SL projects or services.
+Provision of input to the preparation of functional and technical specifications for software and hardware with special focus on the SSBA SL domain.
+Support to configuration management, release and testing.
+Provision of subject matter expertise and advice as required.
+Contribution to the NCI Agency communication with end users and operational sponsors.
+Provision of briefings and presentations.
+Performing other duties as may be required.
+ 
+Person Specification
+ 
+Qualifications Required
+ 
+You will hold a Master of Science (MSc) degree at a nationally recognised/certified University in a related subject and 2 years post-related experience; Or a Bachelor of Science (BSc) degree at a nationally recognised/certified University in a related subject and 4 years post related experience; Or exceptionally, the lack of a university/college degree may be compensated by the demonstration of a candidate’s particular abilities or experience that is/are of interest to NCI Agency; that is, at least 10 years extensive and progressive expertise in the duties related to the function of the post.
+ 
+Further to this it would be considered highly desirable if you possess the following certification:
+Formal ITIL certification preferably in the Service operation, transition and Continuous improvement.
+Experience Required
+ 
+In addition to at least 2 years’ post-related experience, you will demonstrate:
+Experience and good knowledge of at least one of the following COTS technology:
+PNMSoft Sequence Kinetics.
+CITI ManageID.
+Allocate Software Defence Suite.
+Experience with programming languages and platforms like .NET and C#.
+Experience with Microsoft SQL Server administration.
+Experience in human resource (HR) IT applications related to personnel, posts, organisations, identity management and badges.
+At least 2 years’ experience in various areas of Software Engineering including some of the following:
+Requirements elicitation and management.
+Software design, implementation and testing.
+Programming techniques and methodologies.
+Configuration management practices and tools.
+Agile software development methodologies.
+Knowledge and experience in state-of-the-art technologies, relevant to software engineering:
+Technologies and standards (at least 4 of them): HTML5, REST Services, Web Services, XML, SQL, Visual Basic for Applications, .NET Mobile.
+Application server technologies and Relational data base management systems.
+Application implementation using BPMS concept and technology.
+Knowledge of ITIL IT service management model:
+Experience and knowledge in Service Operations including Incident and Problem Management and Service Transition including Release and Deployment, Test and Validation and Change Management.
+Ability to work in cross functional teams; Application management/development team.
+ 
+It is considered highly desirable if you can demonstrate:
+Knowledge of NATO HR processes.
+Knowledge of post related applications like ISIPS, APMS, AMIS, NSTEP.
+Knowledge of Microsoft SharePoint applications and their administration.
+Cloud computing, SaaS, knowledge of Microsoft Azure.
+Experience with data modelling of complex systems.
+Prior experience of working in an international environment comprising both military and civilian elements.
+Knowledge of NATO responsibilities and organization, including ACO and ACT.
+Design and implementation of Human Machine Interfaces.
+Design patterns.
+Competencies Required
+ 
+Deciding and Initiating Action - Takes responsibility for actions, projects and people; takes initiative and works under own direction; initiates and generates activity and introduces changes into work processes; makes quick, clear decisions which may include tough choices or considered risks.
+Working with People - Shows respect for the views and contributions of other team members; shows empathy; listens, supports and cares for others; consults others and shares information and expertise with them; builds team spirit and reconciles conflict; adapts to the team and fits in well.
+Adhering to Principles and Values - Upholds ethics and values; demonstrates integrity; promotes and defends equal opportunities, builds diverse teams; encourages organisational and individual responsibility towards the community and the environment.
+Relating and Networking - Easily establishes good relationships with customers and staff; relates well to people at all levels; builds wide and effective networks of contacts; uses humour appropriately to bring warmth to relationships with others.
+Writing and Reporting Writes convincingly - writes clearly, succinctly and correctly; avoids the unnecessary use of jargon or complicated language; writes in a well-structured and logical way; structures information to meet the needs and understanding of the intended audience.
+Applying Expertise and Technology - Applies specialist and detailed technical expertise; uses technology to achieve work objectives; develops job knowledge and expertise (theoretical and practical) through continual professional development; demonstrates an understanding of different organisational departments and functions.
+Delivering Results and Meeting Customer Expectations - Focuses on customer needs and satisfaction; sets high standards for quality and quantity; monitors and maintains quality and productivity; works in a systematic, methodical and orderly way; consistently achieves project goals.
+Following Instructions and Procedures - Appropriately follows instructions from others without unnecessarily challenging authority; follows procedures and policies; keeps to schedules; arrives punctually for work and meetings; demonstrates commitment to the organisation; complies with legal obligations and safety requirements of the role.
+Adapting and Responding to Change - Adapts to changing circumstances; tolerates ambiguity; accepts new ideas and change initiatives; adapts interpersonal style to suit different people or situations; shows an interest in new experiences.
+Coping with Pressures and Setbacks - Maintains a positive outlook at work; works productively in a pressurised environment; keeps emotions under control during difficult situations; handles criticism well and learns from it; balances the demands of a work life and a personal life.
+ 
+Language Skills
+Most of the work of the NCI Agency is conducted in the English language, and therefore a thorough knowledge of English, both written and spoken, is essential and some knowledge of French is desirable.
+ 
+ 
+Travel
+Business travel to NATO and national (NATO and non-NATO) facilities as well as frequent travel between the NCI Agency offices.
+May be required to undertake duty travel to operational theatres inside and outside NATO boundaries.
+ 
+ 
+What do we offer?
+Excellent tax-free salary, including (where eligible) expatriation household and children's allowances and additional privileges for expatriate staff.
+Education allowance for children (where appropriate) and an excellent private health insurance scheme.
+Generous annual leave and home leave (if eligible).
+Retirement Pension Plan.
+To learn more about NCI Agency and our work, please visit our website.
+ 
+Please note that due to the Agency’s transition into a new structure in the near future, this post may be subject to transfer to one of our other locations, as well as to a change of reporting lines. The final decision will be made at the time of a firm offer.
+ 
+The Agency’s recruitment team advises you that due to the large volume of applications it receives the screening process may take up to 2 months after closing date. We appreciate your patience.
+ 
+ //-
+Please briefly descruibe your experience of ITIL Service Management Model, specifically:
+Experience and knowledge in Service Operations including: Incident and Problem Management and Service Transition; including Release and Deployment, Test and Validation and Change Management.
+- I has been working using ITIL/CMMI methodology. I have always been involved in the services of deployment and solving bugs.   
+
+Descríbase brevemente su experiencia del Modelo de Gestión de Servicio de ITIL, específicamente:
+Experiencia y conocimiento en Operaciones de Servicio incluyendo: Gestión de Incidentes y Problemas y Transición de Servicios; Incluyendo el lanzamiento y la implementación, la prueba y la validación y la gerencia del cambio.
+//-
+
+//-------------------------------------
+
+Référence
+Developpeur C#-4605  
+Localisation
+Brussels Afficher l'adresse de la société sur une carte (nouvelle fenêtre)
+Description du poste
+Métier
+Conseil en Ingénierie - Ingénieur études - développement
+Intitulé du poste
+Ingénieur études - développement H/F
+Type de contrat
+CDI
+Présentation de l'entreprise
+Présentation Corporate – Groupe SCALIANFournisseur international de solutions et d'expertises,incontournable dans ses spécialités du digital et de la performanceLe groupe SCALIAN accompagne les acteurs majeurs de l'industrie et du service dans la définition et la mise en oeuvre rapide de leurs projets sur deux métiers :Les Systèmes Numériques :Systèmes embarqués et critiques, IOT, systèmes d'information et solutions digitales pour l'entrepriseLa Performance des Opérations :Management des projets, de la qualité et de la performance industrielle
+Description de la mission
+Profil: Vous êtes master ou bachelier en informatique ou ingénieur avec spécialisation en développement logiciel avec une première expérience en entreprise. Une expérience en matière de développement de logiciels sur C# La lecture et la compréhension de plans électroniques et des data sheets de composants électroniques vous est familière, notamment en vue de développer des drivers spécifiques.  Vous maitrisez ou êtes apte à maîtriser des méthodes de développement et de documentation du logiciel basées sur un cycle en ‘V'   Vous êtes autonome et appréciez également le travail en équipe. Vous acceptez que, dans le cadre du cycle de développement, votre travail soit vérifié et validé par des membres de votre équipe ou des tierces personnes. Vous avez une communication claire et une bonne connaissance de l'anglais (lu, écrit, parlé et technique). Environnement technique : Windows application, C# code, C++ driver 4-5 ans d'experience Fonction: Développement d'un dispositif clinique La plate-forme analysera les signaux cérébraux en réponse aux stimulations sonore Vous serez en charge du cycle complet de développement en C# Vous analyserez les besoins des projets et les traduirez en spécifications logicielles. Vous concevrez l'architecture des logiciels en favorisant la performance, la maintenabilité et la réutilisation, et proposerez des solutions en termes d'architecture de système. Vous optimiserez les produits et logiciels en cours de développement. Vous gérerez la configuration du logiciel Vous prescrirez et exécuterez la validation et la vérification du logiciel et amènerez les produits jusqu'à la certification.  
+Formations et compétences
+Environnement technique : Windows application, C# code, C++ driver
+//-------------------------
+ 
+ Senior Analyst Programmer-170142
+ 
+Primary Location Belgium-Glons
+NATO Body NATO Communications and Information Agency (NCI Agency)
+Schedule Full-time
+Salary (Pay Basis) : 6,153.80Euro (EUR) Monthly
+Grade A.3
+ 
+Description: 
+ 
+Do you have experience of Programming in C/C++ and Ada or C/C++ and Java languages? Do you have knowledge of Operating Systems and Networking? Do you have practical experience in a management function, as a Team or Project Leader within a software development team? 
+
+If the answer is Yes, This position is Ideal for you. 
+
+The NCI Agency is currently seeking a Senior Analyst Programmer to work within its AirC2 Programme and Services Directorate, based in our offices; Glons, Belgium (Moving to The Hague, Netherlands, by 2018). As the Senior Analyst Programmer you will be designing and developing modules and interfaces (including HMIs), Testing, documenting and implementing software changes, providing technical advice and guidance to product managers, colleagues and other Agency elements, evaluating change proposals and maintaining the integrity of the software engineering environment and test facility and preparing briefings, demonstrations and regular reports for User Groups and senior staff members as required. 
+
+Role Requirements 
+
+This is a position within the NATO Communications and Information Agency (NCI Agency), an organization of the North Atlantic Treaty Organization (NATO); 
+
+Within the AirC2 PO&S, the NATO Programming Centre is as an organizational structure which performs system development, integration and In Service Support (ISS) for the CRC System Interface (CSI), Multi-site AEGIS Site Emulator (MASE), Link 16 @ 29K and SSSB systems.  The CRC System Interface (CSI) Section provides full system support for the CSI to support and control real-time data exchange between various C2 elements using standardized NATO Data Links.  Tasked by the CSI Memorandum of Understanding Support Board.
+ 
+Duties:
+Under the direction of Head CSI Section, tyou will perform duties such as the following:
+Perform feasibility studies, prototyping and software modelling.
+Design software modules and software interfaces (including human-machine interfaces) according to specified software requirements and within given external constraints. These constraints include the system architecture, system design and also quality, safety and security rules and standards;
+Implement, test and document software changes to new baselines;
+Provide technical advice on system requirements, architecture and design internally to other Agency elements and, in particular, to the Product Managers and to support product risk management;
+Maintain an in-depth knowledge at system level of the supported products with emphasis on system /software architecture;
+Evaluate user change requests (formulated through Engineering Change Proposals (ECP), or other relevant documents) at system architecture level;
+Review software and artefacts produced by other engineers working on the same project;
+Participate in peer reviews of software requirements, architecture, design, source code and respective documentation and follow up on the results;
+Provide guidance to software engineers during system/software implementation to ensure the system integrity;
+Maintain a high level of expertise in the technical areas above and stay abreast of system engineering techniques;
+Deputize for higher grade staff;
+Perform other duties, as may be required.
+The Senior Analyst Programmer may be required to travel for business purposes to NATO, national (NATO and non-NATO) and some Operational facilities (Both Inside and Outside of NATO boundaries). As well as this frequent travel between the NCIA offices may also be required. 
+
+
+Person Specification 
+
+
+Qualifications Required 
+
+The Successful candidate will hold a university degree, from a nationally recognized/certified University in a technical subject with substantial Information Technology (IT); preferably equivalent to a master's degree and supplemented by substantial relevant Information Technology qualifications. 
+
+Exceptionally, the lack of a university/college degree may be compensated by the demonstration of a candidate's particular abilities or experience that is/are of interest to NCI Agency. 
+
+Any Industry Recognized Training / Certifications in relevant areas of expertise would be considered highly desirable.
+
+
+Experience Required 
+
+The ideal candidate will be required to hold, as a minimum, 5 years of post-related experience and be able to display recent experience and in depth working knowledge of:
+State of the art operating systems and network architectures and administration principles.
+Networking and digital communication (LAN / WAN) standards and techniques.
+Modern Programming languages such as C/C++ and Ada or C/C++ and Java.
+UNIX scripting languages.
+Practical experience in management functions as project or team leader of a software development team in the implementation of real-time software solutions.
+In addition to the above qualifications and experience it would be highly desirable if you can display:
+Experience in the software design, development and maintenance of NATO Air Defense (AD) systems; military data links operations/technical/procedures (eg. Link 1, Link 11, Link 11B, Link 16 and Link 22);
+Knowledge of networking and digital communication (LAN / WAN) standards and techniques.
+
+Competencies Required
+Deciding and Initiating Action - Takes responsibility for actions, projects and people; takes initiative and works under own direction; initiates and generates activity and introduces changes into work processes; makes quick, clear decisions which may include tough choices or considered risks.
+Leading and Supervising - Provides others with a clear direction; motivates and empowers others; recruits staff of a high calibre; provides staff with development opportunities and coaching; sets appropriate standards of behavior.
+Working with People - Shows respect for the views and contributions of other team members; shows empathy; listens, supports and cares for others; consults others and shares information and expertise with them; builds team spirit and reconciles conflict; adapts to the team and fits in well.
+Adhering to Principles and Values - Upholds ethics and values; demonstrates integrity; promotes and defends equal opportunities, builds diverse teams; encourages organisational and individual responsibility towards the community and the environment.
+Writing and Reporting - Writes convincingly; writes clearly, succinctly and correctly; avoids the unnecessary use of jargon or complicated language; writes in a well-structured and logical way; structures information to meet the needs and understanding of the intended audience.
+Applying Expertise and Technology - Applies specialist and detailed technical expertise; uses technology to achieve work objectives; develops job knowledge and expertise (theoretical and practical) through continual professional development; demonstrates an understanding of different organisational departments and functions.
+Analysing - Analyses numerical data and all other sources of information, to break them into component parts, patterns and relationships; probes for further information or greater understanding of a problem; makes rational judgements from the available information and analysis; demonstrates an understanding of how one issue may be a part of a much larger system.
+Achieving Personal Work Goals and Objectives - Accepts and tackles demanding goals with enthusiasm; works hard and puts in longer hours when it is necessary; seeks progression to roles of increased responsibility and influence; identifies own development needs and makes use of developmental or training opportunities.
+
+Languages 
+
+Most of the work of the NCI Agency is conducted in the English language, and therefore a thorough knowledge of English, both written and spoken, is essential and some knowledge of French is desirable. 
+
+
+What do we offer?
+Excellent (where eligible) expatriation household and children's allowances and additional privileges for expatriate staff.
+Education allowance for children (where appropriate) and an excellent private health insurance scheme;
+Generous annual leave and home leave (if eligible).
+Retirement Pension Plan
+To learn more about NCI Agency and our work, please visit our website. 
+
+Please note that due to the Agency’s transition into a new structure in the near future, this post is planned to move to our offices in The Hague, Netherlands by 2018. 
+
+The Agency’s recruitment team advises you that due to the large volume of applications it receives the screening process may take up to 2 months. 
+
+We appreciate your patience.
+//---------------------------------
+ 
+ 2017/SatCen/v05/SST/PO-SWD-Project Officer – Space Surveillance and Tracking (SST) Software Developer
+ 
+ Reference: 2017/SatCen/v05/SST/PO-SWD
+ 
+ Type of Post
+Temporary
+Work Unit
+Capability Development
+Responsible to
+Head of SSA Unit
+JOB DESCRIPTION
+ The Project Officer (Space Surveillance and Tracking-SST) software developer provides support to the Head of SSA (Space Situational Awareness) Unit:
+•	Implementation of SSA activities at the EU SatCen;
+•	Analysis, design, development, integration, testing  and maintenance of software applications procured or specifically developed for SST activities at the EU SatCen;
+•	Managing of tasks aimed at developing and/or integrating software ensuring the involvement and coordination of internal and external actors;
+•	Undertaking of additional duties, appropriate to the grade, as directed by the SSA Coordinator.
+
+QUALIFICATIONS AND EXPERIENCE
+ •	Secondary education, preferably in technical or engineering field;
+•	A minimum of 3 years of professional experience is required with at least 1 year in the field of software development;
+•	Knowledge of the institutional framework, and decision making procedures of the European Union, in particular in the Space and Security domains, would be an advantage.
+
+SKILLS AND COMPETENCES
+•	Good knowledge of software development life cycle and modern software engineering methodologies;
+•	Sound development skills and experience with object oriented programming languages (C#/.NET mandatory, Java an advantage).
+•	Good knowledge of both Microsoft and Unix environments;
+•	Experience on web development, modern web user interfaces and web services; 
+•	Knowledge of database management techniques, ORM frameworks and SQL databases;
+•	Experience on desktop application development would be an advantage.
+•	Knowledge of IT security and experience for developing secure applications would be an advantage;
+•	Knowledge of SSA-SST processing and  space debris issues (e.g. orbit determination and analysis) would be an advantage;
+•	Good drafting and communication skills, a good sense of initiative and responsibility is required as well as a dynamic attitude, very hands-on oriented, problem-solver and the ability to collaborate and work in a team;
+•	An excellent command of English and knowledge of another EU language;
+•	Experience in international organizations would be an advantage.
+
+SPECIFIC REQUIREMENTS
+•	Nationality of an E.U. Member State; 
+•	Security Clearance to at least SECRET UE, or equivalent. In case the successful candidate is not in possession of such a clearance, the EU SatCen will request it, but no appointment will be fully confirmed until it has been received; 
+•	Stress resistant and good state of health; 
+•	Driving license.
+
+EMPLOYMENT CONDITIONS
+ •	Employment at EU SatCen is governed by the EU SatCen Staff Regulations;
+•	This post is graded B3/B5  of the Coordinated Organisations salary scale;
+•	Appointments are made for a maximum duration of four years;
+•	Posting is at EU SatCen, Torrejón de Ardoz (Madrid) Spain;
+
+
+//---------------------------------------
+2017/08/25
+//---------------------------------------
+ Analyst Programmer-170211
+ 
+Primary Location Belgium-Mons
+NATO Body NATO Communications and Information Agency (NCI Agency)
+Schedule Full-time
+Salary (Pay Basis) : 5,260.30Euro (EUR) Monthly
+Grade A.2
+ 
+Description: 
+ 
+Do you have sound technical background in the application management area? Can you demonstrate tact and sensitive political awareness as a member of multinational technical teams? Do you have experience in preparing and delivering reports for management decision-making? If the answer is yes, this post is ideal for you.
+The NCI Agency is currently seeking and Analyst Programmer to undertake the execution of a range of important technical tasks to support the various Service Owners and System Managers with particular focus on the support and operation of assigned applications.
+ 
+The NCI Agency has been established with a view to meeting to the best advantage the collective requirements of some or all NATO nations in the fields of capability delivery and service provision related to Consultation, Command & Control as well as Communications, Information and Cyber Defence functions, thereby also facilitating the integration of Intelligence, Surveillance, Reconnaissance, Target Acquisition functions and their associated information exchange.
+ 
+Role Responsibilities 
+ 
+This post is assigned to the Service Support and Business Applications Service Line (SSBA SL) of the NCI Agency’s Application Services Directorate. The Engineer will participate directly in the Service Operations process within the area of responsibility of the SSBA SL that includes:
+Logistics COI Application services
+Medical COI Application services.
+ 
+Under the overall direction of the Service Owner(s), you will perform duties such as the following:
+Supports in-service operations of assigned system, including:
+Supports and operates the assigned system(s);
+Monitors the performance of the assigned systems;
+Provides support services in accordance with the NCI Agency support levels, roles and responsibilities;
+Analyses, designs, implements and maintains changes to services/systems authorised by Service Change Control Approval Board (SCCAB);
+Supports configuration management, release and testing;
+Identifies and implements improvement opportunities both within the systems and the processes;
+Provides subject matter expertise and advice as required;
+Maintains the  operational & support environments;
+Performs technical reviews, walkthroughs and audits.
+ Gathers and reports metrics and Key Performance Indicators (KPIs);
+Acts as Point of Contact with CIS Support Units (CSU) and other support staff for daily operations of the system;
+Contributes to the NCI Agency communication with end users and operational sponsor(s)
+Actively contributes to the relevant projects or service operation across Service Lines where integration is required;
+Provides input to the preparation of functional and technical specifications for software and hardware with special focus on the SSBA SL domain;
+Provides professional and technical advice/support to the conception, development and co-ordination related to all aspects of software development within the SL projects or services;
+Creates briefings and delivers presentations;
+Acts as team leader for assigned engineers/contractors and provides guidance on technical aspects.
+Performs other duties as may be required.
+ 
+Person Specification
+ 
+Qualifications Required
+ 
+You will hold a Master of Science (MSc) degree at a nationally recognised/certified University in a technical subject with substantial Information Technology (IT) content and 2 years post-related experience; or a Bachelor of Science (BSc) degree at a nationally recognised/certified University in a technical subject with substantial Information Technology (IT) content and 4 years post related experience. Exceptionally, the lack of a university/college degree may be compensated by the demonstration of a candidate’s particular abilities or experience that is/are of interest to NCI Agency; that is, at least 10 years extensive and progressive expertise in the duties related to the function of the post.
+ 
+ 
+Experience Required
+ 
+You will be required to demonstrate, as a minimum, 2 years of recent and extensive experience in the following areas of Software Engineering:
+Application administration, operation and support;
+Software maintenance and testing;
+Configuration management practices and tools;
+Agile software development methodologies;
+Requirements elicitation and management.
+To be considered successful, you must demonstrate:
+Knowledge and experience in the following technologies:
+Web Services and SOA;
+Application server technologies;
+Multi-tiered, distributed systems;
+Relational data base management systems;
+Web authoring, design and administration tools;
+Application Lifecycle Management (Microsoft TFS, for example).
+Knowledge of ITIL IT service management:
+Knowledge of IT Service management tools;
+Experience in IT Service Operation and Transition:
+Incident and Problem Management and Request Fulfilment;
+Change Management;
+Release and Deployment Management;
+Independent Test and Validation.
+Ability to communicate effectively orally and in writing with good briefing skills.
+In addition, it will considered highly desirable if you can demonstrate:
+Knowledge of military and/or civilian logistic processes and/or applications;
+Cloud computing, SaaS;
+Experience with the use of  standard architecture frameworks;
+Experience with application support in low bandwidth/high latency networks;
+Experience with data modelling of complex systems;
+Application management/development team work experience;
+Programming experience with languages and platforms, like Java , C#;
+Prior experience of working in an international environment comprising both military and civilian elements;
+Ability to work in cross functional teams;
+Knowledge of NATO responsibilities and organization, including ACO and ACT.
+Competencies Required
+Working with People - Shows respect for the views and contributions of other team members; shows empathy; listens, supports and cares for others; consults others and shares information and expertise with them; builds team spirit and reconciles conflict; adapts to the team and fits in well.
+Relating and Networking - Easily establishes good relationships with customers and staff; relates well to people at all levels; builds wide and effective networks of contacts; uses humour appropriately to bring warmth to relationships with others.
+Presenting and Communicating Information - Speaks fluently; expresses opinions, information and key points of an argument clearly; makes presentations and undertakes public speaking with skill and confidence; responds quickly to the needs of an audience and to their reactions and feedback; projects credibility.
+Applying Expertise and Technology - Applies specialist and detailed technical expertise; uses technology to achieve work objectives; develops job knowledge and expertise (theoretical and practical) through continual professional development; demonstrates an understanding of different organisational departments and functions.
+Formulating Strategies and Concepts - Works strategically to realise organisational goals; sets and develops strategies; identifies, develops positive and compelling visions of the organisation’s future potential; takes account of a wide range of issues across, and related to, the organisation.
+Planning and Organising - Sets clearly defined objectives; plans activities and projects well in advance and takes account of possible changing circumstances; identifies and organises resources needed to accomplish tasks; manages time effectively; monitors performance against deadlines and milestones.
+Achieving Personal Work Goals and Objectives - Accepts and tackles demanding goals with enthusiasm; works hard and puts in longer hours when it is necessary; seeks progression to roles of increased responsibility and influence; identifies own development needs and makes use of developmental or training opportunities.
+ 
+
+Languages 
+
+Most of the work of the NCI Agency is conducted in the English language, and therefore a thorough knowledge of English, both written and spoken, is essential and some knowledge of French is desirable.
+ 
+Contract
+ 
+NCI Agency normally offers contracts of employment of a definite duration, not exceeding three years. Contracts may be for less than three years as required to support short-term projects, meet uncertainty with respect to the business outlook, staff performance and other factors.
+ 
+Definite duration contracts may be extended for further periods. When extending contracts, the following is taken into consideration:
+Renewal is in the interest of the Agency.
+Staff member's desire to remain with the Agency.
+The financial situation provides sufficient funding for the post held.
+The skills, competencies and behaviours, potential and work experience of the staff, versus the requirements of the Agency's work and/or availability of funding.
+Staff member has served the Agency with performance to the required standard as defined by the Agency,
+Staff member's deployability to operational theatre.
+ 
+Serving civilian members of NATO will be offered a contract in accordance with the NATO Civilian Personnel Regulations.
+ 
+The first six months of definite duration contracts are a probationary period. During this period the staff member's work is assessed to ensure that he/she has the ability to carry out the duties of the post. At or before the end of the probationary period, the staff member will be notified in writing that the appointment is confirmed or terminated or, in exceptional cases, that the probationary period is extended.
+
+What do we offer?
+Excellent (where eligible) expatriation household and children's allowances and additional privileges for expatriate staff.
+Education allowance for children (where appropriate) and an excellent private health insurance scheme;
+Generous annual leave and home leave (if eligible).
+Retirement Pension Plan
+To learn more about NCI Agency and our work, please visit our website. 
+
+The Agency’s recruitment team advises you that due to the large volume of applications it receives the screening process may take up to 2 months. 
+
+We appreciate your patience.
+ 
+//---------------------------------------
+2017/08/11
+//---------------------------------------
+C++ SOFTWARE ENGINEER
+
+Location Belgium
+Application deadline
+Friday, 11 August 2017
+Reference number
+074
+Description
+RHEA Group is currently looking for a C++ Software Engineer for one of his client. You will have the opportunity to work in a European Institution for Air Traffic Management, based in Brussels.
+
+Tasks and Activities
+The scope of work will include:
+
+Perform software engineering activities on allocated projects across the full software project lifecycle
+
+Develop and integrate software design of high availability systems
+
+Understanding customer requirements for supporting and resolving software related problems.
+
+Reporting to the Technical Support Manager
+
+Support customers via telephone, email, remote connection and in the field
+
+Flexible, agile approach; able to cope with urgent deadlines and changing priorities.
+
+Able to work from minimal information provided by customers
+
+Skills and Experience
+The following skills and experience are mandatory:
+
+You have a degree in a relevant subject such as computer science, software engineering, math's or physics,…
+
+Strong skills in C++ latest version ( version 11)
+
+ Experience with code profiling
+
+Very good algorithmic skills
+
+Minimum 3 year experience using scripting language such as Unix or Linux
+
+SQL and database programming skills
+
+Ability to work on complex systems
+
+The following skills would be highly desirable:
+
+Knowledge of Corba/IDL
+
+Good knowledge of geometrical software design and the airspace information Management domain
+
+ 
+
+Preference will be given to candidates eligible for an EU or national personal security clearance at the level of SECRET or above.
+
+//---------------------------------------
+
+ApplyAdd to My Job CartShare
+ 
+Job Description - Scientist (Application Developer) (170612)
+ : 04-Dec-2017, 11:59:00 PM  
+Scientist (Application Developer)-170612
+ 
+Primary Location Belgium-Mons
+NATO Body NATO Communications and Information Agency (NCI Agency)
+Schedule Full-time
+Salary (Pay Basis) : 5,260.30Euro (EUR) Monthly
+Grade A.2
+ 
+Description: 
+ 
+Do you have sound technical background in the application management and development area? Can you demonstrate ability in working within cross-functional teams? Do you have excellent communication skills? If the answer is yes, this job is for you!
+ 
+NATO Communications and Information Agency (NCI Agency) is looking for Engineer (Application Developer) with recent and relevant solid expertise in Software Engineering, capable to execute various technical tasks in support of Service Owners and System Managers.
+ 
+Role responsibilities
+ 
+The NCI Agency has been established with a view to meeting to the best advantage the collective requirements of some or all NATO nations in the fields of capability delivery and service provision related to Consultation, Command & Control as well as Communications, Information and Cyber Defence functions, thereby also facilitating the integration of Intelligence, Surveillance, Reconnaissance, Target Acquisition functions and their associated information exchange.
+ 
+You will undertake the execution of a range of important technical tasks to support the various Service Owners and System Managers in the Service Support and Business Applications (SSBA) Service Line (SL). This requires sound technical background in the application management and development area and the ability to demonstrate tact and sensitive political awareness as a member of multinational technical teams. It further includes co-operating closely with current and potential customers as well as internal stakeholders in diverse organizations.
+ 
+Under the overall direction of the Service Owner(s), the incumbent will perform duties such as the following:
+Supporting in-service operations of the system, including:
+Support and operation of the assigned system(s);
+Monitoring of performance of the assigned systems;
+Provision of support services in accordance with the NCI Agency support levels, roles and responsibilities;
+Analysis, design, implementation and maintenance of changes to system authorised by Service Change Control Approval Board (SCCAB);
+Support to configuration management, release and testing;
+Identification and implementation of improvement opportunities both within the systems and the processes;
+Provision of subject matter expertise and advice as required;
+Maintenance of the operational & support environments;
+Technical reviews, walkthroughs and audits.
+Gathering and reporting metrics and Key Performance Indicators (KPIs);
+Acting as Point of contact with CIS Support Units (CSU) and other support staff for daily operations of the system;
+Contribution to the NCI Agency communication with end users and operational sponsor(s);
+Active contribution to relevant projects or service operation across Service Lines where integration is required;
+Provision of input to the preparation of functional and technical specifications for software and hardware with special focus on the SSBA SL domain;
+Provision of professional and technical contributions in the conception, development and co-ordination related to all aspects of software development within the SL projects or services;
+Provision of briefings and presentations;
+Acting as System Manager when required;
+Performing other duties as may be required.
+ 
+Person specification
+Qualifications required:
+ 
+You will hold a university degree in computer science, information and communication technology or closely related scientific or engineering discipline, preferably equivalent to a Master's degree and supplemented by relevant postgraduate qualifications. Exceptionally, the lack of a university degree may be compensated by the demonstration of particular abilities and at least five years' experience of interest to the Agency.
+ 
+Experience required:
+ 
+You will be required to prove at least 2 years relevant experience in various areas of Software Engineering including the following:
+Requirements elicitation and management;
+Software design, implementation and testing;
+Programming techniques and methodologies associated with the duties described above;
+Configuration management practices and tools;
+Agile software development methodologies;
+Design and implementation of Human Machine Interfaces.
+ 
+In addition, you need to demonstrate:
+Knowledge and experience in state-of-the-art technologies, relevant to software engineering, e.g.:
+Programming languages and platforms, like C++, C# and Java, .NET, WCF, WPF, HTML5, REST Services, Web Services, XML, SQL;
+Application server technologies;
+Multi-tiered, distributed systems;
+Service-Oriented architectures;
+Relational data base management systems;
+Web authoring, design and administration tools.
+Knowledge of commonly used standards and best practices for software engineering, including design patterns;
+Knowledge of international, commercial/industrial standards for information processing and transfer of information;
+Knowledge of ITIL IT service management model;
+Knowledge of Incident and Problem Management processes and experience in this area;
+Ability to communicate effectively orally and in writing with good briefing skills.
+ 
+It will be considered and asset if you can demonstrate:
+Knowledge of military and/or civilian logistic processes and/or applications;
+Analytical capability and knowledge of concepts and technologies in areas such as systems analysis, data fusion, decision-making and data processing;
+Former experience and knowledge of Service Transition processes like Release and Deployment, Test and Validation and Change Management;
+Cloud computing, SaaS;
+Experience with the use of standard architecture frameworks;
+Experience with data modelling of complex systems;
+Application management/development teamwork experience;
+Prior experience of working in an international environment comprising both military and civilian elements;
+Ability to work in cross functional teams;
+Knowledge of NATO responsibilities and organization, including ACO and ACT.
+ 
+Competencies Required
+Presenting and Communicating Information - Speaks fluently; expresses opinions, information and key points of an argument clearly; makes presentations and undertakes public speaking with skill and confidence; responds quickly to the needs of an audience and to their reactions and feedback; projects credibility.
+Writing and Reporting - Writes convincingly; writes clearly, succinctly and correctly; avoids the unnecessary use of jargon or complicated language; writes in a well-structured and logical way; structures information to meet the needs and understanding of the intended audience.
+Working with People - Shows respect for the views and contributions of other team members; shows empathy; listens, supports and cares for others; consults others and shares information and expertise with them; builds team spirit and reconciles conflict; adapts to the team and fits in well.
+Adhering to Principles and Values - Upholds ethics and values; demonstrates integrity; promotes and defends equal opportunities, builds diverse teams; encourages organisational and individual responsibility towards the community and the environment.
+Relating and Networking - Easily establishes good relationships with customers and staff; relates well to people at all levels; builds wide and effective networks of contacts; uses humour appropriately to bring warmth to relationships with others.
+Persuading and Influencing - Gains clear agreement and commitment from others by persuading, convincing and negotiating; makes effective use of political processes to influence and persuade others; promotes ideas on behalf of oneself or others; makes a strong personal impact on others; takes care to manage one’s impression on others.
+Planning and Organising - Sets clearly defined objectives; plans activities and projects well in advance and takes account of possible changing circumstances; identifies and organises resources needed to accomplish tasks; manages time effectively; monitors performance against deadlines and milestones.
+Applying Expertise and Technology - Applies specialist and detailed technical expertise; uses technology to achieve work objectives; develops job knowledge and expertise (theoretical and practical) through continual professional development; demonstrates an understanding of different organisational departments and functions.
+Delivering Results and Meeting Customer Expectations - Focuses on customer needs and satisfaction; sets high standards for quality and quantity; monitors and maintains quality and productivity; works in a systematic, methodical and orderly way; consistently achieves project goals.
+ 
+Language skills:
+A thorough knowledge of one of the two NATO languages, both written and spoken, is essential and some knowledge of the other is desirable. NOTE: Most of the work of the NCI Agency is conducted in the English language.
+ 
+Travel:
+Business travel to NATO and national (NATO and non-NATO) facilities as well as travel between NCI Agency locations. May be required to undertake duty travel to operational theatres inside and outside NATO boundaries.
+ 
+What do we offer?
+Excellent tax-free salary, including (where eligible) expatriation household and children's allowances and additional privileges for expatriate staff.
+Education allowance for children (where appropriate) and an excellent private health insurance scheme.
+Generous annual leave and home leave (if eligible).
+Retirement Pension Plan.
+ 
+To learn more about NCI Agency and our work, please visit our website.
+ 
+Please note: Due to the NCI Agency’s transition into a new structure in the near future, this post may be subject to transfer to one of our other locations, as well as to a change of reporting lines. The final decision will be made at the time of a firm offer.
+
+//--------------------------------------------
+
+1.  What is the highest educational level you have obtained? . Required
+Bachelor (Equivalance from my degree)
++2.  How many years of relevant experience in various areas of Software Engineering do you have? . Required
+ Less than 2 years
+ Between 2 and 4 years
+ Between 4 and 6 years
+ Between 6 and 8 years
+ Between 8 and 10 years
+ +Over 10 years
++3.  Please indicate if you have relevant experience in various areas of Software Engineering including the following: . Required
+ Requirements elicitation and management
+ +Software design, implementation and testing
+ +Programming techniques and methodologies associated with the duties of the position
+ Configuration management practices and tools
+ +Agile software development methodologies
+ +Design and implementation of Human Machine Interfaces.
+ None of the above
+4.  Please describe the content of your professional experience in Software Engineering, highlighting your most important achievements related to the areas you checked in the previous question. . Required
+
++ I have worked using diferent methodologies like CMMI-CLI or Agile-Scrum.
+My main achievement has been contribute to implement the software development methodology in my current company, based on Toyota-Kanban adapted to Agile.
+
++5.  Indicate if you have knowledge of: . Required
+ +Commonly used standards and best practices for software engineering, including design patterns
+ International, commercial/industrial standards for information processing and transfer of information
+ +ITIL IT service management model
+ Military and/or civilian logistic processes and/or applications
+ None of the above
+6.  Please describe the content of your knowledeg and experience of Incident and Problem Management processes. . Required
+
++ Depending on the methodology used in the companies where I have worked, the treatment of the incidents have been different.
+Currently, the process is like that:
+1.- Anyone in the company (support or develop team) detect an issue, so open a ticket assigned to one or several developers.
+2.- Then the one who is the responsable of this area, take it and solved. 
+3.- After that the person who create the ticket is the responsable to test it and close it. 
+
++7.  Indicate if you have knowledge and experience in the fields below: . Required
+ +Programming languages and platforms, like C++, C# and Java, .NET, WCF, WPF, HTML5, REST Services, Web Services, XML, SQL
+ +Application server technologies
+ +Multi-tiered, distributed systems
+ +Service-Oriented architectures
+ +Relational data base management systems;Web authoring, design and administration tools
+ None of the above.
+8.  Please describe briefly the content of your knowledge and experience in state-of-the-art technologies relevant to software engineering, highlighting your most important achievements related to the areas you checked in the previous question. . Required
+
++  I have programmed using several architectures, lenguages and tecnologies like Java, C++, C# or SQL. 
+Currently I am developing in .NET 4.6 C# using MVVM architecture. 
+My main achievement is a module that I designed and developed in my current company, it is working today in NASA using to design spacecrafts.
+
+
++9.  Do you have experience with the use of standard architecture frameworks? . Required
+ +Yes
+ No
++10.  Do you have experience with data modelling of complex systems? . Required
+ +Yes
+ No
++11.  Do you have professional with Cloud computing and Software as a Service (SaaS)? . Required
+ Yes
+ +No
+?12.  Please indicate if you have knowledge of concepts and technologies in areas such as: . Required
+ +Systems analysis
+ Data fusion
+ +Data processing
+ None of the above
+ 
+ //---------------------
+Career Opportunities: Software Engineer (4922)
+Req ID 4922 - Posted 20/12/2017
+  Job Description Print Preview
+Apply
+ 
+Apply Using LinkedIn™
+ 
+Save Job
+ 
+Email Job to Friend
+ 
+Return to List
+
+ 
+
+
+EUROPEAN SPACE AGENCY
+
+ 
+
+Vacancy in the Directorate of Technology, Engineering and Quality.
+
+ 
+
+ESA is an equal opportunity employer, committed to achieving diversity within the workforce and creating an inclusive working environment. Applications from women are encouraged.
+
+ 
+
+Post
+Software Engineer
+
+ 
+
+This post is classified A2-A4 on the Coordinated Organisations’ salary scale.
+
+ 
+
+Location
+ESTEC, Noordwijk, The Netherlands  
+
+ 
+
+Description
+
+ 
+
+Software Engineer in the Flight Software Systems Section, Software Systems Division, Systems Department, Directorate of Technology, Engineering and Quality.
+
+ 
+
+The Flight Software Systems Section provides functional support to ESA projects and carries out research studies (R&D) in the field(s) of real-time embedded software systems, flight software systems development and software validation facilities.
+
+Duties
+
+ 
+
+Reporting to the Head of Section and within the technical fields described above, the main tasks and responsibilities of the post holder will include:
+
+ 
+
+providing expert technical support and consultancy to ESA projects, programmes and general studies in the field of real-time embedded software systems, flight software systems development and software validation facilities;
+participating in feasibility studies, project reviews and evaluation of procurement proposals;
+identifying critical development problems and assisting in their resolution;
+contributing to the definition of technology development requirements and work plans for the Agency’s technology programmes;
+defining, initiating and managing R&D activities covering both long- and short-term needs;
+fostering new application areas for multidisciplinary activities, placing emphasis on innovative concepts, cutting-edge technologies and system architectures;
+monitoring applicable scientific and technological trends and maintaining a state-of-the-art expertise;
+contributing to the dissemination of the results of the activities performed and the transfer of knowledge across the Agency
+Duties may also include supporting other activities within the post holder’s field of competence.
+
+Technical competencies
+
+Software engineering methods and tools
+
+Real-time embedded software
+
+Experience in software development projects
+
+Spacecraft systems knowledge
+
+Project support experience in a relevant domain
+
+Experience in the management and monitoring of industrial activities, including participation in reviews
+
+Experience with Space Engineering Standards and their preparation and implementation
+
+Behavioural competencies
+
+Communication
+
+Teamwork
+
+Problem Solving
+
+Results Orientation
+
+Planning & Organisation
+
+Continuous Learning
+
+Education
+
+ 
+
+A Master’s degree or equivalent qualification in computer science and/or electrical engineering is required.
+
+Additional requirements
+
+ 
+
+Applicants for this post should have a background and experience in embedded real-time systems. Extensive knowledge of modern software engineering and practical experience in spacecraft software engineering is required.
+
+ 
+
+ 
+
+Other information
+
+ 
+
+For behavioural competencies expected from ESA staff in general, please refer to the ESA Competency Framework.  
+
+  
+The working languages of the Agency are English and French. A good knowledge of one of these is required. Knowledge of another Member State language would be an asset.     
+
+The Agency may require applicants to undergo selection tests.
+
+ 
+
+The closing date for applications is  31 January 2018
+
+ 
+If you require support with your application due to a disability, please email contact.human.resources@esa.int.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Please note that applications are only considered from nationals of one of the following States: Austria, Belgium, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Luxembourg, the Netherlands, Norway, Poland, Portugal, Romania, Spain, Sweden, Switzerland, the United Kingdom and Canada and Slovenia.
+
+ 
+
+According to the ESA Convention the recruitment of staff must take into account an adequate distribution of posts among nationals of the ESA Member States. Priority will first be given to internal candidates and secondly to external candidates from under-represented Member States when short-listing for interview.
+(http://esamultimedia.esa.int/docs/careers/NationalityTargets.pdf)
+
+ 
+
+In accordance with the European Space Agency’s security procedures and as part of the selection process, successful candidates will be required to undergo basic screening before appointment. 
+
+ //-------------------
+
+	
+
+Software and Database Developer - NOC-DE-2018-FGIII/061 (1 post)
+
+Function ID:
+
+10907
+
+Location:
+Brussels
+
+
+
+Return to Previous Page
+
+
+
+
+
+
+
+
+DIRECTORATE / SERVICE
+
+Brussels (Belgium) - Directorate European Civil-Military Aviation – Support to SES-related policies (DECMA/POL)
+ 
+FG III Grades 8/9/10
+ 
+
+DIRECTORATE CONTENT
+
+ROLE OF THE DIRECTORATE EUROPEAN CIVIL-MILITARY AVIATION (DECMA) &SUPPORT TO SES-RELATED POLICIES (POL)
+The Directorate European Civil-Military Aviation DECMA is designed to support safety, aviation and ATM on a pan-European basis proactively, positively and in a cost-positive manner that leverages efficiencies and achieves synergies in terms of a reduced staff complement reflecting the Agency’s retirement profile in the years ahead. It is responsible for:
+proposing, coordinating and supporting with top-level civil and military ATM expertise the evolution of European ATM;
+civil-military and military-military ATM coordination;
+fostering the pan-European implementation of the Single Sky, and related policies to enhance ATM efficiency in Europe;
+providing impartial and independent performance assessment for European ATM;
+providing the administrative support and assistance to the Performance Review Commission (PRC) as foreseen in paragraph 5 of Decision No 72 of the Permanent Commission of 9 December 1997 through the Performance Review Unit (PRU) as laid down in the Terms of Reference and Rules of Procedure of the Performance Review Commission;
+providing support to the European Commission (EC) in accordance with arrangements and co-operation agreements with the EC in relation, inter alia, to the performance and charging schemes;
+providing the administrative support and assistance to the Safety Regulation Commission, as foreseen in paragraph 5 of Decision No 72 of the Permanent Commission of 9 December 1997.
+Within DECMA, the Support to SES-related policies Unit supports a wide range of stakeholders in the aviation sector by facilitating the measurement, monitoring and mitigation of the impact that aviation has on the environment.
+ 
+
+JOB RESPONSIBILITIES
+
+The successful candidate will:
+gather the information about system requirements (software, applications, databases, interfaces, etc.) from ETS Support Facility team members and end-users, and to analyse requirements and their feasibility;
+assist in determining system modifications and enhancements of existing or new functionalities, improvements to, or development of, B2B web service-based operations and applications compliant with external users’ systems, and to review data verification and maintenance processes;
+develop, test and deploy software, as per specifications and designs, for the required modifications and enhancements;
+report on status, anomalies and discrepancies as a result of test execution and to recommend corrective actions;
+conduct corrective, adaptive, perfective and preventive maintenance as required;
+draft and maintain relevant documentation for existing and new functionalities (user requirements, technical specifications, workflow/process diagrams, system architecture);
+perform any other task in line with the main purpose of the job.
+ 
+
+REQUIRED PROFILE
+
+Post-secondary education attested by a diploma (e.g. Bachelor degree or similar) preferably related to Computer Science, Software Engineering or IT.
+A minimum of 3 years’ relevant professional experience in line with the described duties.
+Experience in web-based application design, development, testing and documentation.
+Web services and applications development.
+Experience in the following development languages:
+ASP, .NET Framework
+SOAP programming
+SQL
+Database programming
+Experience in the following development languages would constitute an advantage:
+Oracle
+Oracle PL/SQL
+Oracle application express
+Knowledge in processing airspace and flight planning data would be an advantage.
+Technical drafting skills (English)
+Analytical thinking: Analyses information and identifies relationships
+Communication: Expresses information and ideas effectively
+Customer focus: Adapts services to respond to customer needs
+Quality focus: Sets and fosters high quality standards
+Decision making: Takes decisions based on balanced arguments 
+Ability to work in a multinational and multicultural environment.
+Professional conduct in line with corporate behaviours of the Agency, i.e. result-driven, readiness to change, customer focus, integrity and team player approach. 
+The working languages of the Agency are English and French. For this particular post, thorough knowledge of English (written/oral) and satisfactory knowledge of French, to the extent necessary for the performance of the described duties, are required.
+ 
+
+ADDITIONAL INFORMATION
+
+An initial selection will be made by a Selection Committee on the basis of the candidates' qualifications and experience. Thereafter, those candidates considered suitable may be invited to assessment and interviews.
+Candidates should apply on-line by answering the 2 questions of the on-line form, and attaching a curriculum vitae, preferably the Europass CV, and a covering letter in pdf format of 500 KB maximum.
+Applications will be accepted from nationals of EUROCONTROL Member States only. Agency staff subject to the Staff Regulations governing officials, the General Conditions of Employment governing servants at the Maastricht Upper Area Control Centre, or the Conditions of Employment of Contract Staff are considered internal candidates. At the closing date of the notice of competition, internal candidates must have completed their probationary period.
+The selected candidate will be offered a contract of three years pursuant to the provisions of the Conditions of Employment of Contract Staff at EUROCONTROL. The contract may be renewed. Before being confirmed in the post, he/she will be required to provide certified copies of his/her degrees and successfully serve a probationary period of 9 months.
+This notice may be used for the recruitment of similar posts, for a period of one year following the establishment of the reserve list.
+The selected candidate will be engaged in principle at the basic grade of the advertised job bracket.
+The generic post is: Assistant
+Information on salary and benefits can be found on the web page: http://www.eurocontrol.int/articles/what-we-offer
+EUROCONTROL is an equal opportunity employer and encourages applications from female candidates.
+This competition is published on 20/06/2018, the closing date is 01/08/2018.
+
+-- Experience and expertise: Please give a summary of your relevant experience and expertise to demonstrate how you meet the requirements 
+of the vacancy notice. (Max. 5000 characters)
+
++  I have programmed using several architectures, lenguages and tecnologies like Java, C++, C# or SQL. 
+I have got experience developing web aplications in my first comnpany and web sevices in Accenture.
+Also I have worked in diferents types of databases.
+Currently I am developing in .NET 4.6 C# using MVVM architecture. 
+My main achievement is a module that I designed and developed in my current company, it is working today in NASA using to design spacecrafts.
+
+
+-- Skills and personal qualities: Please describe the skills and personal qualities that you could bring to this job. (Max. 5000 characters)
+
+//---------------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ SP_AMPowderThermalConductivityFactor
+ 
+ 
+ 
+ 
+ 
+ 
+1_4_1_newFeatureUSMixed
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SP_AMStripeWidth	Stripe width	
+ SP_AMMinimumStripeLength	Minimum stripe length	
+ SP_AMConvectionCoeffOnTopFace	Convection on top face	
+ SP_AMConvectionCoeffOnBottomFace	Convection on bottom face	
+ SP_AMConvectionCoeffOnSidesFaces	Convection on side faces	
+ SP_ExternalTemperature	External temperature	
+ SP_AMUseMultiPhaseAnalysis	Apply Multi-phase Analysis	
+ SP_AMPowderPackingFraction	Powder packing fraction	
+ SP_AMPowderThermalConductivityFactor	Powder thermal conductivity scaling factor	
+
+
+if (i % 2 == 1)
+                    newArrow.InverseOrientation(true);
+                _arrows.Add(newArrow);
+
+				
+				SP_AMInherentStrain_XX	Plastic Strain XX	
+Strings.SP_AMInherentStrain_XX_Shrinkage	Strain XX	
+Strings.SP_AMInherentStrain_XY_Shrinkage	Strain XY	
+Strings.SP_AMInherentStrain_XZ_Shrinkage	Strain XZ	
+Strings.SP_AMInherentStrain_YX_Shrinkage	Strain YX	
+Strings.SP_AMInherentStrain_YY_Shrinkage	Strain YY	
+Strings.SP_AMInherentStrain_YZ_Shrinkage	Strain YZ	
+Strings.SP_AMInherentStrain_ZX_Shrinkage	Strain ZX	
+Strings.SP_AMInherentStrain_ZY_Shrinkage	Strain ZY	
+Strings.SP_AMInherentStrain_ZZ_Shrinkage	Strain ZZ	
+
+{ Name = Strings.SP_AMInherentStrain_XX_Shrinkage }
+{ Name = Strings.SP_AMInherentStrain_XY_Shrinkage }
+{ Name = Strings.SP_AMInherentStrain_XZ_Shrinkage }
+{ Name = Strings.SP_AMInherentStrain_YX_Shrinkage }
+{ Name = Strings.SP_AMInherentStrain_YY_Shrinkage }
+{ Name = Strings.SP_AMInherentStrain_YZ_Shrinkage }
+{ Name = Strings.SP_AMInherentStrain_ZX_Shrinkage }
+{ Name = Strings.SP_AMInherentStrain_ZY_Shrinkage }
+{ Name = Strings.SP_AMInherentStrain_ZZ_Shrinkage }
+
+
+segmentA_point_X, segmentA_point_Y, segmentB_point_X, segmentB_point_Y, segmentC_point_X, segmentC_point_Y, segmentD_point_X, segmentD_point_Y = 0.0;
+
+
+='12'!B20	=SOMME('12'!D20:F20)
+='12'!B40	=SOMME('12'!D40:F40)
+='12'!B60	=SOMME('12'!D60:F60)
+='12'!B80	=SOMME('12'!D80:F80)
+='12'!B100	=SOMME('12'!D100:F100)
+='12'!B120	=SOMME('12'!D120:F120)
+='12'!B140	=SOMME('12'!D140:F140)
+='12'!B160	=SOMME('12'!D160:F160)
+='12'!B180	=SOMME('12'!D180:F180)
+='12'!B200	=SOMME('12'!D200:F200)
+='12'!B220	=SOMME('12'!D220:F220)
+='12'!B240	=SOMME('12'!D240:F240)
+='12'!B260	=SOMME('12'!D260:F260)
+='12'!B280	=SOMME('12'!D280:F280)
+='12'!B300	=SOMME('12'!D300:F300)
+='12'!B320	=SOMME('12'!D320:F320)
+='12'!B340	=SOMME('12'!D340:F340)
+='12'!B360	=SOMME('12'!D360:F360)
+='12'!B380	=SOMME('12'!D380:F380)
+='12'!B400	=SOMME('12'!D400:F400)
+='12'!B420	=SOMME('12'!D420:F420)
+='12'!B440	=SOMME('12'!D440:F440)
+='12'!B460	=SOMME('12'!D460:F460)
+='12'!B480	=SOMME('12'!D480:F480)
+='12'!B500	=SOMME('12'!D500:F500)
+='12'!B520	=SOMME('12'!D520:F520)
+
+
+
+
+=SOMME(C10:AX10)
+=SOMME(C11:AX11)
+=SOMME(C12:AX12)
+=SOMME(C13:AX13)
+=SOMME(C14:AX14)
+=SOMME(C15:AX15)
+AdditiveManufacturing3D_Meso
+
+VE_MesoSubstrateIsNotCreated	Please create a meso-substrate part	
+
+
+Nun liebe kinder gebt fein acht
+ich bin die stimme aus dem kissen
+ich hab euch etwas mitgebracht
+hab es aus meiner brust gerissen
+mit diesem herz hab ich die macht
+die augenlider zu erdressen
+Ich singe bis der tag erwacht
+ein heller schein am firmament
+mein herz brennt
+
+
+RM #2129
+RM #2143
+RM #2231
+RM #2253
+RM #2257
+RM #2275
+RM #2324
+RM #2325
+RM #2336
+
+My love and me as we sing
+Our early morning singing song
+
+Du
+Du hast
+Du hast mich
+
+Du
+Du hast
+Du hast mich
+
+Du
+Du hast
+Du hast mich
+
+Du
+Du hast
+Du hast mich
+
+Du
+Du hast
+Du hast mich
+Du hast mich
+Du hast mich gefragt
+Du hast mich gefragt
+Du hast mich gefragt und ich hab nichts gesagt
+
+Willst du bis der Tod uns scheidet 
+treu sein für alle Tage
+
+Nein!
+Nein!
+
+Willst du bis der Tod uns scheidet 
+treu sein für alle Tage
+
+Nein!
+Nein!
+
+Du
+Du hast
+Du hast mich
+
+Du
+Du hast
+Du hast mich
+
+Du
+Du hast
+Du hast mich
+Du hast mich
+Du hast mich gefragt
+Du hast mich gefragt
+Du hast mich gefragt und ich hab nichts gesagt
+
+Willst du bis der Tod uns scheidet 
+treu sein für alle Tage
+
+Nein!
+Nein!
+
+Willst du bis zum Tod, der scheidet
+Sie lieben auch in schlechten Tagen
+
+Nein!
+Nein!
+
+Willst du bis der Tod uns scheidet 
+treu sein für alle Tage
+
+Nein!
+Nein!
+/-----
+Goede morgen morgen
+Goeie morgen, morgen, goeie dag
+Goeie morgen, goeie morgen
+Blij dat ik je weer vanmorgen zag
+Goeie morgen, goeie morgen
+Goeie dag iedereen
+Dank U wel dat ik er weer bij mag lopen
+Zingen, dansen
+
+Goeie morgen, morgen, ik ben blij
+Goeie morgen, goeie morgen
+Want ik mag er immers weer al bij
+Goeie morgen, goeie morgen
+Goeie dag, zonneschijn
+Dank U morgen dat ik mag zijn
+
+
+De wereld is een schouwtoneel dat wij bespelen
+Voor iedereen zijn luchtkasteel om van te delen
+ En krijgen we niet al te veel, 't kan ons niet schelen
+We vinden ook het minste deel sensationeel
+
+Goeie morgen, morgen goeie dag
+Goeie morgen, goeie morgen
+Blij dat ik je weer beleven mag
+Goeie morgen goeie morgen
+Goeie dag allemaal
+Dank U morgen voor het onthaal
+
+De wereld is een schouwtoneel dat wij bespelen
+Voor iedereen zijn luchtkasteel om van te delen
+En krijgen we niet al te veel, 't kan ons niet schelen
+We vinden ook het minste deel sensationeel
+
+De wereld is een schouwtoneel dat wij bespelen
+Voor iedereen zijn luchtkasteel om van te delen
+En krijgen we niet al te veel, 't kan ons niet schelen
+We vinden ook het minste deel sensationeel
+
+
+
+https://www.youtube.com/watch?v=YH4c-EXooQU
+
+https://www.youtube.com/watch?v=IRA9VQb_2q8
+
+//---HIPOTECA---
+
+NOTICIAS › GASTOS DE FORMALIZACIÓN DE HIPOTECA
+NOTICIAS JULIO 2017
+
+13.07.2017
+Habitualmente, los clientes afrontan una serie de gastos por la formalización y tramitación de los préstamos hipotecarios que suscriben con las entidades financieras.
+
+A este respecto, y ya que no hay ninguna norma que establezca de antemano las cantidades que una entidad puede exigir a su cliente en concepto de provisión de fondos, la transparencia que debe presidir las relaciones banco-cliente exige que las entidades informen adecuadamente de este desembolso antes de la contratación, desglosando los distintos conceptos de gasto y procurando, además, que las provisiones que requieran a sus clientes se ajusten al máximo a lo necesario, para poder así conocer con razonable aproximación la totalidad de cargas que se debe asumir.
+
+La sentencia del Tribunal Supremo núm. 705/2015, de 23 de diciembre de 2015, declaró la nulidad por abusivas de varias cláusulas contenidas en determinados contratos de préstamo hipotecario de dos entidades de crédito. Entre dichas cláusulas, se encontraban las que establecían la atribución en exclusiva al consumidor de todos los tributos y gastos ocasionados por la formalización de la operación, así como por la constitución, conservación y cancelación de su garantía.
+
+A raíz de dicha sentencia, está habiendo un sustancial aumento de las reclamaciones que se están recibiendo en el Departamento de Conducta de Mercado y Reclamaciones (DCMR) sobre este caso.
+
+Por ello, es conveniente recordar que este Departamento debe limitarse, por las normas que regulan su funcionamiento, a la valoración del cumplimiento de la normativa de transparencia y de las buenas prácticas bancarias de las entidades reclamadas, no siendo el órgano competente para: i) determinar el carácter abusivo de una cláusula contractual, ni la nulidad de un contrato o ii) efectuar pronunciamiento alguno en relación con la devolución de las cantidades que hayan sido cobradas por la entidad. Tales cuestiones corresponden, en exclusiva, a los tribunales.
+
+No obstante, se entiende que, según la lógica de las buenas prácticas bancarias, resulta exigible que las entidades que hayan comercializado préstamos hipotecarios realicen un análisis de las reclamaciones presentadas por su clientela según los criterios establecidos por el Tribunal Supremo.
+
+En todo caso, si desea ampliar información sobre los criterios del DCMR al respecto de la “Tramitación administrativa de la hipoteca”, le recomendamos que consulte las páginas 68 a 70 de la Memoria de Reclamaciones del Banco de España del año 2016Abre en nueva ventana.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Paroles de World On Fire
+
+Parler de révolution c'est comme cracher au plafond 
+Ça ne fera pas crever le plancher de l'exploitation car 
+L'anti-capitalisme est une idée vide 
+A moins de ne vivre que du troc, soyons lucide 
+L'ère industrielle du siècle dernier 
+Puis l'ère informatico-numérique, on ne peut pas nier
+La machine est bien huilée, je n'ai rien contre le progrès
+Mais le problème toujours le même, les richesses partagées
+
+Ne laissez pas la haine du système
+Ne laissez pas la haine s'installer!
+Ne laissez pas la haine du système
+Ne laissez pas la haine s'exprimer!
+Ne laissez pas la haine du système
+Ne laissez pas la haine s'installer!
+Ne laissez pas la haine du système
+Ne laissez pas la haine s'exprimer!
+
+World on fire!
+World...
+World on fire!
+World on fire! World on fire! War!
+World on fire! World on fire! Fire!
+World on fire! World on fire! War!
+World on fire! World on fire!
+World on fire! World on fire! War!
+World on fire! World on fire! Fire!
+World on fire! World on fire! War!
+World on fire! World on fire!
+
+Taux de croissance à la con, fascisme économique
+Faut que ça grimpe chaque année c'est pathologique
+Orgasme financier, éjaculation de billets
+Sous les pavés la plage privée de ces enculés
+
+Ne laissez pas la haine du système
+Ne laissez pas la haine s'installer!
+Ne laissez pas la haine du système
+Ne laissez pas la haine s'exprimer!
+
+Fantasme assouvi retour à la réalité
+Le crack est boursier et la classe ouvrière humiliée
+68 et son mois de mai
+Une kermesse face aux colères annoncées
+
+Ne laissez pas la haine du système
+Ne laissez pas la haine s'installer!
+Ne laissez pas la haine du système
+Ne laissez pas la haine s'exprimer!
+Ne laissez pas la haine du système
+Ne laissez pas la haine s'installer!
+Ne laissez pas la haine du système
+Ne laissez pas la haine s'exprimer!
+
+World on fire!
+World...
+World on fire!
+World on fire! World on fire! War!
+World on fire! World on fire! Fire!
+World on fire! World on fire! War!
+World on fire! World on fire!
+World on fire! World on fire! War!
+World on fire! World on fire! Fire!
+World on fire! World on fire! War!
+World on fire! World on fire!
+
+
+
+
+
+We're scanning the scene
+In the city tonight
+We're looking for you
+To start up a fight
+There is an evil feeling in our brains
+But it is nothing new
+You know it drives us insane
+
+[Chorus]
+Running, on our way
+Hiding, you will pay
+Dying, one thousand deaths
+Running, on our way
+Hiding, you will pay
+Dying, one thousand deaths
+Searching, seek and destroy
+Searching, seek and destroy
+Searching, seek and destroy
+Searching, seek and destroy
+
+[Verse 2]
+There is no escape
+And that is for sure
+This is the end we won't take any more
+Say goodbye
+To the world you live in
+You have always been taking
+But now you're giving
+
+//----- 
+
+[Chorus]
+Running, on our way
+Hiding, you will pay
+Dying, one thousand deaths
+Running, on our way
+Hiding, you will pay
+Dying, one thousand deaths
+Searching, seek and destroy
+Searching, seek and destroy
+Searching, seek and destroy
+Searching, seek and destroy
+
+[Verse 3]
+Our brains are on fire
+With the feeling to kill
+And it will not go away
+Until our dreams are fulfilled
+There is only one thing
+On our minds
+Don't try running away
+Cause you're the one we will find
+
+[Chorus]
+Running, on our way
+Hiding, you will pay
+Dying, one thousand deaths
+Running, on our way
+Hiding, you will pay
+Dying, one thousand deaths
+Searching, seek and destroy
+Searching, seek and destroy
+Searching, seek and destroy
+Searching, seek and destroy
+
+
+
+        static public void SelectorConditions(AgentSelectorBaseVM selector)
+        {
+            selector.Conditions = Strings.WARN_SingleCadModel;
+            selector.Conditions = Strings.WARN_CadModelInUse;
+            if (AnalysisGlobalM.AnalysisTypes.Solid.HasFlag(AnalysisGlobalM.Instance.RunningAnalysisType))
+            {
+                selector.Conditions = Strings.WARN_CadModelIsNotSolid;
+            }
+            selector.Conditions = Strings.WARN_CadModelIsSolidInSheet;
+            selector.Conditions = Strings.WARN_CadModelIsNotSpecimen;
+            selector.Conditions = Strings.WARN_CadModelHasConsumer;
+        }
+02 353 01 34
+
+
+Please test it in '\\GEONX-FS\Virfac_QA\1_4_3\POS_File_researching\'.
+
+{"Method not found: 'PLMComponents.Parasolid.PK_.Unsafe.BODY_t VirfacLib_1_3.Geometry.Models.CadModelPSM.get_Body()'."}
+
+
+
+        private void OnSelectedAgentsCountChanged(object sender, PropertyChangedEventArgs e)
+        {
+            if ((SelectedAgents.Count == 0) && (ScenesManagerVM.Instance.ActiveScene.SelectedAgents.Any()) && !SelectedAgentsBlocked)
+            {
+                SelectedAgentsBlocked = true;
+                foreach (var agent in ScenesManagerVM.Instance.ActiveScene.SelectedAgents.ToList())
+                {
+                    //if ((agent.AgentType == AgentBaseVM.AgentTypes.Volume)
+                    //    || (agent.AgentType == AgentBaseVM.AgentTypes.Face)
+                    //    || (agent.AgentType == AgentBaseVM.AgentTypes.Edge))
+                    //{
+                        SelectedAgents.Add(agent);
+                        SelectedAgents.Remove(agent);
+                    //}
+
+                }
+                SelectedAgentsBlocked = false;
+            }
+        }
+		
+		
+		Hello again Mrs Gonzales !
+I visited your apartment this morning with my client and I felt free to ask you some more questions as the estate agent kindly gave me your phone number.
+We don’t remember if the kitchen is equipped with a big freezer ?
+And finally have you an idea of when the apartment would be totally available ?
+Thank you so much for your time and your kindness !
+Patricia (relocation agent)
+
+Hello Patricia,
+
+Yes, the kitchen is equipped with the freezer.
+The apartment could be disponsable on November 17th, Friday.
+
+Thank you so much.
+Kind regards.
+
+Rocío.
+
+
+You are a witch, you should burn in the bonfire.
+
+Actually we are going to move to a house next week. It's here in Waterloo 2 km at south where we are living today. The house is very old but has garage and garden.
+
+Also we have pass difficult times. A month ago, my mother in law has passed by, so we had to go very fast (the good things to live in Belgium,we took the tickets in the afternoon) and we arrived in the evening. And all the funeral stuff, al least with Martina everyone was happy at the cementery.
+
+Anyway, I'm still working in GeonX and Linh ask the other if I had news about you, hehehe, today I've got.
+
+I'm happy that finally you have found a job in the "nice zone" of Canada enjoing of SolidWorks.
+
+A bientôt Madame.
+
+TTip_ChoseClad	Choose between circular or wall cladding.
+
+ <data name="WARN_IsNotCadFaces" xml:space="preserve">
+    <value>The selection is not a valid CAD Face.</value>
+	<!-- ELISE COMMENT . I THINK IT SHOULD BE "Selected items should belong to the current assembly". PLEASE CONFIRM -->
+  </data>
+  
+  
+UIE_SelectSingleWorkpiece	Select a single workpiece
+UIE_SelectSingleJig	Select a single jig
+UIE_SelectSingleSpecialJoint	Select a single special joint
+UIE_SelectMultipleWorkpiece	Select multiple workpieces
+UIE_SelectMultipleJig	Select multiple jigs
+UIE_SelectMultipleSpecialJoint	Select multiple special joints
+
+UIE_SelectGeneratedWeldBead	Select weld bead path
+UIE_SelectImportedWeldBead	Select welding path on weld bead
+
+
+
+WARN_PointInAssembly	Selected point must belong to an assembly.
+WARN_FacesInAssembly	Selected faces must belong to an assembly.
+
+
+
+
+WARN_CadModelsInUse	CAD models cannot be already connected to another part.
+
+
+
+UIE_SelectAContactLayer	Select a contact layer	
+
+
+WARN_NotBackingPlate	The selected volume should not be already selected as a backing plate.
+
+
+
+
+WARN_CadFaceUniqueInTool	 Selected faces must not be already defined as another face in this tool.	
+
+
+FSWToolTopFaces
+FSWShoulderScrollFaces
+FSWProbeBottomFaces
+FSWProbeSideFaces
+
+
+You can replace VTK's default output window with one that writes the errors to a file:
+
+vtkOutputWindow *w = vtkFileOutputWindow::New();
+w->SetFileName("vtk_errors.txt")
+vtkOutputWindow::SetInstance(w);
+w->Delete(); // now SetInstance owns the reference
