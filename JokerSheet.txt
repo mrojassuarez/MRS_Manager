@@ -2054,6 +2054,10 @@ My main achievement is a module that I designed and developed in my current comp
 
 -- Skills and personal qualities: Please describe the skills and personal qualities that you could bring to this job. (Max. 5000 characters)
 
++ I am a team worker habituated to work in an Agile enviroment (Kanvan or Scrum).
+I always focus my job in problem-solving.
+For my experience, I have the ability to adapt quickly to new environments, technologies and people.
+
 //---------------------
  
  
