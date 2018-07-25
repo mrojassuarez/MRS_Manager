@@ -2621,3 +2621,5 @@ vtkOutputWindow *w = vtkFileOutputWindow::New();
 w->SetFileName("vtk_errors.txt")
 vtkOutputWindow::SetInstance(w);
 w->Delete(); // now SetInstance owns the reference
+
+
