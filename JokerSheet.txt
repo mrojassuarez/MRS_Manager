@@ -2623,3 +2623,5 @@ vtkOutputWindow::SetInstance(w);
 w->Delete(); // now SetInstance owns the reference
 
 
+VirfacAMLib.Visualization/Coloring/Painter.cs
+
