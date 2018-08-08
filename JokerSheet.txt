@@ -2625,3 +2625,6 @@ w->Delete(); // now SetInstance owns the reference
 
 VirfacAMLib.Visualization/Coloring/Painter.cs
 
+Test it in '\\Geonx-fs\Virfac_QA\1_4_3\143_****', please.
+Test it in '\\Geonx-fs\Virfac_iAM_QA\****', please.
+
