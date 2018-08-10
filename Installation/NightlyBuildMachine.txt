@@ -1,0 +1,4 @@
+ IP = geonx\192.168.2.49
+ UserName = tester
+ Password = geonx123
+ Path = ..\Documents\Dev\BuildAndTest.*
