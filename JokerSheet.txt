@@ -2628,3 +2628,13 @@ VirfacAMLib.Visualization/Coloring/Painter.cs
 Test it in '\\Geonx-fs\Virfac_QA\1_4_3\143_****', please.
 Test it in '\\Geonx-fs\Virfac_iAM_QA\****', please.
 
+FilesAndDirectories.BarracudaInstallDir = "C:\\Users\\212686427\\Documents\\Sources\\Virfac-AM\\Virfac-iAM\\bin\\Debug\\..\\Barracuda_1_4_0_101"
+
+Update process combo box with the materials from support or build platform.
+
+- First: Add one or more icons identifying the type of item belong to the material.
+	* P --> Part.
+	* S --> Support.
+	* B --> Buiuld Platform.
+- Second: The current heat treatment name.
+- Third: (or behind) The material of the heat treatment.
