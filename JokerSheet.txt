@@ -2060,9 +2060,173 @@ For my experience, I have the ability to adapt quickly to new environments, tech
 
 //---------------------
  
+ Software Engineer (Data)-180649
+ 
+Primary Location Netherlands-The Hague
+NATO Body NATO Communications and Information Agency (NCI Agency)
+Schedule Full-time
+Salary (Pay Basis) : 5,667.94Euro (EUR) Monthly
+Grade A.2
+ 
+Description: 
+ 
+This is a position within the NATO Communications and Information Agency (NCI Agency), an organization of the North Atlantic Treaty Organization (NATO).
+ 
+The NCI Agency is made up of teams of dedicated people from 29 different nations who are experts in their chosen fields. Our collective role is to help protect the lives of 1 billion people and contribute to maintaining world peace.
+ 
+Directorate Air and Missile Defence Command and Control (AMDC2), as part of the NCI Agency, ensures the harmonised planning, implementation, deployment, evolution and support of the Air Command and Control System (ACCS) and other AirC2 assigned programmes, in a way that satisfies the operational requirements and minimizes the military risk, taking into account the NATO political, economic and schedule requirements and using the most suitable industrial and technological solutions. Directorate AMDC2 is the procurement and implementation body of the NCI Agency, charged with the effective planning, execution, delivery into service, evolution and through-life logistic support of NATO’s and assigned national AirC2 systems.
+ 
+The Engineering Branch (ENB) manages, controls, guides and orchestrates all technical aspects of all AirC2-related internal and contracted projects throughout their lifecycle. It provides estimation of the required effort for each project/task and staffs, plans, allocates and manages engineering resources according to agreed priorities.  ENB executes overall design responsibility to ensure and harmonize the integrity, technical coherence and interoperability across all AirC2-related based projects throughout product lifecycles (requirements, design, implementation, test support and site support) and across assigned projects.  ENB also maintains close coordination with Service Strategy and other key stakeholders across the Agency for technical roadmaps and engineering matters.
+ 
+The NCI Agency is looking for a talented Software Engineer (Data).
+Role Responsibilities
+ 
+Under the direction of Head SES-ISS, you will perform duties such as the following:
+Maintain an in-depth knowledge of the data requirements, models and implementation used by supported products;
+Participate in requirements elicitation, design, development and testing of software tools for data management;
+Collect and maintain data required to configure and operate supported systems;
+Support the development of data migration strategies, tools and methods between systems and system versions;
+Contribute to the evaluation of user change requests to ensure that data engineering aspects are appropriately covered and addressed;
+Maintain the data requirements, data models, databases, database management systems, database interfaces and related documentation;
+Evaluate new or changed system requirements, develop derived data requirements and update the data requirements, data models, databases and interfaces respectively;
+Participate in project milestone and artefact reviews to ensure that data requirements are adequately implemented, verified and tested;
+Provide support to customers including on-site support;
+Maintain a high level of expertise in the technical areas listed above, and stay abreast of software engineering best practices;
+May be required to lead a small team or manage the technical aspects of software engineering for a particular project;
+Deputize for higher grade staff, if required;
+Performs other duties as may be required.
+Person Specification
+ 
+We are looking for candidates with A Master of Science (MSc) degree, or a Bachelor of Science (BSc) degree at a nationally recognised/certified University in a technical subject with substantial Information Technology (IT) content, or exceptionally, the lack of a university/college degree may be compensated by the demonstration of a candidate's particular abilities or experience that is/are of interest to NCI Agency; that is, at least 10 years extensive and progressive expertise in the duties related to the function of the post. A high school diploma or equivalent diploma of higher secondary education is also required.
+ 
+Experience Required
+ 
+In addition to 2 years post related experience (Master’s Degree) or 4 years post related experience (Bachelor’s Degree) we also require the following:
+At least 2 years of recent experience in software engineering of large-scale distributed software;
+Up-to-date knowledge of database management systems (DBMS) and data management concepts;
+Significant, recent and practical experience in software development and maintenance, using one or more programming languages (e.g. Java, C, C++, C#, ADA, PL/SQL);
+Up-to-date knowledge of software engineering related methods, techniques, metrics and tools;
+Up-to-date knowledge of computer system architectures, operating systems, LAN/WAN and computer networks concepts.
+The following will be considered as an advantage 
+Experience in software engineering of AirC2, Air Traffic Control, Command and Control, data acquisition or real-time scientific processing systems;
+Knowledge and experience of the operational use of a current air command and control or air traffic control system (e.g. Air Command and Control System (ACCS));
+Prior experience of working in an international environment comprising both military and civilian elements;
+Knowledge of NATO responsibilities and organization, including ACO and ACT.
+Competencies Required
+ 
+We are looking for a person who demonstrates the following behavioural competencies:
+ 
+Persuading and Influencing - Gains clear agreement and commitment from others by persuading, convincing and negotiating; makes effective use of political processes to influence and persuade others; promotes ideas on behalf of oneself or others; makes a strong personal impact on others; takes care to manage one’s impression on others.
+Presenting and Communicating Information - Speaks fluently; expresses opinions, information and key points of an argument clearly; makes presentations and undertakes public speaking with skill and confidence; responds quickly to the needs of an audience and to their reactions and feedback; projects credibility.
+Writing and Reporting - Writes convincingly; writes clearly, succinctly and correctly; avoids the unnecessary use of jargon or complicated language; writes in a well-structured and logical way; structures information to meet the needs and understanding of the intended audience.
+Applying Expertise and Technology - Applies specialist and detailed technical expertise; uses technology to achieve work objectives; develops job knowledge and expertise (theoretical and practical) through continual professional development; demonstrates an understanding of different organisational departments and functions.
+Analysing - Analyses numerical data and all other sources of information, to break them into component parts, patterns and relationships; probes for further information or greater understanding of a problem; makes rational judgements from the available information and analysis; demonstrates an understanding of how one issue may be a part of a much larger system.
+Planning and Organising - Sets clearly defined objectives; plans activities and projects well in advance and takes account of possible changing circumstances; identifies and organises resources needed to accomplish tasks; manages time effectively; monitors performance against deadlines and milestones.
+Achieving Personal Work Goals and Objectives - Accepts and tackles demanding goals with enthusiasm; works hard and puts in longer hours when it is necessary; seeks progression to roles of increased responsibility and influence; identifies own development needs and makes use of developmental or training opportunities.
+ 
+Travel
+ 
+Business travel to NATO and national (NATO and non-NATO) facilities as well as travel between the NCIA offices;
+May be required to undertake duty travel to operational theatres inside and outside NATO boundaries.
+ 
+Language Skills
+ 
+A thorough knowledge of one of the two NATO languages, both written and spoken, is essential and some knowledge of the other is desirable.
+NOTE:  Most of the work of the NCI Agency is conducted in the English language.
+ 
+Supervisory/Guidance Duties
+ 
+You may give professional guidance to staff.
+ 
+Contract
+ 
+NCI Agency normally offers contracts of employment of a definite duration, not exceeding three years. Contracts may be for less than three years as required to support short-term projects, meet uncertainty with respect to the business outlook, staff performance and other factors.
+ 
+Definite duration contracts may be extended for further periods. When extending contracts, the following is taken into consideration:
+Renewal is in the interest of the Agency.
+Staff member's desire to remain with the Agency.
+The financial situation provides sufficient funding for the post held.
+The skills, competencies and behaviours, potential and work experience of the staff, versus the requirements of the Agency's work and/or availability of funding.
+Staff member has served the Agency with performance to the required standard as defined by the Agency,
+Staff member's deployability to operational theatre.
+Serving civilian members of NATO will be offered a contract in accordance with the NATO Civilian Personnel Regulations.
+ 
+The first six months of definite duration contracts are a probationary period. During this period the staff member's work is assessed to ensure that he/she has the ability to carry out the duties of the post. At or before the end of the probationary period, the staff member will be notified in writing that the appointment is confirmed or terminated or, in exceptional cases, that the probationary period is extended.
+ 
+What do we offer?
+ 
+Excellent tax-free salary, including (where eligible) expatriation household and children's allowances and additional privileges for expatriate staff.
+Education allowance for children (where appropriate) and an excellent private health insurance scheme;
+Generous annual leave and home leave (if eligible).
+Retirement Pension Plan.
+To learn more about NCI Agency and our work, please visit our website.
+ 
+Please note: Due to the Agency’s transition into a new structure in the near future, this post may be subject to transfer to one of our other locations, as well as to a change of reporting lines. The final decision will be made at the time of a firm offer.
+ 
+The Agency’s recruitment team advises you that due to the large volume of applications it receives the screening process may take up to 2 months. 
+
+We appreciate your patience.
+///--------------------------- ----
+
+Prescreening
  
  
  
+Pre-screening questions are specifically designed to help us further assess your qualifications for the position you are applying for. Please answer the following questions as accurately as possible.
+1. What is your level of aptitude in English?
+
+NATO Language levels are defined as follows:
+
+Proficiency: I am fluent and precise in my speaking and understanding of the language.
+
+Advanced: Although I speak and understand the language very well, I still have some problems with unfamiliar situations and vocabulary.
+
+Upper-Intermediate: I can communicate reasonably effectively but do not always understand what people say.
+
+Intermediate: I can speak and understand what people say in familiar situations but I have problems with complex grammar and vocabulary.
+
+Elementary: I can communicate simply when I am in familiar, everyday situations.
+
+Beginner: I can talk a little and understand people if they speak slowly and clearly. . Required
+
+2. What is the highest educational level you have obtained? . Required
+
+3. How many years of relevant experience do you have? . Required
+ Less than 1 year
+ Between 1 and 3 years
+ Between 3 and 5 years
+ Between 5 and 8 years
+ Between 8 and 10 years
+ + Over 10 years 
+4. Do you have recent experience in software engineering of large-scale distributed software?
+Please briefly describe your knowledge. . Required
+
+5. Do you have up-to-date knowledge of software engineering related methods, techniques, metrics and tools? 
+Please briefly describe your knowledge. . Required
+
+6. Do you have up-to-date knowledge of computer system architectures, operating systems, LAN/WAN and computer networks concepts?
+Please briefly describe your knowledge. . Required
+
+7. Do you have significant, recent and practical experience in software development and maintenance, using one or more of the following programming languages? . Required
+ +Java
+ +C
+ +C ++
+ +C#
+ ADA
+ PL/SQL
+ +Other
+ None of the above
+8. Please indicate if you have experience in Software Engineering of the following: . Required
+ AirC2
+ Ai r Traffic Control
+ Command and Control
+ +Data Acquisition
+ +Real-time scientific processing systems
+ None of the above
+9. Do you have knowledge and experience of the operational use of a current air command and control or air traffic control system (e.g. Air Command and Control System (ACCS))?
+Please briefly describe your knowledge.
+ 
+ //-----------------------------
  
  
  
@@ -2638,3 +2802,5 @@ Update process combo box with the materials from support or build platform.
 	* B --> Buiuld Platform.
 - Second: The current heat treatment name.
 - Third: (or behind) The material of the heat treatment.
+
+j'ai reçu une facture de 125€.  Je ne
