@@ -2203,6 +2203,7 @@ Please briefly describe your knowledge. . Required
 
 5. Do you have up-to-date knowledge of software engineering related methods, techniques, metrics and tools? 
 Please briefly describe your knowledge. . Required
+I am a currently working in an Agile enviroment (Kanvan or Scrum), with continuous release system.
 
 6. Do you have up-to-date knowledge of computer system architectures, operating systems, LAN/WAN and computer networks concepts?
 Please briefly describe your knowledge. . Required
@@ -2225,6 +2226,7 @@ Please briefly describe your knowledge. . Required
  None of the above
 9. Do you have knowledge and experience of the operational use of a current air command and control or air traffic control system (e.g. Air Command and Control System (ACCS))?
 Please briefly describe your knowledge.
+ + No.
  
  //-----------------------------
  
