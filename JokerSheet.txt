@@ -2200,10 +2200,10 @@ Beginner: I can talk a little and understand people if they speak slowly and cle
  + Over 10 years 
 4. Do you have recent experience in software engineering of large-scale distributed software?
 Please briefly describe your knowledge. . Required
-
++ I´ve got experience more than 10 years of experience in software engineering. 
 5. Do you have up-to-date knowledge of software engineering related methods, techniques, metrics and tools? 
 Please briefly describe your knowledge. . Required
-I am a currently working in an Agile enviroment (Kanvan or Scrum), with continuous release system.
++ I am a currently working in an Agile enviroment (Kanvan or Scrum), with continuous release system.
 
 6. Do you have up-to-date knowledge of computer system architectures, operating systems, LAN/WAN and computer networks concepts?
 Please briefly describe your knowledge. . Required
