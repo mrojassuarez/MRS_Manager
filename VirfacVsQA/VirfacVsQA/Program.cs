@@ -10,9 +10,9 @@ namespace VirfacVsQA
     class Program
     {
         // Virfac
-        const string NAS_FolderName = "1_4_3";
+        const string NAS_FolderName = "1_4_4";
         const string NAS_Folder = "\\\\Geonx-fs\\PUBLIC\\Virfac_QA\\" + NAS_FolderName;
-        const string Virfac_FolderName = "Virfac_143";
+        const string Virfac_FolderName = "Virfac_144";
         const string Virfac_Folder = "C:\\Users\\212686427\\Documents\\Sources\\" + Virfac_FolderName + "\\VirfacApp\\bin\\Release";
 
         // iAM
