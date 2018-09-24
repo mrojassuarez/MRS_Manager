@@ -2811,5 +2811,6 @@ Update process combo box with the materials from support or build platform.
 
 
 
-
+SinteringModelling BinderJetSintering
+AssemblySinteringModelling
 
