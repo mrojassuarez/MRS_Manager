@@ -2230,6 +2230,168 @@ Please briefly describe your knowledge.
  
  //-----------------------------
  
+ Programmer-180768
+ 
+Primary Location Belgium-Mons
+NATO Body NATO Communications and Information Agency (NCI Agency)
+Schedule Full-time
+Salary (Pay Basis) : 4,449.45Euro (EUR) Monthly
+Grade B.5
+ 
+Description: 
+ 
+3000 people are working 24/7 to protect 1 billion citizens. We serve 29 nations by defending its networks, and providing real life support to NATO operations and missions. We connect the Alliance. We are leading IT professionals. We are the NCI Agency.
+
+ 
+
+We are looking a talented Programmer who is a flexible, highly motivated individual willing to take on challenging initiatives, capable of working both independently and with others in a team and able to follow through to deliver results. We use the latest technologies to solve challenging yet rewarding problems. Our solutions are used throughout NATO, saving lives and contributing to NATO’s success in protecting our nations. Do you want to be part of a highly skilled and motivated team? If you have the relevant experience in the areas below and you enjoy working in a multicultural environment, this post is ideal for you!
+
+ 
+
+This is a position within the NATO Communications and Information Agency (NCIA), an organization of the North Atlantic Treaty Organization (NATO).
+
+ 
+
+The NCIA has been established with a view to meeting to the best advantage the collective requirements of some or all NATO nations in the fields of capability delivery and service provision related to Consultation, Command & Control as well as Communications, Information and Cyber Defence functions, thereby also facilitating the integration of Intelligence, Surveillance, Reconnaissance, Target Acquisition functions and their associated information exchange.
+
+ 
+
+The Command and Control (C2) Service Line’s area of work includes (but is not limited to) Command & Control Information Systems such as: Land, Maritime, CBRN, Hydrological, Meteorological and Oceanographic domains, Operations Planning and Reporting, Joint and Time Sensitive Targeting and Situational Awareness including Common Operational Picture
+
+
+
+Role Responsibilities
+
+ 
+
+Under the responsibility of the C2 Service Line Chief and the direction of a team leader, project or system manager, but largely on own initiative, you will perform duties such as the following:
+
+Provide all aspects of system support to the NATO Nuclear Command, Control and Reporting System (NNCCRS);
+Contribute to service provision aspects as well as the execution of project related tasks, in particular software implementation and configuration, and problem analysis;
+Contribute to new requirements capture and development of improved functionality and usability;
+Provide support in designing, implementing, documenting, and testing software using relevant software engineering technologies and methods using the available tools to support the full software lifecycle;
+Support the analysis, design, implementation and maintenance of authorized software changes, related applications software and the integration/tailoring of vendor supplied components, following established procedures for quality, configuration control, testing, documentation and security;
+Assist in the service transition of systems and services to the operational environment;
+Oversee the day-to-day system administration activities on the NNCCRS network;
+Provide logistics support to NNCCRS sites including procurement and distribution of spare parts;
+Provide expeditious technical support services to the NATO Functional Area Services including emergency troubleshooting and on-site assistance (at NATO and national sites) to ensure key information systems remain operational;
+Coordinate with appropriate authorities on Quality Assurance and Configuration Control issues;
+Be responsible for the maintenance and upgrading of the documentation of assigned software applications; 
+Help to prepare and occasionally give briefings and presentations related to the projects;
+Interact with peers on other projects within and between Service Lines, and provide guidance and subject matter expertise;
+Help with documenting and presenting information about the projects;
+Deputize for higher grade staff, if required;
+Performs other duties as may be required.
+
+Person Specification
+
+ 
+
+Qualifications Required
+
+It is essential that you hold a vocational training at a higher technical level in a relevant discipline (computer science or similar) or equivalent combination of qualifications.
+
+
+ 
+
+Experience required
+
+In addition to at least 8 years of relevant experience, you will be required to prove demonstrable experience in the following areas (not necessarily all):
+
+Experience in the management, operation, administration, testing and maintenance of modern information systems in a networked and distributed environment;
+Experience in the use of modern concepts for software configuration management and quality assurance;
+Knowledge of operating systems that are currently used for modern information systems;
+Experience in object-oriented and structured programming languages and semantic technologies;
+Experience in designing and implementing Relational Databases and administration of Relational Databases Management Systems (RDBMS);
+Technical knowledge of and experience in military Command and Control Information Systems;
+Experience with modern digital networking techniques, protocols and standards;
+Experience with data and systems interoperability, interoperability testing standards, procedures and methodologies;
+Experience with security cross-domain information exchange methodologies, tools and techniques.
+You are also required to communicate effectively orally in English and have good briefing skills as well as to write effectively in English to produce technical documents such as technical notes, training material, reports, and reference documents.
+
+
+In addition to the above, it would be considered highly desirable if you are able to display:
+
+
+Experience with latest versions of Windows Server and MS Exchange implementation and administration;
+Experience of development of software products targeted at a large end-user customer base;
+Experience with IT Service Management and tools;
+Experience with PC hardware, networking and modern communications technology;
+Experience of systems support and maintenance in the NATO environment;
+Knowledge of security assurance requirements for military information systems;
+Knowledge of and experience with (military) information exchange standards;
+Knowledge of NATO responsibilities and organization, including Allied Command Operations (ACO) and Allied Command Transformation (ACT);
+Experience in supervising technical work and teams;
+Prior experience of working in an international environment comprising both military and civilian elements;
+Knowledge of NATO responsibilities and organization, including ACO and ACT.
+
+Competency Required
+
+Delivering Results and Meeting Customer Expectations - Focuses on customer needs and satisfaction; sets high standards for quality and quantity; monitors and maintains quality and productivity; works in a systematic, methodical and orderly way; consistently achieves project goals;
+
+Planning and Organising - Sets clearly defined objectives; plans activities and projects well in advance and takes account of possible changing circumstances; identifies and organises resources needed to accomplish tasks; manages time effectively; monitors performance against deadlines and milestones;
+
+Relating and Networking - Easily establishes good relationships with customers and staff; relates well to people at all levels; builds wide and effective networks of contacts; uses humour appropriately to bring warmth to relationships with others;
+
+Applying Expertise and Technology - Applies specialist and detailed technical expertise; uses technology to achieve work objectives; develops job knowledge and expertise (theoretical and practical) through continual professional development; demonstrates an understanding of different organisational departments and functions;
+
+Delivering Results and Meeting Customer Expectations - Focuses on customer needs and satisfaction; sets high standards for quality and quantity; monitors and maintains quality and productivity; works in a systematic, methodical and orderly way; consistently achieves project goals.
+
+
+ 
+
+Travel
+
+ 
+
+Business travel to NATO and national (NATO and non-NATO) facilities as well as frequent travel between the NCI Agency offices. May be required to undertake duty travel to operational theatres inside and outside NATO boundaries.
+
+ 
+
+ 
+
+Language skills
+
+ 
+
+A thorough knowledge of one of the two NATO languages, both written and spoken, is essential and some knowledge of the other is desirable.
+
+NOTE:  Most of the work of the NCI Agency is conducted in the English language.
+
+ 
+
+Contract
+
+ 
+
+NCI Agency normally offers contracts of employment of a definite duration, not exceeding three years. Contracts may be for less than three years as required to support short-term projects, meet uncertainty with respect to the business outlook, staff performance and other factors.
+
+ 
+
+Definite duration contracts may be extended for further periods. When extending contracts, the following is taken into consideration:
+
+Renewal is in the interest of the Agency.
+Staff member's desire to remain with the Agency.
+The financial situation provides sufficient funding for the post held.
+The skills, competencies and behaviours, potential and work experience of the staff, versus the requirements of the Agency's work and/or availability of funding.
+Staff member has served the Agency with performance to the required standard as defined by the Agency.
+Staff member's deployability to operational theatre.
+Serving civilian members of NATO will be offered a contract in accordance with the NATO Civilian Personnel Regulations.
+
+ 
+
+The first six months of definite duration contracts are a probationary period. During this period the staff member's work is assessed to ensure that he/she has the ability to carry out the duties of the post. At or before the end of the probationary period, the staff member will be notified in writing that the appointment is confirmed or terminated or, in exceptional cases, that the probationary period is extended.
+
+ 
+
+What do we offer?
+
+Excellent tax-free salary, including (where eligible) expatriation household and children's allowances and additional privileges for expatriate staff.
+Education allowance for children (where appropriate) and an excellent private health insurance scheme;
+Generous annual leave and home leave (if eligible).
+Retirement Pension Plan.
+ 
+ //-----------------------------
  
  
  
