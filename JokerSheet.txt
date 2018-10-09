@@ -2394,6 +2394,150 @@ Retirement Pension Plan.
  //-----------------------------
  
  
+Prescreening
+ 
+ 
+Required Competencies
+ 
+Please fill out the following competencies evaluation form. Use the guidelines provided on the right hand side of the screen. Note that a previous assessment has already been completed. Verify the answers and update them, if necessary.
+1. Meet customer needs 
+1. Meet customer needs 
+Proficiency
+ 
+ None
+ Beginner
+ Intermediate
+ Advanced
+ Expert
+1. Meet customer needs 
+Experience
+ 
+ None
+ Less than 1 year
+ 1-3 years
+ 3-5 years
+ 5 years or +
+1. Meet customer needs 
+Last Used
+ 
+ Never
+ Current
+ Last year
+ 1-3 years ago
+ 3-5 years ago
+ 5 years ago +
+1. Meet customer needs 
+Interest
+ 
+ None
+ Low
+ Medium
+ High
+2. Planning and organizing 
+2. Planning and organizing 
+Proficiency
+ 
+ None
+ Beginner
+ Intermediate
+ Advanced
+ Expert
+2. Planning and organizing 
+Experience
+ 
+ None
+ Less than 1 year
+ 1-3 years
+ 3-5 years
+ 5 years or +
+2. Planning and organizing 
+Last Used
+ 
+ Never
+ Current
+ Last year
+ 1-3 years ago
+ 3-5 years ago
+ 5 years ago +
+2. Planning and organizing 
+Interest
+ 
+ None
+ Low
+ Medium
+ High
+3. Networking (inter personal network) 
+3. Networking (inter personal network) 
+Proficiency
+ 
+ None
+ Beginner
+ Intermediate
+ Advanced
+ Expert
+3. Networking (inter personal network) 
+Experience
+ 
+ None
+ Less than 1 year
+ 1-3 years
+ 3-5 years
+ 5 years or +
+3. Networking (inter personal network) 
+Last Used
+ 
+ Never
+ Current
+ Last year
+ 1-3 years ago
+ 3-5 years ago
+ 5 years ago +
+3. Networking (inter personal network) 
+Interest
+ 
+ None
+ Low
+ Medium
+ High
+ 
+Pre-screening questions are specifically designed to help us further assess your qualifications for the position you are applying for. Please answer the following questions as accurately as possible.
+1.  What is the highest educational level you have obtained? . Required
+
+2.  What is your level of aptitude in English?
+
+NATO Language levels are defined as follows:
+
+Proficiency: I am fluent and precise in my speaking and understanding of the language.
+
+Advanced: Although I speak and understand the language very well, I still have some problems with unfamiliar situations and vocabulary.
+
+Upper-Intermediate: I can communicate reasonably effectively but do not always understand what people say.
+
+Intermediate: I can speak and understand what people say in familiar situations but I have problems with complex grammar and vocabulary.
+
+Elementary: I can communicate simply when I am in familiar, everyday situations.
+
+Beginner: I can talk a little and understand people if they speak slowly and clearly. . Required
+
+3.  How many years of relevant experience do you have? . Required
+ Less than 1 year
+ Between 1 and 3 years
+ Between 3 and 5 years
+ Between 5 and 8 years
+ Between 8 and 10 years
+ Over 10 years
+4.  Do you have experience in any of the following (choose all that apply): . Required
+ Management, operation, administration, testing and maintenance of modern information systems in a networked and distributed environment;
+ Use of modern concepts for software configuration management and quality assurance;
+ Designing and implementing Relational Databases and administration of Relational Databases Management Systems (RDBMS);
+ Security cross-domain information exchange methodologies, tools and techniques.
+5.  How would you rate your ability to write effectively in English to produce technical documents such as technical notes, training material, reports, and reference documents? . Required
+ Beginner
+ Intermmediate
+ Advanced
+ Proficient
+ 
+ //----------------------
  
  
  
