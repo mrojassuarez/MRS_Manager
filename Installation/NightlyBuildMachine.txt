@@ -2,3 +2,7 @@
  UserName = tester
  Password = geonx123
  Path = ..\Documents\Dev\BuildAndTest.*
+
+NightlyBuild file:
+
+C:\Users\Tester\Documents\Dev\VirfacTesting\BuildingAndTesting\BuildingAndTesting\BuildAndTestConfig.xml
