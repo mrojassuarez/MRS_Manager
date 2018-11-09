@@ -3100,7 +3100,7 @@ VirfacAMLib.Visualization/Coloring/Painter.cs
 Test it in '\\Geonx-fs\Virfac_QA\1_4_3\143_****', please.
 Test it in '\\Geonx-fs\Virfac_QA\1_4_4\****', please.
 Test it in '\\Geonx-fs\Virfac_iAM_QA\****', please.
-Could you test it in the branch 'master_****_MRS'?, please.
+Test it in the branch 'master_****_MRS'?, please.
 
 FilesAndDirectories.BarracudaInstallDir = "C:\\Users\\212686427\\Documents\\Sources\\Virfac-AM\\Virfac-iAM\\bin\\Debug\\..\\Barracuda_1_4_0_101"
 
@@ -3123,3 +3123,5 @@ AssemblySinteringModelling
 SSO = 212686427
 
 git push -u origin +master_MatMngr
+
+Jsol#2018
