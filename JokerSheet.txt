@@ -3028,18 +3028,6 @@ Kind regards.
 Rocío.
 
 
-You are a witch, you should burn in the bonfire.
-
-Actually we are going to move to a house next week. It's here in Waterloo 2 km at south where we are living today. The house is very old but has garage and garden.
-
-Also we have pass difficult times. A month ago, my mother in law has passed by, so we had to go very fast (the good things to live in Belgium,we took the tickets in the afternoon) and we arrived in the evening. And all the funeral stuff, al least with Martina everyone was happy at the cementery.
-
-Anyway, I'm still working in GeonX and Linh ask the other if I had news about you, hehehe, today I've got.
-
-I'm happy that finally you have found a job in the "nice zone" of Canada enjoing of SolidWorks.
-
-A bientôt Madame.
-
 TTip_ChoseClad	Choose between circular or wall cladding.
 
  <data name="WARN_IsNotCadFaces" xml:space="preserve">
@@ -3100,7 +3088,7 @@ VirfacAMLib.Visualization/Coloring/Painter.cs
 Test it in '\\Geonx-fs\Virfac_QA\1_4_3\143_****', please.
 Test it in '\\Geonx-fs\Virfac_QA\1_4_4\****', please.
 Test it in '\\Geonx-fs\Virfac_iAM_QA\****', please.
-Test it in the branch 'master_****_MRS'?, please.
+Test it in the branch 'master_****_MRS', please.
 
 FilesAndDirectories.BarracudaInstallDir = "C:\\Users\\212686427\\Documents\\Sources\\Virfac-AM\\Virfac-iAM\\bin\\Debug\\..\\Barracuda_1_4_0_101"
 
