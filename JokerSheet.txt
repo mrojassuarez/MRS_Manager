@@ -2639,8 +2639,17 @@ segmentA_point_X, segmentA_point_Y, segmentB_point_X, segmentB_point_Y, segmentC
 ='12'!B500	=SOMME('12'!D500:F500)
 ='12'!B520	=SOMME('12'!D520:F520)
 
+			=SUM('12'!L25:'12'!L29)
+			=SUM('12'!L30:'12'!L34)
+			=SUM('12'!L35:'12'!L39)
+			=SUM('12'!L40:'12'!L44)
+			=SUM('12'!L45:'12'!L49)
+			=SUM('12'!L50:'12'!L54)
+			=SUM('12'!L55:'12'!L59)
+			=SUM('12'!L60:'12'!L64)
+			=SUM('12'!L65:'12'!L69)
 
-
+	
 
 =SOMME(C10:AX10)
 =SOMME(C11:AX11)
