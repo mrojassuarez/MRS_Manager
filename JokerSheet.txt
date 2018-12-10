@@ -3122,3 +3122,10 @@ SSO = 212686427
 git push -u origin +master_MatMngr
 
 Jsol#2018
+
+
+New solution:
+- If the user is importing a material with the same Id than another in the Materials Manager, then Virfac clone the new material with a new Id and a new name (example: Material_Imported_X).
+- The user is the responsable to merge the new material into the olda ones using copy-paste for Build Strategies or Heat Treatments.
+
+https://github.com/geonxdevelopers/Virfac1.git
