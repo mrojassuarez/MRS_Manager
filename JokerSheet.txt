@@ -2673,15 +2673,6 @@ ein heller schein am firmament
 mein herz brennt
 
 
-RM #2129
-RM #2143
-RM #2231
-RM #2253
-RM #2257
-RM #2275
-RM #2324
-RM #2325
-RM #2336
 
 My love and me as we sing
 Our early morning singing song
@@ -2800,41 +2791,6 @@ We vinden ook het minste deel sensationeel
 https://www.youtube.com/watch?v=YH4c-EXooQU
 
 https://www.youtube.com/watch?v=IRA9VQb_2q8
-
-//---HIPOTECA---
-
-NOTICIAS › GASTOS DE FORMALIZACIÓN DE HIPOTECA
-NOTICIAS JULIO 2017
-
-13.07.2017
-Habitualmente, los clientes afrontan una serie de gastos por la formalización y tramitación de los préstamos hipotecarios que suscriben con las entidades financieras.
-
-A este respecto, y ya que no hay ninguna norma que establezca de antemano las cantidades que una entidad puede exigir a su cliente en concepto de provisión de fondos, la transparencia que debe presidir las relaciones banco-cliente exige que las entidades informen adecuadamente de este desembolso antes de la contratación, desglosando los distintos conceptos de gasto y procurando, además, que las provisiones que requieran a sus clientes se ajusten al máximo a lo necesario, para poder así conocer con razonable aproximación la totalidad de cargas que se debe asumir.
-
-La sentencia del Tribunal Supremo núm. 705/2015, de 23 de diciembre de 2015, declaró la nulidad por abusivas de varias cláusulas contenidas en determinados contratos de préstamo hipotecario de dos entidades de crédito. Entre dichas cláusulas, se encontraban las que establecían la atribución en exclusiva al consumidor de todos los tributos y gastos ocasionados por la formalización de la operación, así como por la constitución, conservación y cancelación de su garantía.
-
-A raíz de dicha sentencia, está habiendo un sustancial aumento de las reclamaciones que se están recibiendo en el Departamento de Conducta de Mercado y Reclamaciones (DCMR) sobre este caso.
-
-Por ello, es conveniente recordar que este Departamento debe limitarse, por las normas que regulan su funcionamiento, a la valoración del cumplimiento de la normativa de transparencia y de las buenas prácticas bancarias de las entidades reclamadas, no siendo el órgano competente para: i) determinar el carácter abusivo de una cláusula contractual, ni la nulidad de un contrato o ii) efectuar pronunciamiento alguno en relación con la devolución de las cantidades que hayan sido cobradas por la entidad. Tales cuestiones corresponden, en exclusiva, a los tribunales.
-
-No obstante, se entiende que, según la lógica de las buenas prácticas bancarias, resulta exigible que las entidades que hayan comercializado préstamos hipotecarios realicen un análisis de las reclamaciones presentadas por su clientela según los criterios establecidos por el Tribunal Supremo.
-
-En todo caso, si desea ampliar información sobre los criterios del DCMR al respecto de la “Tramitación administrativa de la hipoteca”, le recomendamos que consulte las páginas 68 a 70 de la Memoria de Reclamaciones del Banco de España del año 2016Abre en nueva ventana.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3019,24 +2975,6 @@ Please test it in '\\GEONX-FS\Virfac_QA\1_4_3\POS_File_researching\'.
         }
 		
 		
-		Hello again Mrs Gonzales !
-I visited your apartment this morning with my client and I felt free to ask you some more questions as the estate agent kindly gave me your phone number.
-We don’t remember if the kitchen is equipped with a big freezer ?
-And finally have you an idea of when the apartment would be totally available ?
-Thank you so much for your time and your kindness !
-Patricia (relocation agent)
-
-Hello Patricia,
-
-Yes, the kitchen is equipped with the freezer.
-The apartment could be disponsable on November 17th, Friday.
-
-Thank you so much.
-Kind regards.
-
-Rocío.
-
-
 TTip_ChoseClad	Choose between circular or wall cladding.
 
  <data name="WARN_IsNotCadFaces" xml:space="preserve">
@@ -3129,3 +3067,4 @@ New solution:
 - The user is the responsable to merge the new material into the olda ones using copy-paste for Build Strategies or Heat Treatments.
 
 https://github.com/geonxdevelopers/Virfac1.git
+
