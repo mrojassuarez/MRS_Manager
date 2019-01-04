@@ -11,7 +11,7 @@ namespace VirfacVsQA
     {
         // Virfac
         const string Fotos = "Fotos";
-        const string AOrdenar = "\\Movil Manolo\\"; // "\\Movil Rocio\\";
+        const string AOrdenar = "Origen"; 
         //const string Virfac_FolderName = "Virfac_144";
         //const string Virfac_Folder = "C:\\Users\\212686427\\Documents\\Sources\\" + Virfac_FolderName + "\\VirfacApp\\bin\\Release";
 
@@ -26,24 +26,28 @@ namespace VirfacVsQA
                 Directory.CreateDirectory(Fotos);
 
             var archivos = Directory.GetFiles(AOrdenar);
-
+            Console.WriteLine("Copiando: ");
             foreach (var archivo in archivos)
             {
-                var fechaHora = File.GetCreationTime(archivo);
+                var fechaHora = File.GetLastWriteTime(archivo);
                 var mes = fechaHora.Month;
                 var anno = fechaHora.Year;
-                var DirAnnoMes = anno.ToString() + "." + mes.ToString();
+                var DirAnnoMes = anno.ToString() + "." +  mes.ToString().PadLeft(2,'0');
                 string pathNuevoDir = Path.Combine(Fotos, DirAnnoMes);
                 if (!Directory.Exists(pathNuevoDir))
                 {
                     Directory.CreateDirectory(pathNuevoDir);
-                    Console.Write("/");
+                    Console.WriteLine(pathNuevoDir);
                 }
-                File.Copy(archivo, pathNuevoDir);
-                Console.Write("*");
+                var nuevoPath = Path.Combine(pathNuevoDir, Path.GetFileName(archivo));
+                if (!File.Exists(nuevoPath))
+                {
+                    File.Copy(archivo, nuevoPath);
+                    Console.WriteLine("   - " + nuevoPath);
+                }
 
             }
-
+            Console.Read();
             //string userName = Environment.UserName;
             //if (userName.Equals("msuarez"))
             //    userName = "Manuel";

@@ -3033,7 +3033,7 @@ w->Delete(); // now SetInstance owns the reference
 VirfacAMLib.Visualization/Coloring/Painter.cs
 
 Test it in '\\Geonx-fs\Virfac_QA\1_4_3\143_****', please.
-Test it in '\\Geonx-fs\Virfac_QA\1_4_4\****', please.
+Test it in *\\Geonx-fs\Virfac_QA\1_4_4\----*, please.
 Test it in '\\Geonx-fs\Virfac_iAM_QA\****', please.
 Test it in the branch *master_MatMngr_****_MRS*, please.
 
@@ -3068,3 +3068,11 @@ New solution:
 
 https://github.com/geonxdevelopers/Virfac1.git
 
+
+Bonjour Madame
+Je m'appelle MR
+Je vous appelle concernent une lettre *avis de rectification de la declaration*
+Je vous envoye un mail le date seize de decembre avec les documents.
+Je voudrais votre confirmations de que les documents sont corrects.
+Avant finalice le temp de dalai de un mois. 
+Merci beacoup et bon journe
