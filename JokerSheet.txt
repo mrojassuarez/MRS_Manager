@@ -3034,7 +3034,7 @@ VirfacAMLib.Visualization/Coloring/Painter.cs
 
 Test it in '\\Geonx-fs\Virfac_QA\1_4_3\143_****', please.
 Test it in *\\Geonx-fs\Virfac_QA\1_4_4\----*, please.
-Test it in '\\Geonx-fs\Virfac_iAM_QA\****', please.
+Test it in *\\Geonx-fs\Virfac_iAM_QA\*, please.
 Test it in the branch *master_MatMngr_****_MRS*, please.
 
 FilesAndDirectories.BarracudaInstallDir = "C:\\Users\\212686427\\Documents\\Sources\\Virfac-AM\\Virfac-iAM\\bin\\Debug\\..\\Barracuda_1_4_0_101"
@@ -3068,11 +3068,14 @@ New solution:
 
 https://github.com/geonxdevelopers/Virfac1.git
 
+Model.CompanionProject?.RelativePath = "..\\1_Cube_TH_V1.1\\1_Cube_TH_V1.1.vfcam"
+C:\\Users\\212686427\\Documents\\Virfac-iAM\\Projects\\2018.12.11_Mechal_2\\../../1_Cube_TH_V1.1/1_Cube_TH_V1.1.vfcam
 
-Bonjour Madame
-Je m'appelle MR
-Je vous appelle concernent une lettre *avis de rectification de la declaration*
-Je vous envoye un mail le date seize de decembre avec les documents.
-Je voudrais votre confirmations de que les documents sont corrects.
-Avant finalice le temp de dalai de un mois. 
-Merci beacoup et bon journe
+Automatize all the process as much as possible:
+- Automatic test (Unit test, integration test)
+- Continuous integration and delivery.
+
+
+System.TypeInitializationException was unhandled
+Message: An unhandled exception of type 'System.TypeInitializationException' occurred in Unknown Module.
+Additional information: The type initializer for 'VirfacAMLib.API.Api' threw an exception.
