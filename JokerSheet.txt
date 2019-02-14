@@ -3079,3 +3079,11 @@ Automatize all the process as much as possible:
 System.TypeInitializationException was unhandled
 Message: An unhandled exception of type 'System.TypeInitializationException' occurred in Unknown Module.
 Additional information: The type initializer for 'VirfacAMLib.API.Api' threw an exception.
+
+Unit_SquareMicrometer_Name	Square micrometer	
+Unit_SquareMicrometer_Symbol	µm²	
+
+Unit_CubicMicrometer_Name	Cubic micrometer	
+Unit_CubicMicrometer_Symbol	µm³	
+
+
