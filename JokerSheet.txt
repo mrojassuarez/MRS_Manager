@@ -3087,3 +3087,38 @@ Unit_CubicMicrometer_Name	Cubic micrometer
 Unit_CubicMicrometer_Symbol	µm³	
 
 
+Look at this:
+public static void launchProcessAndReportProgress(Task task, Action reporterFunction)
+        {
+            if (cancellationTokenSource != null)
+                cancellationTokenSource.Dispose();
+            cancellationTokenSource = new CancellationTokenSource();
+
+            while (!task.IsCompleted)
+            {
+                Thread.Sleep(500);
+                if (cancellationTokenSource.IsCancellationRequested)
+                    throw (new Exception("User cancelled"));
+                reporterFunction();
+            }
+        } 
+
+AssemblyName aname = new AssemblyName(Assembly.GetAssembly(typeof(FilesAndDirectoriesVM)).FullName);
+            Version v = aname.Version;
+			
+			{"'Provide value on 'System.Windows.Markup.StaticExtension' threw an exception.' Line number '415' and line position '42'."}
+			
+			
+API_Process.cs 320
+            var strategiesParts = Api.Get.GetBuildStrategiesForMaterial(partsMaterialGID);
+            var strategiesSupports = Api.Get.GetBuildStrategiesForMaterial(supportsMaterialGID);
+
+            var strategies = strategiesParts.Concat(strategiesSupports);
+			
+  <data name="SP_SecondHardeningExponentPower" xml:space="preserve">
+    <value>Second hardening exponent (N₂)</value>
+  </data>
+    <data name="SP_SecondHardeningExponentExp" xml:space="preserve">
+    <value>Second hardening exponent (N₂)</value>
+  </data>
+  
