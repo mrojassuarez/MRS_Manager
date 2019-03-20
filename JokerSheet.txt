@@ -3123,7 +3123,42 @@ API_Process.cs 320
   </data>
   
   
- 
+  
+  
+iAMBatch Debug:
+-n "C:\Users\212686427\Documents\Sources\FeaturesData\thermal.yml"
+  
+  
+  
+  
+  <pre>
+<code class="java">
+                        // Source change trigger 
+                        EventManager.RegisterClassHandler(typeof(FrameworkElement), Mouse.MouseDownEvent,
+                            new MouseButtonEventHandler((sender, args) =>
+                                {
+                                    var focusedElement = FocusManager.GetFocusedElement(sender as FrameworkElement);
+                                    if (focusedElement != null && focusedElement is TextBox)
+                                    {
+                                        var binding = (focusedElement as TextBox).GetBindingExpression(TextBox.TextProperty);
+                                        if (binding != null)
+                                            binding.UpdateSource();
+                                    }
+                                }
+                        ));
+     
+</code></pre>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 "C:\Program Files\7-Zip\7z.exe"
 
 C:\Users\212686427\Documents\Sources\MRS_Manager>"C:\Program Files\7-Zip\7z.exe"
@@ -3193,3 +3228,6 @@ Usage: 7z <command> [<switches>...] <archive_name> [<file_names>...]
   -w[{path}] : assign Work directory. Empty path means a temporary directory
   -x[r[-|0]]{@listfile|!wildcard} : eXclude filenames
   -y : assume Yes on all queries
+  
+  
+  
