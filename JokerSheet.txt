@@ -3122,14 +3122,13 @@ API_Process.cs 320
     <value>Second hardening exponent (N₂)</value>
   </data>
   
-  
+  throw new Exception("MRS");
   
   
 iAMBatch Debug:
 -n "C:\Users\212686427\Documents\Sources\FeaturesData\thermal.yml"
-  
-  
-  
+-n "C:\Users\212686427\Documents\Sources\FeaturesData\issue_yml_test_cube\mat_removal.yml"
+ 
   
   <pre>
 <code class="java">
@@ -3152,11 +3151,20 @@ iAMBatch Debug:
   
   
   
-  
-  
-  
-  
-  
+Canonical_IN718_Thermal
+
+Integration Test Canonical_IN718_Thermal:
+
+- It creates a new thermal project using a default build platform and a cube stored in:
+	.\IntegrationTests\Canonical_IN718\TestResources\BP_400x400x30_in_mm.stl
+	.\IntegrationTests\Canonical_IN718\TestResources\Cube_8x8x8.stl
+- Assigne them the material: IN718.
+- Thermal process using build strategy: EOS M280 IN718
+- It creates the barracuda files.
+- Comapares if these files are the same than in reference project:
+	.\IntegrationTests\Canonical_IN718\TestResources\Canonical_IN718_Thermal\Canonical_IN718_Thermal.vfcam
+- Then the project is saved.
+- Finally, dispose all the memory and remove the project.  
   
   
 "C:\Program Files\7-Zip\7z.exe"
