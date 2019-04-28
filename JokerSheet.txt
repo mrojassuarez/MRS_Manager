@@ -2539,10 +2539,276 @@ Beginner: I can talk a little and understand people if they speak slowly and cle
  
  //----------------------
  
+ Share 
+Job Description - Software Developer (190349)
+ 
+Software Developer-190349
+ 
+Primary Location Belgium-Brussels
+NATO Body NATO International Staff (NATO IS)
+Schedule Full-time
+Salary (Pay Basis) : 4,379.27Euro (EUR) Monthly
+Grade B.5
+ 
+Description: 
+ 
+ Are you a Software Developer with experience in ASP.NET and you enjoy developing database applications? If yes, this position is ideal for you!
+
+We are looking for an ASP.NET MVC developer that will be able a) to develop and support new applications and b) migrate MsAcces tools to SQL server and .NET applications. The main scope of work will include a full database based application using optimal and efficient technologies, frameworks, and patterns. Your primary responsibilities will be to design, develop and support these applications. Therefore, it is essential that you are skilled at problem solving, solution design, and high-quality coding.
+
+ 
+
+1.          SUMMARY 
+
+ 
+
+The Defence Policy and Planning (DPP) Division has the leading role at the political-military level for the defence-related aspects of NATO’s fundamental security tasks. Within the DPP Division, the Planning Directorate (PD) has the lead in the International Staff (IS) for the coordinated execution of the NATO Defence Planning Process (NDPP) and assisting the efforts of the Allies to improve the effectiveness of their defence planning and capability delivery. PD also supports a number of NATO’s partners in their defence planning efforts through their elective participation in the Partnership for Peace (PfP) Planning and Review Process (PARP). The Directorate works in close cooperation with national Delegations and staff in national capitals on all business related to defence planning, including the analysis of national defence programmes.
+
+ 
+
+The Software Developer under the direction of the Head, Data Analysis Section is responsible for the design, development, testing, maintenance and installation of applications serving Defence Policy and Planning (DPP) Division business needs. The incumbent will provide support to users and will develop improvements and new features according to business requirements.
+
+ 
+
+2.           QUALIFICATIONS AND EXPERIENCE
+
+ 
+
+ESSENTIAL
+
+ 
+
+The incumbent must:
+
+ 
+
+Have a bachelor in computing science or related subject;
+
+Have 5 years of working experience in software development, in particular .NET applications with MS SQL server.
+
+Proficiency in C# and .NET framework,
+
+Experience in designing and developing ASP.NET MVC applications
+
+Experience with Javascript, HTML, CSS
+
+Experience in writing complex SQL queries for CRUD operations
+
+Experience in Unit Testing
+
+Experience in writing application documentation
+
+Possess the following levels of NATO’s official languages (English/French): V(‘Advanced) in one; I (‘Beginner’) in the other;
+
+Be willing to work outside normal official hours.
+
+ 
+
+3.           MAIN ACCOUNTABILITIES
+
+ 
+
+Knowledge Management
+
+ 
+
+Maintenance and further development of the defence force and capabilities database, defence financial and economic database, and associated applications. 
+
+ 
+
+Stakeholder Management 
+
+ 
+
+Co-operate with specialist staff within NATO HQ. Maintain contacts with national authorities and other International Organisations.  
+
+ 
+
+Information Management
+
+ 
+
+Work with staff in the Data Analysis Section and the Planning Directorate to assist with the extraction, presentation, maintenance and interpretation of defence related data. 
+
+ 
+
+Expertise Development 
+
+ 
+
+Implement design specifications into functional websites and applications which incorporate data. Proactively develop skills in areas such as planning, organising, and the use of new technology. Liaise with others to leverage knowledge. 
+
+ 
+
+Perform any other related duty as assigned. 
+
+ 
+
+4.           INTERRELATIONSHIPS
+
+
+The incumbent reports to the Head, Data Analysis Section; co-operates with staff in the Data Analysis Section; maintains a close working relationship with the national delegations and, through them, with the national authorities responsible for defence planning; coordinates with staff in NATO HQ in technical support sections to ensure adherence to architecture and technical standards. 
+ 
+
+Direct reports: N/a 
+
+Indirect reports: N/a.
+
+ 
+
+5.          COMPETENCIES 
+ 
+
+The incumbent must demonstrate: 
+
+ 
+
+Analytical Thinking: Sees basic relationships;
+
+Achievement: Works to meet standards;
+
+Clarity and Accuracy: Checks own work;
+
+Conceptual Thinking: Sees patterns based on life/work experience;
+
+Customer Service Orientation: Takes personal responsibility for correcting problems;
+
+Empathy: Reads non-verbal cues and understands meanings;
+
+Impact and Influence: Takes multiple actions to persuade;
+
+Initiative: Is decisive in a time-sensitive situation;
+
+Teamwork: Co-operates.              
+
+ 
+
+6. CONTRACT:
+
+ 
+
+Contract to be offered to the successful applicant (if non-seconded): Definite duration contract of three years’ duration; possibility of an indefinite duration contract thereafter.
+
+ 
+
+Contract clause applicable:
+In accordance with the NATO Civilian Personnel Regulations, the successful candidate will receive a definite duration contract of three years, which may be followed by an indefinite duration contract.
+
+If the successful applicant is seconded from the national administration of one of NATO’s member States, a 3-year definite duration contract will be offered, which may be renewed for a further period of up to 3 years subject to the agreement of the national authority concerned. The maximum period of service in the post as a seconded staff member is six years.
+
+Serving staff will be offered a contract in accordance with the NATO Civilian Personnel Regulations.
+
+ 
+
+ 
+
+7. RECRUITMENT PROCESS:
+
+ 
+
+Please note that we can only accept applications from nationals of NATO member countries.
+
+Applications must be submitted using e-recruitment system, as applicable:
+
+For NATO civilian staff members only: please apply via the internal recruitment portal (for more information, please contact your local Civilian HR Manager);
+
+For all other applications: www.nato.int/recruitment
+
+Please note that at the time of the interviews, candidates will be asked to provide evidence of their education and professional experience as relevant for this vacancy.
+
+ 
+
+Appointment will be subject to receipt of a security clearance (provided by the national Authorities of the selected candidate) and approval of the candidate’s medical file by the NATO Medical Adviser.
+
+ 
+
+More information about the recruitment process and conditions of employment, can be found at our website (http://www.nato.int/cps/en/natolive/recruit-hq-e.htm)
+
+ 
+
+8. ADDITIONAL INFORMATION:
+
+ 
+
+NATO as employer values diverse backgrounds and perspectives and is committed to recruiting and retaining a diverse and talented workforce. NATO welcomes applications of nationals from all Member States and strongly encourages women to apply.
+
+Building Integrity is a key element of NATO’s core tasks. As an employer, NATO values commitment to the principles of integrity, transparency and accountability in accordance with international norms and practices established for the defence and related security sector. Selected candidates are expected to be role models of integrity, and to promote good governance through ongoing efforts in their work.
+
+Due to the broad interest in NATO and the large number of potential candidates, telephone or e-mail enquiries cannot be dealt with.
+
+Applicants who are not successful in this competition may be offered an appointment to another post of a similar nature, albeit at the same or a lower grade, provided they meet the necessary requirements.
+
+The nature of this position may require the staff member at times to be called upon to travel for work and/or to work outside normal office hours.
+
+The organization offers several work-life policies including Teleworking and Flexible Working arrangements (Flexitime) subject to business requirements.
+
+Please note that the International Staff at NATO Headquarters in Brussels, Belgium is a non-smoking environment.
+ 
+//--
+
+
+Prescreening
  
  
  
- 
+Pre-screening questions are specifically designed to help us further assess your qualifications for the position you are applying for. Please answer the following questions as accurately as possible.
+1.  What is the highest educational level you have obtained? . Required
+
+2.  In which area(s) have you obtained your degree(s)? . Required
+3.  How many years of professional experience do you have in developing Web Applications (front end and/or back end)? . Required
+
+4.  Referring to question 3, please mention two applications that you have developed. What were the technologies and languages used? (for front end, back end and database). Clearly specify your role. . Required
+5.  How many years of professional experience do you have in SQL programming? . Required
+
+6.  Referring to question 5, can you please elaborate on your experience? (max 150 words) . Required
+7.  Do you have experience in other areas of software development? (not included in questions 3 and 5) . Required
+8.  Do you have experience in database design and administration? . Required
+
+9.  Referring to question 8, can you please elaborate on your experience? (max 150 words) . Required
+10.  Do you have experience in unit testing? . Required
+
+11.  Please provide details on your experience in unit testing (languages, frameworks, tools used): . Required
+12.  Do you have experience in writing technical documentation? . Required
+
+13.  Referring to question 12, can you please elaborate on your experience? (max 150 words) . Required
+14.  Do you possess the following minimum levels of NATO’s official languages (English/French): V (“Advanced”) in one; I (“Beginner”) in the other? . Required
+
+15.  What is your level of aptitude in English?
+
+NATO Language levels are defined as follows:
+
+Proficiency: I am fluent and precise in my speaking and understanding of the language.
+
+Advanced: Although I speak and understand the language very well, I still have some problems with unfamiliar situations and vocabulary.
+
+Upper-Intermediate: I can communicate reasonably effectively but do not always understand what people say.
+
+Intermediate: I can speak and understand what people say in familiar situations but I have problems with complex grammar and vocabulary.
+
+Elementary: I can communicate simply when I am in familiar, everyday situations.
+
+Beginner: I can talk a little and understand people if they speak slowly and clearly. . Required
+
+16.  What is your level of aptitude in French?
+
+NATO Language levels are defined as follows:
+
+Proficiency: I am fluent and precise in my speaking and understanding of the language.
+
+Advanced: Although I speak and understand the language very well, I still have some problems with unfamiliar situations and vocabulary.
+
+Upper-Intermediate: I can communicate reasonably effectively but do not always understand what people say.
+
+Intermediate: I can speak and understand what people say in familiar situations but I have problems with complex grammar and vocabulary.
+
+Elementary: I can communicate simply when I am in familiar, everyday situations.
+
+Beginner: I can talk a little and understand people if they speak slowly and clearly. . Required
+
+17.  What is your motivation for applying for this specific post in the Defence Policy and Planning Division? . Required
+18.  Could you please elaborate on the skills you have which you believe that are important for this post? . Required
+
+  //----------------------
 
  SP_AMPowderThermalConductivityFactor
  
