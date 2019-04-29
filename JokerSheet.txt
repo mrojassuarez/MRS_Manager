@@ -2753,18 +2753,26 @@ Prescreening
  
 Pre-screening questions are specifically designed to help us further assess your qualifications for the position you are applying for. Please answer the following questions as accurately as possible.
 1.  What is the highest educational level you have obtained? . Required
-
+- Bachelor degree.
 2.  In which area(s) have you obtained your degree(s)? . Required
+- Computer sience.
 3.  How many years of professional experience do you have in developing Web Applications (front end and/or back end)? . Required
-
+- Around 4 years.
 4.  Referring to question 3, please mention two applications that you have developed. What were the technologies and languages used? (for front end, back end and database). Clearly specify your role. . Required
+- I started my career, developing an information system for business management in my first company. Using Java, JSP, JavaScript, HTML, Apache TomCat, SQL, MySQL, Batch. It was my end degree project so I was the designer, developer and I mantinanced it for next 4 years that I was working in that company.
 5.  How many years of professional experience do you have in SQL programming? . Required
+- 8 years.
 
 6.  Referring to question 5, can you please elaborate on your experience? (max 150 words) . Required
+
+
 7.  Do you have experience in other areas of software development? (not included in questions 3 and 5) . Required
 8.  Do you have experience in database design and administration? . Required
-
+- In design of small databases. Not in administration.
 9.  Referring to question 8, can you please elaborate on your experience? (max 150 words) . Required
+- I was more than 4 years desinging and developing a MySQL data base for the Web aplicattion described in 4.
+- I created a small database in SQL Server connected to a C# desktop application in my second company.
+- I was working during two years, mantinancing a very large Informix database in Accenture.
 10.  Do you have experience in unit testing? . Required
 
 11.  Please provide details on your experience in unit testing (languages, frameworks, tools used): . Required
@@ -2772,9 +2780,9 @@ Pre-screening questions are specifically designed to help us further assess your
 
 13.  Referring to question 12, can you please elaborate on your experience? (max 150 words) . Required
 14.  Do you possess the following minimum levels of NATO’s official languages (English/French): V (“Advanced”) in one; I (“Beginner”) in the other? . Required
-
+- Yes.
 15.  What is your level of aptitude in English?
-
+- Proficiency
 NATO Language levels are defined as follows:
 
 Proficiency: I am fluent and precise in my speaking and understanding of the language.
@@ -2790,7 +2798,7 @@ Elementary: I can communicate simply when I am in familiar, everyday situations.
 Beginner: I can talk a little and understand people if they speak slowly and clearly. . Required
 
 16.  What is your level of aptitude in French?
-
+- Intermediate
 NATO Language levels are defined as follows:
 
 Proficiency: I am fluent and precise in my speaking and understanding of the language.
