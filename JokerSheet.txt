@@ -2769,7 +2769,8 @@ Pre-screening questions are specifically designed to help us further assess your
 - Two years working in Informix database using 4GL language for database automatic processes.
 
 7.  Do you have experience in other areas of software development? (not included in questions 3 and 5) . Required
-***
+- Currently, I'm working for 5 years in a Simulation UI developed in C#, WPF, with MVVM architecture. Also, I'm working in a Agile Scrum enviroment.
+- I've got long experience programing in C++ under Windows.
 8.  Do you have experience in database design and administration? . Required
 - In design and develop small databases. Very few in administration.
 9.  Referring to question 8, can you please elaborate on your experience? (max 150 words) . Required
@@ -2779,11 +2780,11 @@ Pre-screening questions are specifically designed to help us further assess your
 10.  Do you have experience in unit testing? . Required
 - Yes.
 11.  Please provide details on your experience in unit testing (languages, frameworks, tools used): . Required
-***
+- I'm using .NET MSTest to execute all unit tests in Visual Studio. Currently I'm developing scripts in Jenkins conected to GitHub to automatize all the test process.
 12.  Do you have experience in writing technical documentation? . Required
 - Yes.
 13.  Referring to question 12, can you please elaborate on your experience? (max 150 words) . Required
-***
+- I write technical documentation, but only for engineering purpose.
 14.  Do you possess the following minimum levels of NATO’s official languages (English/French): V (“Advanced”) in one; I (“Beginner”) in the other? . Required
 - Yes.
 15.  What is your level of aptitude in English?
