@@ -2755,7 +2755,7 @@ Pre-screening questions are specifically designed to help us further assess your
 1.  What is the highest educational level you have obtained? . Required
 - Bachelor degree.
 2.  In which area(s) have you obtained your degree(s)? . Required
-- Computer sience.
+- Computer sciences.
 3.  How many years of professional experience do you have in developing Web Applications (front end and/or back end)? . Required
 - Around 4 years.
 4.  Referring to question 3, please mention two applications that you have developed. What were the technologies and languages used? (for front end, back end and database). Clearly specify your role. . Required
@@ -2780,7 +2780,7 @@ Pre-screening questions are specifically designed to help us further assess your
 10.  Do you have experience in unit testing? . Required
 - Yes.
 11.  Please provide details on your experience in unit testing (languages, frameworks, tools used): . Required
-- I'm using .NET MSTest to execute all unit tests in Visual Studio. Currently I'm developing scripts in Jenkins conected to GitHub to automatize all the test process.
+- I am using .NET MSTest to execute all unit tests in Visual Studio. Currently Iam developing scripts in Jenkins conected to GitHub to automatize all the test process.
 12.  Do you have experience in writing technical documentation? . Required
 - Yes.
 13.  Referring to question 12, can you please elaborate on your experience? (max 150 words) . Required
@@ -2820,9 +2820,9 @@ Elementary: I can communicate simply when I am in familiar, everyday situations.
 Beginner: I can talk a little and understand people if they speak slowly and clearly. . Required
 
 17.  What is your motivation for applying for this specific post in the Defence Policy and Planning Division? . Required
-***
+- First, to work in the defence sector heart . Second, to learn deeply ASP and be an expert in all .NET technologies. 
 18.  Could you please elaborate on the skills you have which you believe that are important for this post? . Required
-***
+- I have got a long experience in .NET technologies. I am problem-solving engineer. I am very good in team working environment (Agile). Also, I have got to work everyday with partners and clients like GE-Aviation or NASA, who demands a high-quality software.
 
   //----------------------
 
