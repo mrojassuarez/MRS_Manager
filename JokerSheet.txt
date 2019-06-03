@@ -3411,8 +3411,11 @@ API_Process.cs 320
 iAMBatch Debug:
 -n "C:\Users\212686427\Documents\Sources\FeaturesData\thermal.yml"
 -n "C:\Users\212686427\Documents\Sources\FeaturesData\issue_yml_test_cube\mat_removal.yml"
- 
-  
+
+-n "C:\Users\212686427\Documents\Virfac-iAM\Projects\3P\1_TH_Cube_20x20x10.yml"
+
+-i:"C:\Users\212686427\Documents\Virfac-iAM\Projects\3P\1_TH_Cube_20x20x10" -p:"1_TH_Cube_20x20x10.vfcam" -o:"C:\Users\212686427\Documents\Virfac-iAM\Projects\3P"
+
   <pre>
 <code class="java">
                         // Source change trigger 
@@ -3458,5 +3461,4 @@ C:\Users\212686427\Documents\Sources\MRS_Manager>"C:\Program Files\7-Zip\7z.exe"
 
 Usage: 7z <command> [<switches>...] <archive_name> [<file_names>...]
 10.75.33.18 github.com
-
 
