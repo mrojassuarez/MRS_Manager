@@ -3462,3 +3462,24 @@ C:\Users\212686427\Documents\Sources\MRS_Manager>"C:\Program Files\7-Zip\7z.exe"
 Usage: 7z <command> [<switches>...] <archive_name> [<file_names>...]
 10.75.33.18 github.com
 
+
+Object reference not set to an instance of an object.
+
+--- DEBUGGING INFORMATION (BEGIN)---
+   at System.Windows.Data.ListCollectionView.RestoreLiveShaping()
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+--- DEBUGGING INFORMATION (ENException thrown: 'System.NullReferenceException' in PresentationFramework.dll
+Exception thrown: 'System.NullReferenceException' in PresentationFramework.dll
+D)---
+Exception caught: Fatal error
+
+Object reference not set to an instance of an object.
+
+--- DEBUGGING INFORMATION (BEGIN)---
+   at System.Windows.Data.ListCollectionView.RestoreLiveShaping()
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+--- DEBUGGING INFORMATION (END)---
+Exception caught: Fatal error
+
