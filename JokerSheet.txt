@@ -3412,10 +3412,12 @@ iAMBatch Debug:
 -n "C:\Users\212686427\Documents\Sources\FeaturesData\thermal.yml"
 -n "C:\Users\212686427\Documents\Sources\FeaturesData\issue_yml_test_cube\mat_removal.yml"
 
+--> From YML file to Project:
 -n "C:\Users\212686427\Documents\Virfac-iAM\Projects\3P\1_TH_Cube_20x20x10.yml"
-
+<--
+--> From Project to YML file:
 -i:"C:\Users\212686427\Documents\Virfac-iAM\Projects\3P\1_TH_Cube_20x20x10" -p:"1_TH_Cube_20x20x10.vfcam" -o:"C:\Users\212686427\Documents\Virfac-iAM\Projects\3P"
-
+<--
   <pre>
 <code class="java">
                         // Source change trigger 
@@ -3482,4 +3484,6 @@ Object reference not set to an instance of an object.
    at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
 --- DEBUGGING INFORMATION (END)---
 Exception caught: Fatal error
+
+
 
