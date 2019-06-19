@@ -3418,6 +3418,10 @@ iAMBatch Debug:
 --> From Project to YML file:
 -i:"C:\Users\212686427\Documents\Virfac-iAM\Projects\3P\1_TH_Cube_20x20x10" -p:"1_TH_Cube_20x20x10.vfcam" -o:"C:\Users\212686427\Documents\Virfac-iAM\Projects\3P"
 <--
+
+#7063:
+-n "C:\Users\212686427\Documents\Virfac-iAM\API_Projects\7063_API\thermal.yml"
+
   <pre>
 <code class="java">
                         // Source change trigger 
