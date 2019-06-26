@@ -3420,7 +3420,16 @@ iAMBatch Debug:
 <--
 
 #7063:
--n "C:\Users\212686427\Documents\Virfac-iAM\API_Projects\7063_API\thermal.yml"
+-n "C:\Users\212686427\Documents\Virfac-iAM\API_Projects\pytest\thermal.yml"
+
+-i:"C:\Users\212686427\Documents\Virfac-iAM\API_Projects\7063_API\thermal" -p:"thermal.vfcam" -o:"C:\Users\212686427\Documents\Virfac-iAM\API_Projects\7063_API"
+
+
+#6998:
+-n "C:\Users\212686427\Documents\Virfac-iAM\API_Projects\pytest\thermal.yml"
+
+-i:"C:\Users\212686427\Documents\Virfac-iAM\API_Projects\6998\3_SR_Cube_20x20x10" -p:"3_SR_Cube_20x20x10.vfcam" -o:"C:\Users\212686427\Documents\Virfac-iAM\API_Projects\6998"
+
 
   <pre>
 <code class="java">
@@ -3490,4 +3499,8 @@ Object reference not set to an instance of an object.
 Exception caught: Fatal error
 
 
+Rue Longue 28
+4280 Hannut
+
+Time: 19:30
 
