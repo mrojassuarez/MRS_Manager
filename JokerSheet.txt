@@ -3930,3 +3930,4 @@ Rue Longue 28
 
 Time: 19:30
 
+https://data36.com/sql-interview-questions-tech-screening-data-analysts/
