@@ -3227,6 +3227,60 @@ Searching, seek and destroy
 
 
 
+
+
+
+
+
+
+
+
+J'ai accepté par erreur
+Ton invitation
+J'ai dû me gourer dans l'heure
+J'ai dû me planter dans la saison
+Si j'ai confondu
+Avec celle qui sourit pas
+Mais, celle qu'est belle bien entendu
+Et, qui dit belle dit pour moi
+Tu sais j'ai pas toute ma raison
+Si j'ai toujours raison
+Tu sais je suis pas un mec sympa
+Et je meurs tout ça, tout ça
+Tu sais j'ai pas confiance
+J'ai pas confiance en moi
+Tu sais j'ai pas d'espérance
+Et je meurs tout ça, tout ça
+Si tu veux on parle de toi
+Si tu veux on parle de moi
+Parlons de ta future vengeance que t'auras toi sur moi
+Disons entrecoupée de silence
+Qu'on est bien seul pour une fois
+Qu'on est bien parti pour une danse
+Ca ira pas plus loin tu vois
+J'ai accepté par erreur
+Ton invitation
+J'ai dû me gourer dans l'heure
+J'ai dû me planter dans la saison
+J'ai accepté par erreur
+Ton invitation
+J'ai dû me gourer dans l'heure
+J'ai dû me planter dans la saison
+Reste a savoir si on trace un trait, un point dans notre espace
+Si j'ai pas toute ma raison
+Si j'ai toujours raison
+Tu sais j'ai pas toute ma raison
+Si j'ai toujours raison
+Tu sais j'ai pas toute ma raison
+Si j'ai toujours raison
+Tu sais j'ai pas toute ma raison
+
+
+
+
+
+
+
         static public void SelectorConditions(AgentSelectorBaseVM selector)
         {
             selector.Conditions = Strings.WARN_SingleCadModel;
@@ -3434,6 +3488,8 @@ iAMBatch Debug:
 #7063:
 -n "C:\Users\212686427\Documents\Virfac-iAM\API_Projects\pytest\thermal.yml"
 
+-i:"C:\Users\212686427\Documents\Virfac-iAM\API_Projects\pytest\thermal" -p:"thermal.vfcam" -o:"C:\Users\212686427\Documents\Virfac-iAM\API_Projects\pytest"
+
 -i:"C:\Users\212686427\Documents\Virfac-iAM\API_Projects\7063_API\thermal" -p:"thermal.vfcam" -o:"C:\Users\212686427\Documents\Virfac-iAM\API_Projects\7063_API"
 
 
@@ -3531,12 +3587,5 @@ Object reference not set to an instance of an object.
 Exception caught: Fatal error
 
 
-We're the orphans from the holy land, the tears of Jerusalem
-And in darkness we have prayed and swore to rise up once again
-
-We are the sons of the blazing sun
-Sharing our faith through the barrel of a gun
-Walk on holy water yet we burn
-Brothers of the orient stand as one
 
 https://data36.com/sql-interview-questions-tech-screening-data-analysts/
