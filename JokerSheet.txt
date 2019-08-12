@@ -3589,3 +3589,6 @@ Exception caught: Fatal error
 
 
 https://data36.com/sql-interview-questions-tech-screening-data-analysts/
+
+OrientationOptimizerProcess
+
