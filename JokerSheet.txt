@@ -2826,9 +2826,285 @@ Beginner: I can talk a little and understand people if they speak slowly and cle
 
 //-------------------
   
+  Share 
+Job Description - Programmer (190710)
+ 
+Programmer-190710
+ 
+Primary Location Belgium-Mons
+NATO Body NATO Communications and Information Agency (NCI Agency)
+Schedule Full-time
+Salary (Pay Basis) : 4,379.27Euro (EUR) Monthly
+Grade B.5
+ 
+Description: 
+ 
+This is a position within the NATO Communications and Information Agency (NCI Agency), an organization of the North Atlantic Treaty Organization (NATO).
+
+ 
+
+The NCI Agency is made up of teams of dedicated people from 29 different nations who are technology experts in their chosen fields. Our collective role is to help protect the lives of 1 billion people and contribute to maintaining world peace.
+
+ 
+
+The NCI Agency is looking for a talented Programmer
+
+The JISR Service Line Chief is accountable for facilitating interoperability within the NATO JISR COI and with Nations. For planning and executing all lifecycle management within the activities for JISR services to include: strategy; policy; process and application/capability design; implementation; acquisition; transition; operation and improvement for JISR; Electronic Warfare (EW); Geospatial and Space COI Services; that includes subject matter expertise; research and development; software engineering; acquisition and service operations in the following areas, as defined in the C3 Technical Services Taxonomy: JISR Computation; JISR Information; EW ; Geospatial.
+
+The JISR Information Services Branch is responsible for the full lifecycle support of JISR capabilities and services including: ISR architectures, standards and processes; Intelligence tools and processes; ISR information sharing; JISR COI Applications (Direction, Collection, Processing, Dissemination); Modelling and Simulation COI Applications (JISR Specific); Intelligence Requirements Development Applications; Information Requirements Management Applications; Intelligence/Sensor Collection Planning, Monitoring and Management Applications; Intelligence/Sensor Data Exploitation and Analysis Applications; Intelligence/Sensor Data Dissemination Applications; Exercises, Training, Education and Evaluation (ETEE) COI Applications (JISR specific).
+
+ 
+
+Role Responsibilities
+
+Under the direction of Service Area Owner(s) and Service Manager(s), you will perform duties such as the following:
+
+Actively contribute to relevant projects or service operation across Service Lines where integration is required;
+
+Consult with the Intel Service team, assist in the development, testing and deployment of the new functionality requested by the user community;
+
+Extend organisation’s data with third party sources of information when needed;
+
+Enhance data collection procedures to include information that is relevant for building analytic systems;
+
+Process, cleanse, and verify the integrity of data used for analysis;
+
+Do ad-hoc analysis and present results in a clear manner;
+
+Support in-service operations of the system, including:
+
+Application services including support, administration and full lifecycle of the maintenance;
+
+Provision of subject matter expertise and advice as required.
+
+Contribute to the NCI Agency communication with end-users and operational sponsor(s);
+
+Deputize for higher grade staff, if required;
+
+Perform other duties as may be required.
+
+ 
+
+Person Specification
+
+We are looking for candidates with vocational training at higher level in a relevant discipline, or equivalent combination of qualifications and experience.
+
+ 
+
+Experience Required
+
+In addition to at least 8 years of experience in the duties related to the function of the post, we also require the following:
+
+Good knowledge of commonly used standards and best practices for software engineering, including design patterns;
+
+Good knowledge of international, commercial/industrial standards for information processing and transfer of information;
+
+Good knowledge and experience of ITIL IT service management model and software development methodology (e.g. Agile):
+
+Knowledge of Incident and Problem Management processes and experience in this area.
+
+Ability to communicate effectively orally and in writing with good briefing skills.
+
+Application management/development team work experience;
+
+Good knowledge and experience in:
+
+C#, HTML5 and modern JavaScript/TypeScript frameworks, Web Services, XML, SQL
+
+Good experience in administrating and maintaining Windows servers (2008, 2012, 2016)
+
+Good knowledge in Active Directory User management.
+
+ 
+
+The following will be considered as an advantage
+
+Expert knowledge of MVC, JavaScript (ExtJS or ReactJS), rich web applications and ASP.NET;
+
+Expertise in creating and configuring web solutions using out-of-the-box Sencha ExtJS features to meet customer requirements.
+
+Recent experience (within the past 5 years) in User Experience (UX) design, leveraging the latest technologies and features including mobile experience.
+
+Knowledge of LUA is not a pre-requisite, but would be a definite advantage;
+
+Experience with semantic search engines such as HPE IDOL, IBM Watson, etc.;
+
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.;
+
+Good scripting and programming skills;
+
+Knowledge and experience in:
+
+Application server technologies
+
+Multi-tiered, distributed systems
+
+Service-Oriented Architectures
+
+Relational data base management systems
+
+Web authoring, design and administration tools
+
+Knowledge of military and/or civilian logistic processes and/or applications.
+
+Analytical capability and knowledge of concepts and technologies in areas such as systems analysis, data fusion, decision-making and data processing.
+
+Prior experience of working in an international environment comprising both military and civilian elements;
+
+Knowledge of NATO responsibilities and organization, including Allied Command Operation (ACO) and Allied Command Transformation (ACT).
+
+ 
+
+Competencies Required
+
+We are looking for a person who demonstrates the following behavioural competencies:
+
+Delivering Results and Meeting Customer Expectations - Focuses on customer needs and satisfaction; sets high standards for quality and quantity; monitors and maintains quality and productivity; works in a systematic, methodical and orderly way; consistently achieves project goals;
+
+Working with People - Shows respect for the views and contributions of other team members; shows empathy; listens, supports and cares for others; consults others and shares information and expertise with them; builds team spirit and reconciles conflict; adapts to the team and fits in well;
+
+Presenting and Communicating Information - Speaks fluently; expresses opinions, information and key points of an argument clearly; makes presentations and undertakes public speaking with skill and confidence; responds quickly to the needs of an audience and to their reactions and feedback; projects credibility;
+
+Relating and Networking - Easily establishes good relationships with customers and staff; relates well to people at all levels; builds wide and effective networks of contacts; uses humour appropriately to bring warmth to relationships with others.
+
+ 
+
+Travel
+
+ 
+
+Business travel to NATO and national (NATO and non-NATO) facilities as well as frequent travel between the NCIA offices.
+
+May be required to undertake duty travel to operational theatres inside and outside NATO boundaries.
+
+The employee may be required to undertake deployments in support of military operations and exercises, and/or TDY assignments, both within and without NATO boundaries.  Such operational deployment may exceed 30 days duration up to 183 days in any period of 547 days, and may be on short notice.  For NATO International Civilian Staff, acceptance of an employment contract linked to this post constitutes agreement to deploy in excess of 30 days if required.
+
+ 
+
+Language Skills
+
+ 
+
+A thorough knowledge of one of the two NATO languages, both written and spoken, is essential and some knowledge of the other is desirable.
+
+NOTE:  Most of the work of the NCI Agency is conducted in the English language.
+
+ 
+
+Supervisory/Guidance Duties
+
+You will be required to give technical guidance to external contractors, NATO staff members, and members of NATO nations.
+
+Contract
+
+ 
+
+NCI Agency normally offers contracts of employment of a definite duration, not exceeding three years. Contracts may be for less than three years as required to support short-term projects, meet uncertainty with respect to the business outlook, staff performance and other factors.
+
+ 
+
+Definite duration contracts may be extended for further periods. When extending contracts, the following is taken into consideration:
+
+Renewal is in the interest of the Agency.
+Staff member's desire to remain with the Agency.
+The financial situation provides sufficient funding for the post held.
+The skills, competencies and behaviours, potential and work experience of the staff, versus the requirements of the Agency's work and/or availability of funding.
+Staff member has served the Agency with performance to the required standard as defined by the Agency,
+Staff member's deployability to operational theatre.
+Serving civilian members of NATO will be offered a contract in accordance with the NATO Civilian Personnel Regulations.
+
+ 
+
+The first six months of definite duration contracts are a probationary period. During this period, the staff member's work is assessed to ensure that he/she has the ability to carry out the duties of the post. At or before the end of the probationary period, the staff member will be notified in writing that the appointment is confirmed or terminated or, in exceptional cases, that the probationary period is extended.
+
+ 
+
+What do we offer?
+
+ 
+
+Excellent tax-free salary, including (where eligible) expatriation household and children's allowances and additional privileges for expatriate staff.
+
+Education allowance for children (where appropriate) and an excellent private health insurance scheme;
+Generous annual leave and home leave (if eligible).
+Retirement Pension Plan.
+ 
+
+To learn more about NCI Agency and our work, please visit our website.
+
+Please note: Due to the Agency’s transition into a new structure in the near future, this post may be subject to transfer to one of our other locations, as well as to a change of reporting lines. The final decision will be made at the time of a firm offer.
+
+The Agency’s recruitment team advises you that due to the large volume of applications it receives the screening process may take up to 2 months. 
+
+We appreciate your patience.
   
-  
-  
+//---
+
+
+Prescreening
+ 
+ 
+ 
+Pre-screening questions are specifically designed to help us further assess your qualifications for the position you are applying for. Please answer the following questions as accurately as possible.
+1.  What is your level of aptitude in English?
+
+NATO Language levels are defined as follows:
+
+Proficiency: I am fluent and precise in my speaking and understanding of the language.
+
+Advanced: Although I speak and understand the language very well, I still have some problems with unfamiliar situations and vocabulary.
+
+Upper-Intermediate: I can communicate reasonably effectively but do not always understand what people say.
+
+Intermediate: I can speak and understand what people say in familiar situations but I have problems with complex grammar and vocabulary.
+
+Elementary: I can communicate simply when I am in familiar, everyday situations.
+
+Beginner: I can talk a little and understand people if they speak slowly and clearly. . Required
+
+2.  What is the highest educational level you have obtained? . Required
+
+3.  How many years of relevant experience do you have? . Required
+ Less than 1 year
+ Between 1 and 3 years
+ Between 3 and 5 years
+ Between 5 and 8 years
+ Between 8 and 10 years
+ Over 10 years
+4.  Please indicate if you have experience of the following: . Required
+ Good knowledge of commonly used standards and best practices for software engineering, including design patterns
+ Good knowledge of international, commercial/industrial standards for information processing and transfer of information
+ Good knowledge and experience of ITIL IT service management model and software development methodology (e.g. Agile): Knowledge of Incident and Problem Management processes and experience in this area.
+ Ability to communicate effectively orally and in writing with good briefing skills
+ Application management/development team work experience
+ Good knowledge and experience in: C#, HTML5 and modern JavaScript/TypeScript frameworks, Web Services, XML, SQL
+ Good experience in administrating and maintaining Windows servers (2008, 2012, 2016)
+ Good knowledge in Active Directory User management.
+ None of the above
+5.  Please shortly describe how you meet the requirements of the job? What makes you the best candidate? . Required
+6.  Please indicate if you have any of the following: . Required
+ Expert knowledge of MVC, JavaScript (ExtJS or ReactJS), rich web applications and ASP.NET
+ Expertise in creating and configuring web solutions using out-of-the-box Sencha ExtJS features to meet customer requirements
+ Recent experience (within the past 5 years) in User Experience (UX) design, leveraging the latest technologies and features including mobile experience
+ Knowledge of LUA
+ Experience with semantic search engines such as HPE IDOL, IBM Watson, etc
+ Good applied statistics skills, such as distributions, statistical testing, regression, etc
+ Good scripting and programming skills
+ Application server technologies
+ Multi-tiered, distributed systems
+ Service-Oriented Architectures
+ Relational data base management systems
+ Web authoring, design and administration tools
+ Knowledge of military and/or civilian logistic processes and/or applications
+ Analytical capability and knowledge of concepts and technologies in areas such as systems analysis, data fusion, decision-making and data processing
+ Prior experience of working in an international environment comprising both military and civilian elements
+ Knowledge of NATO responsibilities and organization, including Allied Command Operation (ACO) and Allied Command Transformation (ACT)
+ None of the above
+7.  Please outline how you satisfy the personal competencies required for the post? . Required
+I have got more than ten years of experience working in different companies, environments, sectors and countries. So I know how to be flexible depending of the project necessity.
+Also I am working in an international environment, so I know how to have a diplomatic attitude inside a multicultural team.
+
+//---------------------------  
   
   
   
