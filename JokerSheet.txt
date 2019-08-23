@@ -3072,12 +3072,12 @@ Beginner: I can talk a little and understand people if they speak slowly and cle
  Between 8 and 10 years
  Over 10 years
 4.  Please indicate if you have experience of the following: . Required
- Good knowledge of commonly used standards and best practices for software engineering, including design patterns
+* Good knowledge of commonly used standards and best practices for software engineering, including design patterns
  Good knowledge of international, commercial/industrial standards for information processing and transfer of information
- Good knowledge and experience of ITIL IT service management model and software development methodology (e.g. Agile): Knowledge of Incident and Problem Management processes and experience in this area.
- Ability to communicate effectively orally and in writing with good briefing skills
- Application management/development team work experience
- Good knowledge and experience in: C#, HTML5 and modern JavaScript/TypeScript frameworks, Web Services, XML, SQL
+* Good knowledge and experience of ITIL IT service management model and software development methodology (e.g. Agile): Knowledge of Incident and Problem Management processes and experience in this area.
+* Ability to communicate effectively orally and in writing with good briefing skills
+* Application management/development team work experience
+* Good knowledge and experience in: C#, HTML5 and modern JavaScript/TypeScript frameworks, Web Services, XML, SQL
  Good experience in administrating and maintaining Windows servers (2008, 2012, 2016)
  Good knowledge in Active Directory User management.
  None of the above
