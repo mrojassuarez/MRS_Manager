@@ -3050,7 +3050,7 @@ Pre-screening questions are specifically designed to help us further assess your
 
 NATO Language levels are defined as follows:
 
-Proficiency: I am fluent and precise in my speaking and understanding of the language.
+* Proficiency: I am fluent and precise in my speaking and understanding of the language.
 
 Advanced: Although I speak and understand the language very well, I still have some problems with unfamiliar situations and vocabulary.
 
@@ -3063,14 +3063,14 @@ Elementary: I can communicate simply when I am in familiar, everyday situations.
 Beginner: I can talk a little and understand people if they speak slowly and clearly. . Required
 
 2.  What is the highest educational level you have obtained? . Required
-
+Bachelor
 3.  How many years of relevant experience do you have? . Required
  Less than 1 year
  Between 1 and 3 years
  Between 3 and 5 years
  Between 5 and 8 years
  Between 8 and 10 years
- Over 10 years
+* Over 10 years
 4.  Please indicate if you have experience of the following: . Required
 * Good knowledge of commonly used standards and best practices for software engineering, including design patterns
  Good knowledge of international, commercial/industrial standards for information processing and transfer of information
@@ -3082,21 +3082,22 @@ Beginner: I can talk a little and understand people if they speak slowly and cle
  Good knowledge in Active Directory User management.
  None of the above
 5.  Please shortly describe how you meet the requirements of the job? What makes you the best candidate? . Required
+* I have got a long experience in C#. I am problem-solving engineer. I am very good in team working environment (Agile). Also, I have got to work everyday with partners and clients like GE-Aviation or NASA, who demands a high-quality software.
 6.  Please indicate if you have any of the following: . Required
  Expert knowledge of MVC, JavaScript (ExtJS or ReactJS), rich web applications and ASP.NET
  Expertise in creating and configuring web solutions using out-of-the-box Sencha ExtJS features to meet customer requirements
  Recent experience (within the past 5 years) in User Experience (UX) design, leveraging the latest technologies and features including mobile experience
  Knowledge of LUA
  Experience with semantic search engines such as HPE IDOL, IBM Watson, etc
- Good applied statistics skills, such as distributions, statistical testing, regression, etc
- Good scripting and programming skills
+* Good applied statistics skills, such as distributions, statistical testing, regression, etc
+* Good scripting and programming skills
  Application server technologies
- Multi-tiered, distributed systems
- Service-Oriented Architectures
- Relational data base management systems
+* Multi-tiered, distributed systems
+* Service-Oriented Architectures
+* Relational data base management systems
  Web authoring, design and administration tools
  Knowledge of military and/or civilian logistic processes and/or applications
- Analytical capability and knowledge of concepts and technologies in areas such as systems analysis, data fusion, decision-making and data processing
+* Analytical capability and knowledge of concepts and technologies in areas such as systems analysis, data fusion, decision-making and data processing
  Prior experience of working in an international environment comprising both military and civilian elements
  Knowledge of NATO responsibilities and organization, including Allied Command Operation (ACO) and Allied Command Transformation (ACT)
  None of the above
