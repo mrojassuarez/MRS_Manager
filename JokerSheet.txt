@@ -3874,6 +3874,8 @@ C:\Users\212686427\Documents\ssh\ge_github.ppk
 
 
 
-
+Choose the range of rotation angles to be computed.
+Along each axis, 
+	Stop > Start and (Stop - Start) > Step
 
 
