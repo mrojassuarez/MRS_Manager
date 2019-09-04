@@ -3879,3 +3879,11 @@ Along each axis,
 	Stop > Start and (Stop - Start) > Step
 
 
+Err_BaseErrorMessage	{0}.
+({1}).	
+Err_AllParametersException	Error loading AllParameters	
+Err_BuildTimeQualityAnalysisException	Error creating BuildTimeQualityAnalysis object	
+Err_UpdateQualityException	Error executing UpdateQuality	
+
+Analysis execution stoped.
+{0}
