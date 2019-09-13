@@ -3108,11 +3108,176 @@ Also I am working in an international environment, so I know how to have a diplo
 //---------------------------  
   
   
+  SURVEILLANCE SOFTWARE ENGINEER
+Job ID: R0055839
+Location: Tubize, Wallonia, Belgium
+Full time, Regular Employment Location: Tubize, Belgium
+Thales people architect solutions at the heart of the defence-security continuum. Interoperable and secure information and telecommunications systems for defence, security, and civil operators, are based upon innovative use of radiocommunications, networks, and cybersecurity. We are ground breaking new digital technologies such as 4G mobile communications, cryptography, cloud computing and big data for use in physical protection systems, and critical information systems.
+
+Thales Belgium SA, Belgium competence center of Thales, is a company located on 2 sites, one in Tubize (near Brussels) and the other one in Herstal (near Liège). Thales Belgium, which employs more than 230 collaborators, is specialized in the design, development and supply of critical information systems for customers in the sectors of Defense, Security (including Cyber), Transport and Aerospace.
+
+For its activities, Thales Belgium SA (Tubize site) is looking for a:
+
+Surveillance Software Engineer
+
+Mission:
+
+You will be part of a of the Engineering team of the company.
+
+You will be performing your mission at the customer’s premises, i.e. Eurocontrol HQ located in Brussels. Eurocontrol is an intergovernmental organisation made of 41 countries in charge of managing the Air Traffic Management network within Europe. Eurocontrol is engaged in a digital transformation with the help of Thales Belgium. You will be part of a multinational team in charge of the development of the Surveillance Analysis Support System for Centre (SASS-C). SASS-C system is made of two main functions:
+
+Surveillance Infrastructure Performance PREDICTion, 400K lines of java code
+Surveillance Infrastructure Performance VERIFication, 1M lines of C++/shell code and 300K lines of java code
+VERIFication is made of multiple C++/shell components:
+
+IRIS reads file or listen network, decode the surveillance data, mainly ASTERIX format, and import it into a MySQL database
+OTR heavily exploits Kalman theory to reconstruct reference trajectories
+CMP estimates basic information for performance assessment by comparing input to reconstructed reference
+REPort aggregates those basic information into performance figures and generates textual reports
+DISPlay is a GIS based visualisation system to investigate the raw data, the reconstructed data, the estimated data and to analyse them.
+The working language is English, French is an asset. The work will be performed at the Eurocontrol premises in Brussels.
+
+Main Responsibilities:
+
+You will be responsible for the evolutive and corrective maintenance of the C++/shell part of VERIFication.
+
+The aimed working approach is:
+
+to understand the piece of software in relation to a reported issue or a requested improvement thanks to the available documentation and the source code itself;
+to identify the documentation gaps and to help at filling them, in particular with the implemented business/technical logic;
+to design and implement the software change;
+to update the documentation;
+to develop test for it;
+The work is done in close cooperation with team members who have strong domain and/or software competence for an efficient good software quality target proceeding.
+
+Our future colleague shall have/be:
+
+Engineering degree supported by a technical master degree (physics, engineering, computer science).
+Strong C++ source code read and write skills.
+Experience in programming on Linux environment.
+Good team member.
+Experience as a programmer with strong engineering/scientific mind set.
+Following competence/experience being an asset:
+
+ATM surveillance data (RADAR, MLAT, ADS-B, TRACKER) assessment experience
+Surveillance data reconstruction algorithm experience
+Kalman filtering knowledge
+Abilities with regards to coordinate transformations
+Experience with SASS-C VERIFication V8 and better its internal working
+The knowledge or at least a strong interest for the aviation domain is a clear advantage/asset.
+
+Required abilities
+
+Stress resistant, autonomy, sense of initiative
+Versatility and flexibility
+Customer driven and quality oriented
+Interdisciplinary and creative, end-to-end commitment, focused and persistent
+Team player, listening and communication skills, English proficiency mandatory
+-----
+
+If you are looking for:
+
+The solidity of a large Group
+The agility of a human-sized structure
+A company which at the forefront of innovation
+An environment that fosters personnel development of all collaborators and offers opportunities for evolution within an international group;
+If you defend values such as company spirit, sense of responsibility, ethics, creativity and teamwork;
+
+Thales Belgium can be your partner.
+
+At Thales we provide CAREERS and not only jobs. With Thales employing 65,000 employees in 56 countries our mobility policy enables thousands of employees each year to develop their careers at home and abroad, in their existing areas of expertise or by branching out into new fields. Together we believe that embracing flexibility is a smarter way of working. Great journeys start here, apply now!
   
+ //-------- 
   
-  
-  
-  
+  SOFTWARE (GIS) DEVELOPER
+Job ID: R0045737
+Location: Tubize, Wallonia, Belgium
+Full time, Regular Employment Location: Tubize, Belgium
+In fast changing markets, customers worldwide rely on Thales. Thales is a business where brilliant people from all over the world come together to share ideas and inspire each other. In aerospace, transportation, defence, security and space, our achitects design innovative solutions that make our tomorrow's possible.
+
+Thales Belgium SA, Belgium competence center of Thales, is a company located on 2 sites, one in Tubize (near Brussels) and the other one in Herstal (near Liège). Thales Belgium, which employs more than 230 collaborators, is specialized in the design, development and supply of critical information systems for customers in the sectors of Defense, Security (including Cyber), Transport and Aerospace.
+
+For its activities, Thales Belgium SA (Tubize site) is looking for a :
+
+Software (GIS) Developer
+
+Mission:
+
+You will be part of the Engineering team of the company.
+
+You will be performing your mission at the customer’s premises, i.e. Eurocontrol HQ located in Brussels. Eurocontrol is an intergovernmental organisation made of 41 countries in charge of managing the Air Traffic Management network within Europe. Eurocontrol is engaged in a digital transformation with the help of Thales Belgium. You will be part of a multinational team developing the software functions of the ATM network manager. The working language is English, French is an asset.
+
+Main Responsibilities & Profile :
+
+The following qualifications shall be provided by the Software candidate:
+
+a) A formal bachelor degree or higher in Software Engineering. In case this is not available, the equivalent through professional experience and professional training, is possible with approval from EUROCONTROL,
+
+b) Very good analytical and problem solving skills,
+
+c) Convinced of the importance of integrating automatic regression tests as part of the coding activities,
+
+d) Good team member,
+
+e) Experience in using software configuration and change management processes and tools,
+
+f) Experience with OO design and development techniques,
+
+g) Experience with Agile development methodologies,
+
+h) Quality minded,
+
+i) Ability to write/contribute to design documents,
+
+j) Ability to work under tight schedules and pressure.
+
+The following qualification may optionally be requested:
+
+a) Experience on the provision of 24/7 on call services to production environment,
+
+b) Ability to provide 24/7 or 15/7 on-call service.
+
+In addition, the profile shall comprise the following skills:
+
+Experience with software design of high availability systems
+Experience in design of user-friendly user interfaces, usability-minded design skills
+Experience in developments with GIS (Geographic Information System) software in a Java environment for Swing and for web applications (WMS, WFS)
+Experience in web based map applications (WMS, WFS), and interactive map applications over the web
+Experience of developments with LuciadLightspeed and LuciadRia
+Good knowledge of geometrical systems
+Experience in GIS libraries other than LuciadLightspeed and LuciadRia
+Experience with the development of software layers using communication protocols
+Experience with open source tools based on Java technology and Java IDE like Eclipse or IntelliJ IDEA
+Experience with JUnit and profiling tools
+Unix or Linux, including knowledge of a scripting language such as , Bash, Korn-shell
+Knowledge of code generation (experience on code generation techniques/tools based on formal models)
+Java programming skills (from 1 to 6 Years)
+Ability to work on complex systems
+NM business knowledge
+Very good algorithmic thinking skills
+Ability to absorb large amounts of complex information (being able to work on and maintain a huge code base)
+Required abilities
+
+Stress resistant, autonomy, sense of initiative
+Versatility and flexibility
+Customer driven and quality oriented
+Interdisciplinary and creative, end-to-end commitment, focused and persistent
+Team player, listening and communication skills, English proficiency mandatory
+-----
+
+If you are looking for:
+
+The solidity of a large Group
+The agility of a human-sized structure
+A company which at the forefront of innovation
+An environment that fosters personnel development of all collaborators and offers opportunities for evolution within an international group;
+If you defend values such as company spirit, sense of responsibility, ethics, creativity and teamwork;
+
+Thales Belgium can be your partner.
+
+At Thales we provide CAREERS and not only jobs. With Thales employing 65,000 employees in 56 countries our mobility policy enables thousands of employees each year to develop their careers at home and abroad, in their existing areas of expertise or by branching out into new fields. Together we believe that embracing flexibility is a smarter way of working. Great journeys start here, apply now!
+
+//--------------
   
   
  SP_AMPowderThermalConductivityFactor
