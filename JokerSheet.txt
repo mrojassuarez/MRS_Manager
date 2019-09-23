@@ -4052,3 +4052,6 @@ Err_UpdateQualityException	Error executing UpdateQuality
 
 Analysis execution stoped.
 {0}
+
+
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/94031a03-3118-4f68-bc5a-e162ecf869be/how-to-define-writablebitmap-as-image-source-in-xaml?forum=wpf
