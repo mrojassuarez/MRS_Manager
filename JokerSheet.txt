@@ -4304,6 +4304,7 @@ git push -u origin +master_MatMngr
 
 Jsol#2018
 Jsol%2019
+Deltoya14
 
 New solution:
 - If the user is importing a material with the same Id than another in the Materials Manager, then Virfac clone the new material with a new Id and a new name (example: Material_Imported_X).
@@ -4408,6 +4409,7 @@ iAMBatch Debug:
 -n "C:\Users\212686427\Documents\Virfac-iAM\API_Projects\7082_10\test_cube_w_support\mechanical.yml"
 
 
+        Octree_MinimumAdditionalShapeFactorMechanical: 0.1
 
 Block_ss_8x4x2.stl_Grp_1.stl_Grp_1
 Block_ss_8x4x2.stl_Grp_1
