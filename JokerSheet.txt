@@ -4523,3 +4523,11 @@ def rgb(minimum, maximum, value):
     return r, g, b
 
 	"$(SIGNTOOL)" sign /f "$(VIRFAC_CONTRIB)\Certificats\GEONX_SA.pfx" /p virfac!2019  /v /ac "$(VIRFAC_CONTRIB)\Certificats\MSCV-VSClass3.cer" /n "GEONX SA"  /fd sha256 /tr http://timestamp.digicert.com    "$(VIRFAC_CONTRIB)\..\InstallerExternal\sources\Barracuda_1_8_0_0\bin\barracuda.exe"</PreBuildEvent>
+	
+	---BOLTS---
+ Name: UnilateralBCBottom
+  Type: Unilateral
+  Coeff_Penalty: 100.
+  Component_Size: 3
+  Field: Displacement
+  CellAndFaceFilter: bp_bottom
