@@ -4413,9 +4413,9 @@ iAMBatch Debug:
 
 -i:"C:\Users\212686427\Documents\Virfac-iAM\API_Projects\Bolts\YPVJZ-689_mechanical" 
 -p:"YPVJZ-689_mechanical.vfcam" 
--o:"C:\Users\212686427\Documents\Virfac-iAM\API_Projects\Bolts\YPVJZ-689_mechanical_YAML"
+-o:"C:\Users\212686427\Documents\Virfac-iAM\API_Projects\Bolts"
 
--n "C:\Users\212686427\Documents\Virfac-iAM\API_Projects\7082_10\test_cube_w_support\mechanical.yml"
+-n "C:\Users\212686427\Documents\Virfac-iAM\API_Projects\Bolts\YPVJZ-689_mechanical\YPVJZ-689_mechanical.vfcam"
 
         Octree_MinimumAdditionalShapeFactorMechanical: 0.1
 
@@ -4539,5 +4539,4 @@ def rgb(minimum, maximum, value):
   Component_Size: 3
   Field: Displacement
   CellAndFaceFilter: bp_bottom
-
 
