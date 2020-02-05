@@ -4411,11 +4411,11 @@ iAMBatch Debug:
 
 #Bolts API
 
--i:"C:\Users\212686427\Documents\Virfac-iAM\API_Projects\Bolts\YPVJZ-689_mechanical" 
--p:"YPVJZ-689_mechanical.vfcam" 
+-i:"C:\Users\212686427\Documents\Virfac-iAM\API_Projects\Bolts\YPVJZ-689_mechanical_original" 
+-p:"YPVJZ-689_mechanical_original.vfcam" 
 -o:"C:\Users\212686427\Documents\Virfac-iAM\API_Projects\Bolts"
 
--n "C:\Users\212686427\Documents\Virfac-iAM\API_Projects\Bolts\YPVJZ-689_mechanical.yml"
+-n "C:\Users\212686427\Documents\Virfac-iAM\API_Projects\Bolts\YPVJZ-689_mechanical_original.yml"
 
         Octree_MinimumAdditionalShapeFactorMechanical: 0.1
 
