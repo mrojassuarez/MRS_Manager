@@ -4543,16 +4543,3 @@ def rgb(minimum, maximum, value):
 
 
 Z:\2_WORK\8_GE_AVIATION_TEST_CASES\2_PARTS\HEX_Coupons\Pin_Hex\ADDT002749_1.x_t
-
-
-
-
-
-
-
-
-https://www.youtube.com/watch?v=sv3Q5UAHANc
-
-
-
-
